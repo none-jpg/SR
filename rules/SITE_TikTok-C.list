@@ -1,0 +1,6 @@
+DOMAIN-KEYWORD,capcut
+DOMAIN-KEYWORD,musical.ly
+DOMAIN-KEYWORD,tiktok
+DOMAIN-KEYWORD,tiktokcdn
+USER-AGENT,TikTok*
+PROCESS-NAME,com.zhiliaoapp.musically

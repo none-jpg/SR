@@ -1,0 +1,6 @@
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+DOMAIN-KEYWORD,dualstack.apiproxy-
+DOMAIN-KEYWORD,dualstack.ichnaea-web-
+DOMAIN-KEYWORD,netflixdnstest
+USER-AGENT,Argo*
+PROCESS-NAME,com.netflix.mediaclient

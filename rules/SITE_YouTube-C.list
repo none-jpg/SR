@@ -1,0 +1,8 @@
+DOMAIN-KEYWORD,youtube
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,*youtube*
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,YouTube*
+USER-AGENT,YouTubeMusic*
