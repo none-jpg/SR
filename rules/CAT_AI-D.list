@@ -9,6 +9,7 @@
 .meta.ai
 .claude.ai
 .jasper.ai
+.openrouter.ai
 .openart.ai
 .x.ai
 .pplx.ai
@@ -56,6 +57,8 @@ static.cloudflareinsights.com
 .identrust.com
 .launchdarkly.com
 pplx-res.cloudinary.com
+.huggingface.co
+.hf.co
 .clipdrop.co
 .intercom.io
 .segment.io
