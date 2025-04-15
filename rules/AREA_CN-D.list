@@ -72,6 +72,7 @@
 .jutongbao.online
 .local-ip.online
 .wss.zone
+.mingxuan.store
 .chinaplay.store
 .cf-ns.site
 .cloud-industry-delivery.site
@@ -170,6 +171,7 @@
 .goto-game.mobi
 .aamgame.mobi
 .oppo.mobi
+.htjsq.mobi
 .hwclouds.mobi
 .xunyou.mobi
 .chunyu.mobi
@@ -250,7 +252,9 @@
 .xingtan001.com
 .kaixin001.com
 .volcddos001.com
+.et001.com
 .got001.com
+.biubiu001.com
 .kaopu001.com
 .zmz001.com
 .cdnhwczxh101.com
@@ -1546,6 +1550,7 @@ media.cdn.queniuqe.com
 .xundupdf.com
 .huaweiief.com
 .founderff.com
+.lorhf.com
 .53kf.com
 .qiyukf.com
 .163qiyukf.com
@@ -1756,6 +1761,7 @@ media.cdn.queniuqe.com
 .aichaoxing.com
 .dingdachuxing.com
 .didichuxing.com
+.liuxing.com
 .51jingying.com
 .clouddongying.com
 .joying.com
@@ -1887,6 +1893,7 @@ media.cdn.queniuqe.com
 .guaiguai.com
 .benghuai.com
 .360kuai.com
+.ggkuai.com
 .sankuai.com
 .henkuai.com
 .xhaiwai.com
@@ -1976,6 +1983,7 @@ media.cdn.queniuqe.com
 .nuomi.com
 .cignacmb-ipmi.com
 .jdcloud-api.com
+.et-api.com
 .4399api.com
 .bestincapi.com
 .ecombdapi.com
@@ -2680,6 +2688,7 @@ ocsp.globalsign.com
 .veryzhun.com
 .xueyuanjun.com
 .tuwanjun.com
+.yuelun.com
 .alikunlun.com
 .arpun.com
 .hupun.com
@@ -2948,6 +2957,7 @@ www.libvideo.com
 .cdntip.com
 .spcdntip.com
 .tcdntip.com
+.benfuip.com
 .qingzhouip.com
 .bio-equip.com
 .vip.com
@@ -3041,6 +3051,10 @@ www.libvideo.com
 .qq.com
 .imqq.com
 .sllssrq.com
+.gijsq.com
+.funjsq.com
+.oojsq.com
+.htjsq.com
 .lanzouq.com
 .zsxq.com
 .hangzhouyq.com
@@ -3661,6 +3675,7 @@ dl.ubnt.com
 .xishanju.com
 .4399wanju.com
 .gzwanju.com
+.guaiku.com
 .qiku.com
 .yuantiku.com
 .soku.com
@@ -3732,6 +3747,10 @@ dl.ubnt.com
 .cloudshenfuxingqu.com
 .163jiasu.com
 .dadajiasu.com
+.3dmjiasu.com
+.fnjiasu.com
+.yebaojiasu.com
+.lxjiasu.com
 .wangsu.com
 .toutiaojisu.com
 .ttjisu.com
@@ -3887,6 +3906,7 @@ dl.ubnt.com
 .sczsxx.com
 .3yx.com
 .xiayx.com
+.fhyx.com
 .360zhyx.com
 .wanyx.com
 .sjwyx.com
@@ -3920,6 +3940,7 @@ dl.ubnt.com
 .vdolady.com
 .onlylady.com
 .ffbuddy.com
+.akspeedy.com
 .southmoney.com
 .eastmoney.com
 .yunify.com
@@ -4094,6 +4115,7 @@ gstore.val.manlaxy.com
 .ddurl.to
 .lwurl.to
 .apollo.auto
+.kk1.vip
 .druid.vip
 .cloudsite.vip
 .coolsite.vip

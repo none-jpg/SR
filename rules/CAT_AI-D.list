@@ -8,8 +8,10 @@
 .cursor.sh
 .meta.ai
 .claude.ai
+.mistral.ai
 .jasper.ai
 .openrouter.ai
+.chutes.ai
 .openart.ai
 .x.ai
 .pplx.ai
