@@ -3,6 +3,7 @@
 .host.livekit.cloud
 .deepmind.google
 .generativeai.google
+.gemini.google
 .notebooklm.google
 .featuregates.org
 .cursor.sh
