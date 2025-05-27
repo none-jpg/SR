@@ -48,6 +48,7 @@
 .citic
 .xn--55qx5d
 .me1.ltd
+.du8.ltd
 .cmf.ltd
 .tebiefuza.cloud
 .vestack.cloud
@@ -1005,6 +1006,7 @@ cn.download.nvidia.com
 .alibaba-inc.com
 .netease-inc.com
 .dingxiang-inc.com
+.shizhuang-inc.com
 .jushuitan-inc.com
 .renren-inc.com
 .aliyun-inc.com
@@ -1014,6 +1016,7 @@ cn.download.nvidia.com
 .best-inc.com
 .sohu-inc.com
 .sogou-inc.com
+.dewu-inc.com
 .4399inc.com
 .xiaomiinc.com
 .360doc.com
@@ -1086,7 +1089,9 @@ cn.download.nvidia.com
 .larsonlimited.com
 .edge-byted.com
 .alibabaued.com
+.dwhhd.com
 .zhuihd.com
+.dewuhd.com
 .yhd.com
 .gogokid.com
 .kugoukid.com
@@ -2012,6 +2017,7 @@ media.cdn.queniuqe.com
 .fanli.com
 .kunlunli.com
 .lianzhuli.com
+.pandarzli.com
 .mi.com
 .xiami.com
 .guoxuemi.com
@@ -2079,7 +2085,9 @@ media.cdn.queniuqe.com
 .cloudhengshui.com
 .cloudlishui.com
 .qishui.com
+.dewuyouhui.com
 .jiasuhui.com
+.dewuhui.com
 .hnyuyuhui.com
 .miui.com
 .lanzoui.com
@@ -2276,6 +2284,7 @@ media.cdn.queniuqe.com
 .tmall.com
 .qcloud-edumall.com
 .pupumall.com
+.dewumall.com
 .vmall.com
 .fcboxmall.com
 i.dell.com
@@ -2633,6 +2642,7 @@ www.layuicdn.com
 .qikucdn.com
 .sogoucdn.com
 .hupucdn.com
+.dewucdn.com
 .qingfuwucdn.com
 .letvcdn.com
 .bestvcdn.com
@@ -2727,6 +2737,7 @@ ocsp.globalsign.com
 .realcybertron.com
 .sojson.com
 .images-amazon.com
+.poizon.com
 .bdmozon.com
 .ganjiangvpn.com
 .koolearn.com
@@ -3064,6 +3075,7 @@ www.libvideo.com
 .lenovonetapp.com
 .800bestapp.com
 .duapp.com
+.theduapp.com
 .baiduapp.com
 .lanhuapp.com
 .feishuapp.com
@@ -3191,6 +3203,8 @@ www.libvideo.com
 .zealer.com
 .sgamer.com
 .camscanner.com
+.poizon-inner.com
+.dewu-inner.com
 .volcpartner.com
 .fangxiaoer.com
 .liuxiaoer.com
@@ -3636,6 +3650,7 @@ dl.ubnt.com
 .anticheatexpert.com
 .pphimalayanrt.com
 .cecport.com
+.poizon-support.com
 .cftsupport.com
 .cmpassport.com
 .saraba1st.com
@@ -3835,6 +3850,7 @@ dl.ubnt.com
 .lanzouu.com
 .vzuu.com
 .dewu.com
+.pengyoudewu.com
 .caijingwu.com
 .114piaowu.com
 .qingfuwu.com
@@ -3897,6 +3913,8 @@ dl.ubnt.com
 .zhcw.com
 .zgzcw.com
 .nzbdw.com
+.womendedw.com
+.giftatdw.com
 .csbew.com
 .ttwebview.com
 .vestack-preview.com
@@ -3980,6 +3998,7 @@ dl.ubnt.com
 .cwxzx.com
 .shanbay.com
 .dongguantoday.com
+.giftattoday.com
 .eastday.com
 .bjcathay.com
 .dandanplay.com
@@ -4122,6 +4141,8 @@ gstore.val.manlaxy.com
 .openapp.run
 .lx.run
 .taobao
+.dw2.co
+.dw4.co
 .agoralab.co
 .youke.co
 .biligame.co
@@ -4137,6 +4158,7 @@ gstore.val.manlaxy.com
 .biliintl.co
 .a-map.co
 .yyds.co
+.dewu.co
 .fofa.info
 .ucgslb.info
 .ugslb.info
@@ -4315,6 +4337,7 @@ gstore.val.manlaxy.com
 .jcloudstatic.net
 .netstatic.net
 .bytetstatic.net
+.shizhuang-inc.net
 .xiaomiinc.net
 .vcloudstc.net
 .jjwxc.net
@@ -4539,6 +4562,7 @@ time.izatcloud.net
 .chinatranslation.net
 .playstation.net
 .teambition.net
+.poizon.net
 .tongdun.net
 .acfun.net
 .alikunlun.net
@@ -4594,6 +4618,8 @@ time.izatcloud.net
 .heweather.net
 .qweather.net
 .haier.net
+.poizon-inner.net
+.dewu-inner.net
 .fedlearner.net
 .volcpartner.net
 .thinkprinter.net
@@ -4669,6 +4695,7 @@ time.izatcloud.net
 .360sou.net
 .haosou.net
 .wuyou.net
+.dewu.net
 .amemv.net
 .cibntv.net
 .polyv.net
