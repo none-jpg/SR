@@ -4636,6 +4636,7 @@ DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,beatbd.com
 DOMAIN-SUFFIX,sb-cd.com
 DOMAIN-SUFFIX,iphone-cd.com
+DOMAIN-SUFFIX,xkcd.com
 DOMAIN-SUFFIX,mcd.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,fucd.com
@@ -5796,6 +5797,7 @@ DOMAIN-SUFFIX,unmineable.com
 DOMAIN-SUFFIX,streamable.com
 DOMAIN-SUFFIX,opentable.com
 DOMAIN-SUFFIX,quotable.com
+DOMAIN-SUFFIX,airtable.com
 DOMAIN-SUFFIX,babble.com
 DOMAIN-SUFFIX,reabble.com
 DOMAIN-SUFFIX,dribbble.com
@@ -10984,6 +10986,7 @@ DOMAIN-SUFFIX,hketgroup.com
 DOMAIN-SUFFIX,economistgroup.com
 DOMAIN-SUFFIX,bmwgroup.com
 DOMAIN-SUFFIX,ebaygroup.com
+DOMAIN-SUFFIX,techpowerup.com
 DOMAIN-SUFFIX,meetup.com
 DOMAIN-SUFFIX,icloudsetup.com
 DOMAIN-SUFFIX,vagrantup.com
@@ -14245,6 +14248,7 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,1passwordusercontent.com
 DOMAIN-SUFFIX,zdusercontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,airtableusercontent.com
 DOMAIN-SUFFIX,kaggleusercontent.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,oaiusercontent.com
