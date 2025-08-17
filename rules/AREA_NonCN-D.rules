@@ -479,6 +479,7 @@ DOMAIN-SUFFIX,office
 DOMAIN-SUFFIX,metalpha.finance
 DOMAIN-SUFFIX,maple.finance
 DOMAIN-SUFFIX,clearpool.finance
+DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,solv.finance
 DOMAIN-SUFFIX,de
 DOMAIN-SUFFIX,opensource.guide
@@ -1522,6 +1523,7 @@ DOMAIN-SUFFIX,darktech.org
 DOMAIN-SUFFIX,teachparentstech.org
 DOMAIN-SUFFIX,edu-research.org
 DOMAIN-SUFFIX,laogairesearch.org
+DOMAIN-SUFFIX,pewresearch.org
 DOMAIN-SUFFIX,botorch.org
 DOMAIN-SUFFIX,pytorch.org
 DOMAIN-SUFFIX,hkchurch.org
@@ -2113,6 +2115,7 @@ DOMAIN-SUFFIX,geeksquadservices.org
 DOMAIN-SUFFIX,paypalinsuranceservices.org
 DOMAIN-SUFFIX,elifesciences.org
 DOMAIN-SUFFIX,aimsciences.org
+DOMAIN-SUFFIX,privacyguides.org
 DOMAIN-SUFFIX,onlynudes.org
 DOMAIN-SUFFIX,golden-ages.org
 DOMAIN-SUFFIX,postimages.org
