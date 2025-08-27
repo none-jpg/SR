@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -16,5 +17,6 @@ DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN,ai.google.dev

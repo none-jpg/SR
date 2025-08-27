@@ -218,6 +218,7 @@ practivate.adobe.newoa
 .66xing.cc
 .qysg.cc
 .wretch.cc
+.saasexch.cc
 .21heise360dh.cc
 .thdh.cc
 .qattdh.cc
@@ -369,6 +370,7 @@ practivate.adobe.newoa
 .huobi.sc
 .fuck.sc
 .intel.sc
+.dell.sc
 .tc
 .vc
 .google.ad
@@ -376,6 +378,7 @@ practivate.adobe.newoa
 .dodi-repacks.download
 .bd
 .google.cd
+.dell.cd
 .yahoo.cd
 .mcd
 .sexhub.red
@@ -421,6 +424,7 @@ practivate.adobe.newoa
 .gateway.pinata.cloud
 .1lib.cloud
 .zind.cloud
+.soundcloud.cloud
 .binance.cloud
 .longbridge.cloud
 .renzhe.cloud
@@ -443,6 +447,7 @@ practivate.adobe.newoa
 .host.livekit.cloud
 .mdn.mozit.cloud
 .paofu.cloud
+.yandex.cloud
 .ipfs-gateway.cloud
 .misskey.cloud
 .xn--flw351e
@@ -657,7 +662,6 @@ rss.littlebaby.life
 .xiaolan.me
 .nytcn.me
 .vk-cdn.me
-.dnvodcdn.me
 .dyncdn.me
 .mycdn.me
 .cloudn.me
@@ -778,6 +782,7 @@ hub.slarker.me
 .showtime
 .chrome
 .ne
+.copy2000.online
 .porn300.online
 .567321.online
 .54647.online
@@ -2664,6 +2669,7 @@ mdn.mozillademos.org
 .intel.ai
 .visa.com.ai
 .google.com.ai
+.dell.com.ai
 .yahoo.com.ai
 .dailym.ai
 .jan.ai
@@ -2962,6 +2968,7 @@ mdn.mozillademos.org
 .want520.com
 .jiyou520.com
 licdn.cn.cdn20.com
+.copy20.com
 .c0930.com
 .h0930.com
 .facebook30.com
@@ -3645,6 +3652,7 @@ licdn.cn.cdn20.com
 .directvatlantaga.com
 .imgmega.com
 .dialga.com
+.copy-manga.com
 .hentai4manga.com
 .nukemanga.com
 .18hmanga.com
@@ -4196,6 +4204,7 @@ vsmarketplacebadge.apphb.com
 .avjb.com
 .666kb.com
 .slackb.com
+.byteglb.com
 .steam.eca.qtlglb.com
 .steam.apac.qtlglb.com
 .steam.naeu.qtlglb.com
@@ -4490,6 +4499,7 @@ vsmarketplacebadge.apphb.com
 .rbplc.com
 .amc.com
 .emc.com
+.dellemc.com
 .shinhangmc.com
 .amuletmc.com
 .vmwarevmc.com
@@ -4846,6 +4856,7 @@ i.jeded.com
 .sarennasworld.com
 .hotladsworld.com
 .desiraesworld.com
+.delltechnologiesworld.com
 .chloesworld.com
 .nfsworld.com
 .crystalgunnsworld.com
@@ -4888,7 +4899,6 @@ i.jeded.com
 .vimeoondemand.com
 .plansondemand.com
 .bridgestone-brand.com
-.dell-brand.com
 .instagram-brand.com
 .cnnikebrand.com
 .facebookbrand.com
@@ -5012,6 +5022,8 @@ i.jeded.com
 .applemx-icloud.com
 .icloud.com
 .hentaicloud.com
+.as-south-0.myhuaweicloud.com
+.na-east-0.myhuaweicloud.com
 .eu-west-0.myhuaweicloud.com
 .ae-ad-1.myhuaweicloud.com
 .af-north-1.myhuaweicloud.com
@@ -5020,16 +5032,38 @@ i.jeded.com
 .na-mexico-1.myhuaweicloud.com
 .my-kualalumpur-1.myhuaweicloud.com
 .me-east-1.myhuaweicloud.com
+.us-east-1.myhuaweicloud.com
 .ap-southeast-1.myhuaweicloud.com
 .tr-west-1.myhuaweicloud.com
+.eu-west-1.myhuaweicloud.com
 .ru-moscow-1.myhuaweicloud.com
 .eu-west-101.myhuaweicloud.com
+.eu-north-201.myhuaweicloud.com
+.as-south-201.myhuaweicloud.com
+.eu-central-201.myhuaweicloud.com
+.ca-east-201.myhuaweicloud.com
+.af-east-201.myhuaweicloud.com
+.ap-northeast-201.myhuaweicloud.com
+.ap-southeast-201.myhuaweicloud.com
+.eu-west-201.myhuaweicloud.com
+.ru-northwest-201.myhuaweicloud.com
 .la-north-2.myhuaweicloud.com
 .la-south-2.myhuaweicloud.com
 .ap-southeast-2.myhuaweicloud.com
 .ru-northwest-2.myhuaweicloud.com
+.eu-central-202.myhuaweicloud.com
+.ap-southeast-202.myhuaweicloud.com
+.af-west-202.myhuaweicloud.com
 .ap-southeast-3.myhuaweicloud.com
+.ap-southeast-203.myhuaweicloud.com
 .ap-southeast-4.myhuaweicloud.com
+.ap-southeast-5.myhuaweicloud.com
+.la-north-205.myhuaweicloud.com
+.as-south-205.myhuaweicloud.com
+.me-east-205.myhuaweicloud.com
+.as-south-207.myhuaweicloud.com
+.me-east-208.myhuaweicloud.com
+.me-east-209.myhuaweicloud.com
 .alicloud.com
 .wwwicloud.com
 .adskcloud.com
@@ -5345,6 +5379,7 @@ i.jeded.com
 .paypalservice.com
 .edmontonservice.com
 .bestvpnservice.com
+.dellcustomerservice.com
 .disqusservice.com
 .attinternetservice.com
 .liketwice.com
@@ -5409,12 +5444,14 @@ rsshub.email-once.com
 .oxfordfirstsource.com
 .bootysource.com
 .xbtce.com
+.vce.com
 .dtvce.com
 .nikke-de.com
 .over18arcade.com
 .myfavoritearcade.com
 .bloombergarcade.com
 .autodeskarcade.com
+.dellcomunidade.com
 .autumn-jade.com
 .socialblade.com
 .xenoblade.com
@@ -5615,10 +5652,12 @@ cisco.evergage.com
 .vcanedge.com
 .cpedge.com
 .intelserveredge.com
+.dellpoweredge.com
 .addthisedge.com
 .mirrorsedge.com
 .eamirrorsedge.com
 .microsoftedge.com
+.longbridge.com
 .lightbridge.com
 .edubridge.com
 .hpcatridge.com
@@ -6259,6 +6298,8 @@ medone-education.thieme.com
 .topshareware.com
 .experience-vmware.com
 .vmware.com
+.alienware.com
+.shopalienware.com
 .bioware.com
 .kb.monitorware.com
 .constructware.com
@@ -7236,6 +7277,7 @@ adobeereg.com
 .nike-org.com
 .urlborg.com
 .awsloft-johannesburg.com
+.rumt-sg.com
 .lpsg.com
 .edgedatg.com
 .hottg.com
@@ -8399,6 +8441,7 @@ cbsplaylistserver.aws.syncbak.com
 .squarecapital.com
 .intelcapital.com
 .braeburncapital.com
+.delltechnologiescapital.com
 .swiftcapital.com
 .meoriental.com
 .adultrental.com
@@ -8436,6 +8479,7 @@ cbsplaylistserver.aws.syncbak.com
 .shemalebestlabel.com
 .vercel.com
 .ctexcel.com
+.del.com
 .beascoremodel.com
 .javmodel.com
 .nylon-angel.com
@@ -8568,6 +8612,8 @@ cbsplaylistserver.aws.syncbak.com
 .appleiphonecell.com
 .supercell.com
 .dell.com
+.earthdell.com
+.studiodell.com
 .fbrell.com
 .beatsbydre-sell.com
 .telesell.com
@@ -8677,6 +8723,7 @@ cbsplaylistserver.aws.syncbak.com
 .japaneselovelygirl.com
 .badsexygirl.com
 .cloudyzgirl.com
+.lbctrl.com
 .click-url.com
 .fburl.com
 .imagecurl.com
@@ -8873,6 +8920,7 @@ cbsplaylistserver.aws.syncbak.com
 .kyurem.com
 .compass-system.com
 .ciscolearningsystem.com
+.delldesignsystem.com
 .paypal-hrsystem.com
 .windowsuem.com
 .nuuvem.com
@@ -8923,6 +8971,7 @@ cbsplaylistserver.aws.syncbak.com
 .0emm.com
 .knoxemm.com
 .ablmm.com
+.i-cablecomm.com
 .adobetechcomm.com
 .qualcomm.com
 .66wwmm.com
@@ -9548,6 +9597,7 @@ deutschewelle.h-cdn.com
 .famunion.com
 .videochampion.com
 .enpirion.com
+.dellprecision.com
 .avoision.com
 .newhighlandvision.com
 .sonypicturestelevision.com
@@ -9599,6 +9649,7 @@ deutschewelle.h-cdn.com
 .foxcorporation.com
 .theconversation.com
 .uploadstation.com
+.solutionstation.com
 .woflthenewsstation.com
 .artstation.com
 .playstation.com
@@ -11353,6 +11404,7 @@ wetv.qq.com
 .hplatexknowledgecenter.com
 .hptrainingcenter.com
 .vmware-techcenter.com
+.delltechcenter.com
 .nextgenerationcenter.com
 .hpapplicationscenter.com
 .foxsmallbusinesscenter.com
@@ -11365,6 +11417,7 @@ wetv.qq.com
 .ebayprivacycenter.com
 .hp3dprinter.com
 .hpallinoneprinter.com
+.dellprinter.com
 .emberprinter.com
 .hpofficejetprinter.com
 .is-a-hunter.com
@@ -12676,6 +12729,7 @@ ingest.apple-studies.com
 .delcamforsolidworks.com
 .spiceworks.com
 .imageworks.com
+.dataframeworks.com
 .neiworks.com
 .dreamworks.com
 .hsmworks.com
@@ -12986,6 +13040,7 @@ ingest.apple-studies.com
 .whisolutions.com
 .koolsolutions.com
 .microsoftpartnersolutions.com
+.dellpowersolutions.com
 .serialssolutions.com
 .attwirelesssolutions.com
 .midentsolutions.com
@@ -13299,6 +13354,7 @@ ingest.apple-studies.com
 .applescreensavers.com
 .experts-univers.com
 .comicunivers.com
+.delldrivers.com
 .hpdrivers.com
 .hpprinterdrivers.com
 .iphone5casescovers.com
@@ -13560,6 +13616,7 @@ rsshub.isrss.com
 .farfetch-contents.com
 .autodesk-events.com
 .microsoft-sap-events.com
+.dellemcevents.com
 .disneymeetingsandevents.com
 .autodeskevents.com
 .beaconevents.com
@@ -13634,6 +13691,7 @@ rsshub.isrss.com
 .discountbeatsbydre-us.com
 .unblock-us.com
 .tiktokcdn-us.com
+.rumt-us.com
 .ebay-us.com
 .huaren4us.com
 .caus.com
@@ -14023,6 +14081,7 @@ sgminorshort.wechat.com
 .drebeatsbydreoutlet.com
 .cheapbeatsbydreoutlet.com
 .cheapbeatsbydrestudioutlet.com
+.delloutlet.com
 .beatsbydretoutlet.com
 .beatsbydreforyououtlet.com
 .nan-net.com
@@ -15834,6 +15893,8 @@ rsshub.pseudoyu.com
 .uusextoy.com
 .voy.com
 .faapy.com
+.2025copy.com
+.mangacopy.com
 .getfappy.com
 .hiddenvoyeurspy.com
 .asiansexdiary.com
@@ -15975,6 +16036,7 @@ rsshub.pseudoyu.com
 .unity.com
 .paypal-community.com
 .paypalcommunity.com
+.dellcommunity.com
 .steamcommunity.com
 .pdncommunity.com
 .patreoncommunity.com
@@ -16002,6 +16064,7 @@ rsshub.pseudoyu.com
 .vmwareidentity.com
 .msidentity.com
 .applefruity.com
+.perplexity.com
 .thanksloyalty.com
 .paypal-merchantloyalty.com
 .chinasocialdemocraticparty.com
@@ -16226,6 +16289,7 @@ store.ui.com.cn
 .sgp1.fun
 .xchina.fun
 .nudevista.fun
+.mangafunb.fun
 .static.fun
 .sosad.fun
 .sexhd.fun
@@ -16309,6 +16373,7 @@ store.ui.com.cn
 .twimg.co
 .maying.co
 .ipodtouch.co
+.saasexch.co
 .codeish.co
 .binancezh.co
 .huobi.co
@@ -16340,6 +16405,7 @@ store.ui.com.cn
 .bridgestonecomercial.com.co
 .firestonecomercial.com.co
 .intel.com.co
+.dell.com.co
 .dhlestudio.com.co
 .yahoo.com.co
 .12diasderegalosdeitunes.com.co
@@ -16423,6 +16489,7 @@ store.ui.com.cn
 .quicktake.video
 .bcove.video
 .xh.video
+.tubi.video
 .cbsi.video
 .zooporn.video
 .likuoo.video
@@ -16569,6 +16636,7 @@ store.ui.com.cn
 .hoge.7jp.info
 .whatsapp.info
 .leaguesharp.info
+.snk-corp.info
 .jdavsp.info
 .myftp.info
 .39group.info
@@ -17458,6 +17526,7 @@ rsshub.rss.tips
 .ikea.net
 .mujikorea.net
 .sexkorea.net
+.byteoversea.net
 .dojinmanga.net
 .poringa.net
 .twidouga.net
@@ -17808,6 +17877,7 @@ ood.opsource.net
 .slideshare.net
 .cloudflare.net
 .misskey-square.net
+.alienware.net
 .vnware.net
 .civilsoftware.net
 .shotgunsoftware.net
@@ -18109,6 +18179,7 @@ bbs.boingboing.net
 .europeansustainabledesigncouncil.net
 .breakwall.net
 .supercell.net
+.dell.net
 .fiddle.jshell.net
 .bowlroll.net
 .rapbull.net
@@ -19047,6 +19118,7 @@ ntp7.ntp-servers.net
 .demdex.net
 .yandex.net
 .torrindex.net
+.naydex.net
 .mucinex.net
 .trydurex.net
 .milfmaturesex.net
@@ -19299,7 +19371,7 @@ muse.jhu.edu
 .bestporn.su
 .xxxporn.su
 .kemono.su
-.cooer.su
+.coomer.su
 .evilx.su
 .simpcity.su
 .vu
@@ -19490,6 +19562,7 @@ rss.datuan.dev
 .hentai.tv
 .3dhentai.tv
 .verhentai.tv
+.tubi.tv
 .kodi.tv
 .nivodi.tv
 .kimchi.tv
@@ -19510,6 +19583,7 @@ rss.datuan.dev
 .wofl.tv
 .facebookmail.tv
 .liverail.tv
+.dell.tv
 .hongkongdoll.tv
 .pypl.tv
 .directvdsl.tv
@@ -19569,6 +19643,7 @@ rss.datuan.dev
 .top.tv
 .hopstop.tv
 .whatsapp.tv
+.yfsp.tv
 .xgsp.tv
 .showup.tv
 .pvp.tv
@@ -19805,6 +19880,7 @@ rsshub.ktachibana.party
 .visa.com.bz
 .mastercard.com.bz
 .google.com.bz
+.dell.com.bz
 .yahoo.com.bz
 .cz
 .dz
@@ -19830,6 +19906,7 @@ rsshub.ktachibana.party
 .line.biz
 .secretsline.biz
 .pornshare.biz
+.alienware.biz
 .cleansite.biz
 .xn--x-qeu1ji09tzlg.biz
 .zhenxiang.biz
@@ -19965,6 +20042,7 @@ rss.4040940.xyz
 .saonia.xyz
 .wikawika.xyz
 .souka.xyz
+.mangafuna.xyz
 .xsava.xyz
 .xn--hhr917d3fecva.xyz
 .yyjlymb.xyz

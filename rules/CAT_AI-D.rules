@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,cursor.sh
@@ -56,6 +57,7 @@ DOMAIN,openai-api.arkoselabs.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,chat.com
@@ -66,6 +68,7 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN,pplx-res.cloudinary.com
+DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,clipdrop.co

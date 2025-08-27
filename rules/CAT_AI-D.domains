@@ -5,6 +5,7 @@
 .generativeai.google
 .gemini.google
 .notebooklm.google
+.labs.google
 .jules.google
 .featuregates.org
 .cursor.sh
@@ -56,6 +57,7 @@ openai-api.arkoselabs.com
 .client-api.arkoselabs.com
 .proactivebackend-pa.googleapis.com
 .geller-pa.googleapis.com
+.aisandbox-pa.googleapis.com
 .generativelanguage.googleapis.com
 static.cloudflareinsights.com
 .chat.com
@@ -66,6 +68,7 @@ static.cloudflareinsights.com
 .identrust.com
 .launchdarkly.com
 pplx-res.cloudinary.com
+.perplexity.com
 .huggingface.co
 .hf.co
 .clipdrop.co
