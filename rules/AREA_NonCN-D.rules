@@ -19423,6 +19423,7 @@ DOMAIN-SUFFIX,chromeos.dev
 DOMAIN-SUFFIX,deps.dev
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,opensourceinsights.dev
+DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,opensourceinsight.dev
 DOMAIN-SUFFIX,usercontent.dev
