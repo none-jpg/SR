@@ -56,6 +56,7 @@ browser-intake-datadoghq.com
 openai-api.arkoselabs.com
 .client-api.arkoselabs.com
 .proactivebackend-pa.googleapis.com
+.robinfrontend-pa.googleapis.com
 .geller-pa.googleapis.com
 .aisandbox-pa.googleapis.com
 .generativelanguage.googleapis.com
