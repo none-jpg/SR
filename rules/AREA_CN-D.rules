@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,wf.pub
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,gtm.pub
 DOMAIN-SUFFIX,igtm.pub
+DOMAIN,dns.pub
 DOMAIN-SUFFIX,volc-dns.pub
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,volcdns.pub
@@ -1675,6 +1676,7 @@ DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,udqqimg.com
 DOMAIN-SUFFIX,dcarimg.com
+DOMAIN-SUFFIX,360simg.com
 DOMAIN-SUFFIX,xesimg.com
 DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,appsimg.com

@@ -13,6 +13,7 @@
 .doh.pub
 .gtm.pub
 .igtm.pub
+dns.pub
 .volc-dns.pub
 .dns.pub
 .volcdns.pub
@@ -1675,6 +1676,7 @@ media.cdn.queniuqe.com
 .idqqimg.com
 .udqqimg.com
 .dcarimg.com
+.360simg.com
 .xesimg.com
 .ppsimg.com
 .appsimg.com
