@@ -1469,7 +1469,6 @@ DOMAIN-SUFFIX,wnacg.org
 DOMAIN-SUFFIX,ffmpeg.org
 DOMAIN-SUFFIX,fofg.org
 DOMAIN-SUFFIX,cipfg.org
-DOMAIN-SUFFIX,btdigg.org
 DOMAIN-SUFFIX,download.aircrack-ng.org
 DOMAIN-SUFFIX,tuidang.org
 DOMAIN-SUFFIX,huanghuagang.org
@@ -2011,6 +2010,7 @@ DOMAIN-SUFFIX,wokar.org
 DOMAIN-SUFFIX,semanticscholar.org
 DOMAIN-SUFFIX,instituteofwar.org
 DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,websdr.org
 DOMAIN-SUFFIX,mynumber.org
 DOMAIN-SUFFIX,prcleader.org
 DOMAIN-SUFFIX,webevader.org
@@ -4130,6 +4130,7 @@ DOMAIN-SUFFIX,starbuckscardb2b.com
 DOMAIN-SUFFIX,foxnewsb2b.com
 DOMAIN-SUFFIX,po2b.com
 DOMAIN-SUFFIX,xn--9trs65b.com
+DOMAIN-SUFFIX,xn--u2u927b.com
 DOMAIN-SUFFIX,imageab.com
 DOMAIN-SUFFIX,fab.com
 DOMAIN-SUFFIX,sketchfab.com
