@@ -2,12 +2,14 @@ DOMAIN-SUFFIX,opensource.guide
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,github.ai
+DOMAIN-SUFFIX,octocaptcha.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-SUFFIX,githubapp.com
+DOMAIN,github-api.arkoselabs.com
 DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,githubassets.com

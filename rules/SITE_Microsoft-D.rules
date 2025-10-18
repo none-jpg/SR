@@ -73,6 +73,7 @@ DOMAIN-SUFFIX,mschallenge2018.com
 DOMAIN-SUFFIX,ankarazirvesi2018.com
 DOMAIN-SUFFIX,ie9.com
 DOMAIN-SUFFIX,microsofteca.com
+DOMAIN-SUFFIX,octocaptcha.com
 DOMAIN-SUFFIX,ms-studiosmedia.com
 DOMAIN-SUFFIX,microsoftmxfilantropia.com
 DOMAIN-SUFFIX,azchcdna.com
@@ -267,6 +268,7 @@ DOMAIN-SUFFIX,api-extractor.com
 DOMAIN-SUFFIX,microsoftlatamaitour.com
 DOMAIN-SUFFIX,insiderdevtour.com
 DOMAIN-SUFFIX,exp-tas.com
+DOMAIN,github-api.arkoselabs.com
 DOMAIN-SUFFIX,microsoftiotinsiderlabs.com
 DOMAIN-SUFFIX,dynamics.com
 DOMAIN-SUFFIX,gearstactics.com

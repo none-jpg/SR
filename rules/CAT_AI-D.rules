@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,chutes.ai
 DOMAIN,api.jetbrains.ai
 DOMAIN-SUFFIX,coderabbit.ai
@@ -28,6 +29,7 @@ DOMAIN,api.github.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,claude.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
@@ -63,6 +65,7 @@ DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,chatgpt.com

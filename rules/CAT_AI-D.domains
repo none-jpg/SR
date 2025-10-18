@@ -14,6 +14,7 @@
 .mistral.ai
 .jasper.ai
 .openrouter.ai
+.cerebras.ai
 .chutes.ai
 api.jetbrains.ai
 .coderabbit.ai
@@ -28,6 +29,7 @@ api.github.com
 .anthropic.com
 .oaistatic.com
 .deepmind.com
+.claude.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
 webchannel-alkalimakersuite-pa.clients6.google.com
@@ -63,6 +65,7 @@ openai-api.arkoselabs.com
 static.cloudflareinsights.com
 .chat.com
 .copilot.microsoft.com
+.claudemcpclient.com
 .claudeusercontent.com
 .oaiusercontent.com
 .chatgpt.com

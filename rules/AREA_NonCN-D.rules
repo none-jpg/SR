@@ -2666,6 +2666,7 @@ DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,clova.ai
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,mlc.ai
+DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,jiuse.ai
@@ -2688,6 +2689,7 @@ DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,videoindexer.ai
+DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,wyndlabs.ai
 DOMAIN-SUFFIX,chutes.ai
 DOMAIN-SUFFIX,jetbrains.ai
@@ -4476,6 +4478,7 @@ DOMAIN-SUFFIX,cbsstatic.com
 DOMAIN-SUFFIX,spiceworksstatic.com
 DOMAIN-SUFFIX,pplusstatic.com
 DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,nftstatic.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,wixstatic.com
@@ -5350,6 +5353,7 @@ DOMAIN-SUFFIX,cisconetspace.com
 DOMAIN-SUFFIX,redditspace.com
 DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,pussyspace.com
+DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,adobecce.com
 DOMAIN-SUFFIX,xecce.com
 DOMAIN-SUFFIX,didce.com
@@ -5515,10 +5519,12 @@ DOMAIN-SUFFIX,reflectivecode.com
 DOMAIN-SUFFIX,adventofcode.com
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,makebettercode.com
+DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,mymmode.com
 DOMAIN-SUFFIX,delcam-electrode.com
 DOMAIN-SUFFIX,beatsbydrevipde.com
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,hentaidude.com
 DOMAIN-SUFFIX,sexidude.com
 DOMAIN-SUFFIX,jerkdude.com
@@ -11774,6 +11780,7 @@ DOMAIN-SUFFIX,ero-labs.com
 DOMAIN-SUFFIX,hotstar-labs.com
 DOMAIN-SUFFIX,plasticlabs.com
 DOMAIN-SUFFIX,ccievoicelabs.com
+DOMAIN,github-api.arkoselabs.com
 DOMAIN-SUFFIX,bloomberglabs.com
 DOMAIN-SUFFIX,hentailabs.com
 DOMAIN-SUFFIX,satoshilabs.com
@@ -14299,6 +14306,7 @@ DOMAIN-SUFFIX,askstudent.com
 DOMAIN-SUFFIX,marvelsdoubleagent.com
 DOMAIN-SUFFIX,salesforceliveagent.com
 DOMAIN-SUFFIX,cloudflareclient.com
+DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,attnetclient.com
 DOMAIN-SUFFIX,blog.soylent.com
 DOMAIN-SUFFIX,splatoon2tournament.com
@@ -17221,6 +17229,7 @@ DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,get.app
 DOMAIN-SUFFIX,meawallet.app
 DOMAIN-SUFFIX,cyberghost.app
+DOMAIN-SUFFIX,jav.app
 DOMAIN-SUFFIX,coreldraw.app
 DOMAIN-SUFFIX,sing-box.app
 DOMAIN-SUFFIX,ajay.app
