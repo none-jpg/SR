@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,diabrowser.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com

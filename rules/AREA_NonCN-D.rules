@@ -5115,6 +5115,7 @@ DOMAIN-SUFFIX,ciscoconnectcloud.com
 DOMAIN-SUFFIX,microsoftcloud.com
 DOMAIN-SUFFIX,vagrantcloud.com
 DOMAIN-SUFFIX,ifontcloud.com
+DOMAIN-SUFFIX,samsungiotcloud.com
 DOMAIN-SUFFIX,mixcloud.com
 DOMAIN-SUFFIX,rixcloud.com
 DOMAIN-SUFFIX,bbycloud.com
@@ -7482,6 +7483,7 @@ DOMAIN-SUFFIX,artcamjewelsmith.com
 DOMAIN-SUFFIX,afewmomentswith.com
 DOMAIN-SUFFIX,yo1health.com
 DOMAIN-SUFFIX,pastahealth.com
+DOMAIN-SUFFIX,samsunghealth.com
 DOMAIN-SUFFIX,mailhealth.com
 DOMAIN-SUFFIX,yahoohealth.com
 DOMAIN-SUFFIX,realclearhealth.com
@@ -9197,6 +9199,7 @@ DOMAIN-SUFFIX,briian.com
 DOMAIN-SUFFIX,shireyishunjian.com
 DOMAIN-SUFFIX,fabuyemian.com
 DOMAIN-SUFFIX,xiongpian.com
+DOMAIN-SUFFIX,guardarian.com
 DOMAIN-SUFFIX,launchpadlibrarian.com
 DOMAIN-SUFFIX,extraasian.com
 DOMAIN-SUFFIX,peeasian.com
@@ -11022,6 +11025,7 @@ DOMAIN-SUFFIX,msocsp.com
 DOMAIN-SUFFIX,uisp.com
 DOMAIN-SUFFIX,huabansp.com
 DOMAIN-SUFFIX,vpnsp.com
+DOMAIN-SUFFIX,samsungosp.com
 DOMAIN-SUFFIX,jdavsp.com
 DOMAIN-SUFFIX,922tp.com
 DOMAIN-SUFFIX,dsmtp.com
@@ -11403,6 +11407,7 @@ DOMAIN-SUFFIX,sissyporncrossdresser.com
 DOMAIN-SUFFIX,mayauser.com
 DOMAIN-SUFFIX,serveuser.com
 DOMAIN-SUFFIX,superuser.com
+DOMAIN-SUFFIX,diabrowser.com
 DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,kiwibrowser.com
 DOMAIN-SUFFIX,puffinbrowser.com
@@ -13386,6 +13391,7 @@ DOMAIN-SUFFIX,hoovers.com
 DOMAIN-SUFFIX,tiffany-towers.com
 DOMAIN-SUFFIX,wixanswers.com
 DOMAIN-SUFFIX,brazzers.com
+DOMAIN-SUFFIX,samsungrs.com
 DOMAIN-SUFFIX,realclearpublicaffairs.com
 DOMAIN-SUFFIX,theaffairs.com
 DOMAIN-SUFFIX,foreignaffairs.com
@@ -13674,6 +13680,8 @@ DOMAIN-SUFFIX,morphcharts.com
 DOMAIN-SUFFIX,spotifycharts.com
 DOMAIN-SUFFIX,hpsmarts.com
 DOMAIN-SUFFIX,ebayparts.com
+DOMAIN-SUFFIX,memealerts.com
+DOMAIN-SUFFIX,donationalerts.com
 DOMAIN-SUFFIX,mastercardidtheftalerts.com
 DOMAIN-SUFFIX,attexperts.com
 DOMAIN-SUFFIX,kampalaexclusiveescorts.com
@@ -14331,6 +14339,7 @@ DOMAIN-SUFFIX,kakaoinvestment.com
 DOMAIN-SUFFIX,kakaoent.com
 DOMAIN-SUFFIX,msoopent.com
 DOMAIN-SUFFIX,ijavtorrent.com
+DOMAIN-SUFFIX,samsungconsent.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,hh-content.com
 DOMAIN-SUFFIX,pobl-content.com
@@ -16964,6 +16973,7 @@ DOMAIN-SUFFIX,playshow.io
 DOMAIN-SUFFIX,bwbx.io
 DOMAIN-SUFFIX,cex.io
 DOMAIN-SUFFIX,ddex.io
+DOMAIN-SUFFIX,stealthex.io
 DOMAIN-SUFFIX,dragonex.io
 DOMAIN-SUFFIX,cloudlatex.io
 DOMAIN-SUFFIX,codesandbox.io
@@ -19434,6 +19444,7 @@ DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,stackpath.dev
 DOMAIN-SUFFIX,orbstack.dev
 DOMAIN-SUFFIX,autodesk.dev
+DOMAIN-SUFFIX,vercel.dev
 DOMAIN-SUFFIX,da3dsoul.dev
 DOMAIN,rss.datuan.dev
 DOMAIN-SUFFIX,bdn.dev
