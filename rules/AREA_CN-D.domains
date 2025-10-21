@@ -690,6 +690,7 @@ kms.03k.org
 .jlcfa.com
 .yiqifa.com
 .pipixiaha.com
+.900cha.com
 .qichacha.com
 .dianchacha.com
 .yikaochacha.com
@@ -857,6 +858,7 @@ cn.download.nvidia.com
 .jdcloudlb.com
 .jcloudlb.com
 .bytelb.com
+.wsglb.com
 .vedcdnlb.com
 .vecdnlb.com
 .hdslb.com
@@ -959,6 +961,7 @@ cn.download.nvidia.com
 .bilicomic.com
 .58pic.com
 .3839pic.com
+.wswebpic.com
 .pddpic.com
 .qiyipic.com
 .iqiyipic.com
@@ -1401,6 +1404,7 @@ kc.kexinshe.com
 .mogujie.com
 .wuliujie.com
 .shujupie.com
+.halvie.com
 .douxie.com
 .ke.com
 .volcfake.com
@@ -2273,6 +2277,7 @@ media.cdn.queniuqe.com
 .nnthink.com
 .topthink.com
 .hr-welink.com
+.asklink.com
 .eolink.com
 .golink.com
 .leautolink.com
@@ -2352,6 +2357,7 @@ media.cdn.queniuqe.com
 .dmall.com
 .jdemall.com
 .lemall.com
+.chememall.com
 .ztemall.com
 .mihoyomall.com
 .tmall.com
@@ -2370,6 +2376,7 @@ i.dell.com
 .cofool.com
 .neoschool.com
 .matpool.com
+.xdtool.com
 .pubgtool.com
 .cyol.com
 .zijieurl.com
@@ -2627,6 +2634,7 @@ i.dell.com
 .feishukacdn.com
 .kaolacdn.com
 .zebracdn.com
+.wswebcdn.com
 .51jobcdn.com
 .tbcdn.com
 .volccdn.com
@@ -2637,6 +2645,7 @@ i.dell.com
 .apdcdn.com
 .jdcloudcdn.com
 .qcloudcdn.com
+.mwcloudcdn.com
 .larkofficecdn.com
 .luckincoffeecdn.com
 .zuchecdn.com
@@ -2673,6 +2682,7 @@ www.layuicdn.com
 .dbankcdn.com
 .dmallcdn.com
 .volcdn.com
+.qtlcdn.com
 .cmcmcdn.com
 .tlivemcdn.com
 .xmcdn.com
@@ -3106,6 +3116,7 @@ www.libvideo.com
 .jlc-3dp.com
 .oncdp.com
 .gotokeep.com
+.feihengip.com
 .frp-hip.com
 .hqchip.com
 .chaipip.com
@@ -3179,9 +3190,11 @@ www.libvideo.com
 .myapp.com
 .ndcpp.com
 .chinasspp.com
+.jxpp.com
 .jlc-erp.com
 .jlcerp.com
 .qianyierp.com
+.guanyierp.com
 .youyierp.com
 .surerp.com
 .natfrp.com
@@ -3517,6 +3530,7 @@ www.ztedevices.com
 .ovscdns.com
 .wscdns.com
 .smtcdns.com
+.mwcdns.com
 .jdclouddns.com
 .jclouddns.com
 .huaweisafedns.com
@@ -3556,6 +3570,7 @@ www.ztedevices.com
 .lenovocloudos.com
 .volcvideos.com
 .ufileos.com
+.istoreos.com
 .upfos.com
 .nextstudios.com
 .sgtmos.com
@@ -3848,6 +3863,7 @@ dl.ubnt.com
 .zhihuishu.com
 .jianshu.com
 .haofenshu.com
+.ipshu.com
 .wenshushu.com
 .hwshu.com
 .mofazhu.com
@@ -4363,21 +4379,29 @@ gstore.val.manlaxy.com
 .a-map.vip
 .jd.shop
 .clk1.top
+.aloys233.top
+.goka.top
 .coolab.top
 .ucgslb.top
 .ugslb.top
 .bsbsb.top
 .qualitycloud.top
+.nxog.top
+.tclai.top
+.saduck.top
 .vrzwk.top
+.geektool.top
 .openkylin.top
 .jutongbao.top
 .tgpro.top
 .yto.top
 .codeloop.top
+.imacos.top
 .jtexpress.top
 .bdcat.top
 .puddingcat.top
 .chat.top
+.51zmt.top
 .warmheart.top
 .wjx.top
 .zway.top
@@ -4459,6 +4483,7 @@ gstore.val.manlaxy.com
 .jcloudlb.net
 .bytelb.net
 .sinflb.net
+.wsglb.net
 .ccgslb.net
 .ucgslb.net
 .jdgslb.net
@@ -4691,6 +4716,7 @@ time.izatcloud.net
 .yfcdn.net
 .staticdn.net
 .webankcdn.net
+.qtlcdn.net
 .tmcdn.net
 .aliyuncdn.net
 .baiduyuncdn.net
@@ -4814,6 +4840,7 @@ time.izatcloud.net
 .qeodns.net
 .jomodns.net
 .acctdns.net
+.lxdns.net
 .bdydns.net
 .cloudxns.net
 .bytexns.net
@@ -4883,6 +4910,7 @@ time.izatcloud.net
 .chinaz.net
 .jzfz.net
 .discuz.net
+.netzz.net
 .wss.pet
 .liblib.art
 .baidu
@@ -4930,6 +4958,7 @@ time.izatcloud.net
 .amzndns-cn.biz
 .zhenguanyu.biz
 .steam302.xyz
+.privateapi.xyz
 .landian.xyz
 .nellit.xyz
 .lingkou.xyz
