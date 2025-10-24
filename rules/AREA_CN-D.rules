@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,aliyundrive.cloud
 DOMAIN-SUFFIX,vestack.cloud
 DOMAIN-SUFFIX,lazycat.cloud
 DOMAIN-SUFFIX,jikeiot.cloud
+DOMAIN-SUFFIX,linglong.space
 DOMAIN-SUFFIX,heiyu.space
 DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,500d.me
@@ -138,7 +139,6 @@ DOMAIN-SUFFIX,zgjm.org
 DOMAIN-SUFFIX,baicizhan.org
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,gushiwen.org
-DOMAIN-SUFFIX,deepin.org
 DOMAIN-SUFFIX,trustutn.org
 DOMAIN-SUFFIX,wooyun.org
 DOMAIN-SUFFIX,taobao.org
@@ -1405,6 +1405,9 @@ DOMAIN-SUFFIX,mogujie.com
 DOMAIN-SUFFIX,wuliujie.com
 DOMAIN-SUFFIX,shujupie.com
 DOMAIN-SUFFIX,halvie.com
+DOMAIN-SUFFIX,changxie.com
+DOMAIN-SUFFIX,51changxie.com
+DOMAIN-SUFFIX,91changxie.com
 DOMAIN-SUFFIX,douxie.com
 DOMAIN-SUFFIX,ke.com
 DOMAIN-SUFFIX,volcfake.com
@@ -4318,6 +4321,7 @@ DOMAIN-SUFFIX,a-map.co
 DOMAIN-SUFFIX,yyds.co
 DOMAIN-SUFFIX,dewu.co
 DOMAIN-SUFFIX,fofa.info
+DOMAIN-SUFFIX,cf-china.info
 DOMAIN-SUFFIX,puata.info
 DOMAIN-SUFFIX,ucgslb.info
 DOMAIN-SUFFIX,ugslb.info
@@ -4347,7 +4351,6 @@ DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,lizhi.io
 DOMAIN-SUFFIX,weui.io
 DOMAIN-SUFFIX,openinstall.io
-DOMAIN-SUFFIX,deepin.io
 DOMAIN-SUFFIX,qin.io
 DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,xip.io
