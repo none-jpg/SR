@@ -1097,6 +1097,7 @@ cn.download.nvidia.com
 .cybtc.com
 .aizgtc.com
 .ymtc.com
+.dcloudstc.com
 .vcloudstc.com
 .zgxytc.com
 .h5uc.com
@@ -1193,6 +1194,7 @@ cn.download.nvidia.com
 .bdxiguavod.com
 .ibdxiguavod.com
 .volcvod.com
+.dcloudvod.com
 .vcloudvod.com
 .bytevcloudvod.com
 .baikevod.com
@@ -1470,6 +1472,7 @@ kc.kexinshe.com
 .aamgame.com
 .3dmgame.com
 .yxdmgame.com
+.herogame.com
 .lenovogame.com
 .vpgame.com
 .yxwsgame.com
@@ -1595,6 +1598,7 @@ media.cdn.queniuqe.com
 .bdxigualive.com
 .ibdxigualive.com
 .tcdlive.com
+.dcloudlive.com
 .jdcloudlive.com
 .huaweicloudlive.com
 .jcloudlive.com
@@ -1739,6 +1743,7 @@ media.cdn.queniuqe.com
 .360buyimg.com
 .kfzimg.com
 .lppzimg.com
+.cdnmg.com
 .kksmg.com
 .statickksmg.com
 .mcbang.com
@@ -1878,6 +1883,7 @@ media.cdn.queniuqe.com
 .xinchong.com
 .taobizhong.com
 .huaxiong.com
+.yingxiong.com
 .shuoshuokong.com
 .zhuayoukong.com
 .wukong.com
@@ -2057,6 +2063,7 @@ media.cdn.queniuqe.com
 .animetamashi.com
 .mihuashi.com
 .minhangshi.com
+.icplishi.com
 .xinrenxinshi.com
 .dayukaoshi.com
 .hanboshi.com
@@ -2086,6 +2093,7 @@ media.cdn.queniuqe.com
 .sec-wiki.com
 .oi-wiki.com
 .huijiwiki.com
+.wali.com
 .huashengdaili.com
 .bilibili.com
 .shareintelli.com
@@ -2607,6 +2615,7 @@ i.dell.com
 .offcn.com
 .crggcn.com
 .tongxianghuicn.com
+.trjcn.com
 .golinkcn.com
 .weathercn.com
 .miercn.com
@@ -2867,6 +2876,7 @@ ocsp.globalsign.com
 .wxcloudrun.com
 .tmtsmartrun.com
 .05sun.com
+.ipchaxun.com
 .hexun.com
 .qianxun.com
 .163yun.com
@@ -3051,6 +3061,7 @@ www.libvideo.com
 .oppo.com
 .myoppo.com
 .ro.com
+.hero.com
 .vipmro.com
 .qd-metro.com
 .shmetro.com
@@ -3208,6 +3219,7 @@ www.libvideo.com
 .nanhaicorp.com
 .zhuancorp.com
 .zampdsp.com
+.dcloudsp.com
 .pstatp.com
 .bytecdntp.com
 .tracup.com
@@ -3274,6 +3286,7 @@ www.libvideo.com
 .kunlunar.com
 .qunar.com
 .lanrar.com
+.weavatar.com
 .stockstar.com
 .jtjms-br.com
 .baidubcr.com
@@ -3635,6 +3648,7 @@ www.ztedevices.com
 .alipayobjects.com
 .yyets.com
 .djiits.com
+.heroesports.com
 .alisports.com
 .ssports.com
 .cyts.com
@@ -3658,6 +3672,7 @@ www.ztedevices.com
 .jdcloudstatus.com
 .volcfcdndvs.com
 .ourdvs.com
+.wsdvs.com
 .bianews.com
 .kankanews.com
 .chinanews.com
@@ -3729,6 +3744,7 @@ www.ztedevices.com
 .dl.delivery.mp.microsoft.com
 .ksosoft.com
 .17usoft.com
+.iplaysoft.com
 .youxigt.com
 .ccrgt.com
 .9ht.com
@@ -3907,6 +3923,7 @@ dl.ubnt.com
 .fimmu.com
 .iyunmu.com
 .swsmu.com
+.taou.com
 .doudou.com
 .tudou.com
 .sifou.com
@@ -4190,6 +4207,7 @@ dl.ubnt.com
 .bestrhy.com
 .frp-shy.com
 .softwhy.com
+.shyxhy.com
 .cocodiy.com
 .sxcxldjy.com
 .fzaqjy.com
@@ -4518,6 +4536,7 @@ gstore.val.manlaxy.com
 .bytetstatic.net
 .shizhuang-inc.net
 .xiaomiinc.net
+.dcloudstc.net
 .vcloudstc.net
 .jjwxc.net
 .116cd.net
@@ -4532,6 +4551,7 @@ upos-hz-mirrorakam.akamaized.net
 .betaband.net
 .phpwind.net
 .dnspod.net
+.dcloudvod.net
 .tencent-cloud.net
 .115cloud.net
 time.xtracloud.net
@@ -4598,6 +4618,7 @@ time.izatcloud.net
 .zjbyte.net
 .ttbyte.net
 .tiexue.net
+.dcloudlive.net
 .jdcloudlive.net
 .aliyundrive.net
 .jdcloudresolve.net
@@ -4796,6 +4817,7 @@ time.izatcloud.net
 .duapp.net
 .steampp.net
 .newasp.net
+.dcloudsp.net
 .mahjongcup.net
 .texasholdemcup.net
 .cczq.net
