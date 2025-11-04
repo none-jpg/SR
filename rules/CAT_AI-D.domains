@@ -31,6 +31,7 @@ api.github.com
 .oaistatic.com
 .deepmind.com
 .claude.com
+apple-relay.fastly-edge.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
 webchannel-alkalimakersuite-pa.clients6.google.com
@@ -41,10 +42,16 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .aistudio.google.com
 .jules.google.com
 .apis.google.com
+guzzoni.apple.com
+.smoot.apple.com
+apple-relay.apple.com
 .poe.com
 .stripe.com
+cp2.cloudflare.com
+cp4.cloudflare.com
 .gateway.ai.cloudflare.com
 .challenges.cloudflare.com
+apple-relay.cloudflare.com
 .api.statsig.com
 .ai.com
 .openai.com
