@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,dola.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN,api.github.com
 DOMAIN-SUFFIX,anthropic.com
@@ -54,11 +55,14 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,ciciaicdn.com
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,groq.com
@@ -66,6 +70,7 @@ DOMAIN-SUFFIX,diabrowser.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN,aida.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
@@ -88,6 +93,7 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io

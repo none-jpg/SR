@@ -25,6 +25,7 @@ api.jetbrains.ai
 .dify.ai
 .perplexity.ai
 .auth0.com
+.dola.com
 .sora.com
 api.github.com
 .anthropic.com
@@ -54,11 +55,14 @@ cp4.cloudflare.com
 apple-relay.cloudflare.com
 .api.statsig.com
 .ai.com
+.ciciai.com
 .openai.com
+.cici.com
 .cursorapi.com
 .grok.com
 cdn.usefathom.com
 .cursor-cdn.com
+.ciciaicdn.com
 .intercomcdn.com
 browser-intake-datadoghq.com
 .groq.com
@@ -66,6 +70,7 @@ browser-intake-datadoghq.com
 .cursor.com
 openai-api.arkoselabs.com
 .client-api.arkoselabs.com
+.elevenlabs.com
 aida.googleapis.com
 .proactivebackend-pa.googleapis.com
 .robinfrontend-pa.googleapis.com
@@ -88,6 +93,7 @@ pplx-res.cloudinary.com
 .hf.co
 .clipdrop.co
 .intercom.io
+.elevenlabs.io
 .coderabbit.gallery.vsassets.io
 .segment.io
 .sentry.io
