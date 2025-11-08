@@ -43,12 +43,9 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .aistudio.google.com
 .jules.google.com
 .apis.google.com
-guzzoni.apple.com
-.smoot.apple.com
 apple-relay.apple.com
 .poe.com
 .stripe.com
-cp2.cloudflare.com
 cp4.cloudflare.com
 .gateway.ai.cloudflare.com
 .challenges.cloudflare.com
@@ -71,7 +68,7 @@ browser-intake-datadoghq.com
 openai-api.arkoselabs.com
 .client-api.arkoselabs.com
 .elevenlabs.com
-aida.googleapis.com
+.aida.googleapis.com
 .proactivebackend-pa.googleapis.com
 .robinfrontend-pa.googleapis.com
 .cloudcode-pa.googleapis.com

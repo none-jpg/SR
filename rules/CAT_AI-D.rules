@@ -43,12 +43,9 @@ DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,apis.google.com
-DOMAIN,guzzoni.apple.com
-DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN,apple-relay.apple.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,stripe.com
-DOMAIN,cp2.cloudflare.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
@@ -71,7 +68,7 @@ DOMAIN-SUFFIX,cursor.com
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,elevenlabs.com
-DOMAIN,aida.googleapis.com
+DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
