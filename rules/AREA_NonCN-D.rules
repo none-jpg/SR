@@ -368,6 +368,7 @@ DOMAIN-SUFFIX,mastercard.inc
 DOMAIN-SUFFIX,idservice.inc
 DOMAIN-SUFFIX,google.sc
 DOMAIN-SUFFIX,rsg.sc
+DOMAIN-SUFFIX,2ch.sc
 DOMAIN-SUFFIX,huobi.sc
 DOMAIN-SUFFIX,fuck.sc
 DOMAIN-SUFFIX,intel.sc
@@ -872,6 +873,7 @@ DOMAIN-SUFFIX,nijimiss.moe
 DOMAIN-SUFFIX,nat.moe
 DOMAIN-SUFFIX,sstmlt.moe
 DOMAIN-SUFFIX,niu.moe
+DOMAIN-SUFFIX,cangku.moe
 DOMAIN-SUFFIX,wxw.moe
 DOMAIN-SUFFIX,catbox.moe
 DOMAIN-SUFFIX,mox.moe
@@ -2285,7 +2287,6 @@ DOMAIN-SUFFIX,chinafreepress.org
 DOMAIN-SUFFIX,rupress.org
 DOMAIN-SUFFIX,xxvideoss.org
 DOMAIN-SUFFIX,ieee-npss.org
-DOMAIN-SUFFIX,democrats.org
 DOMAIN-SUFFIX,chinademocrats.org
 DOMAIN-SUFFIX,djangosnippets.org
 DOMAIN-SUFFIX,business-humanrights.org
@@ -3465,6 +3466,7 @@ DOMAIN-SUFFIX,peachy18.com
 DOMAIN-SUFFIX,h528.com
 DOMAIN-SUFFIX,uuk28.com
 DOMAIN-SUFFIX,plus28.com
+DOMAIN-SUFFIX,av28.com
 DOMAIN-SUFFIX,afkv28.com
 DOMAIN-SUFFIX,138.com
 DOMAIN-SUFFIX,iwyn138.com
@@ -13856,7 +13858,6 @@ DOMAIN-SUFFIX,cryptomus.com
 DOMAIN-SUFFIX,adobejanus.com
 DOMAIN-SUFFIX,markingmenus.com
 DOMAIN-SUFFIX,mrbonus.com
-DOMAIN-SUFFIX,delicious.com
 DOMAIN-SUFFIX,listorious.com
 DOMAIN-SUFFIX,softfamous.com
 DOMAIN-SUFFIX,nuespournous.com
@@ -17577,6 +17578,7 @@ DOMAIN-SUFFIX,at
 DOMAIN-SUFFIX,aoc.cat
 DOMAIN-SUFFIX,youtube.cat
 DOMAIN-SUFFIX,google.cat
+DOMAIN-SUFFIX,pomf.cat
 DOMAIN-SUFFIX,yahoo.cat
 DOMAIN-SUFFIX,microsoft.cat
 DOMAIN-SUFFIX,blogspot.cat
