@@ -2692,6 +2692,7 @@ DOMAIN-SUFFIX,mlc.ai
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,jiuse.ai
 DOMAIN-SUFFIX,api.ai
 DOMAIN-SUFFIX,tsi.ai
@@ -6437,6 +6438,7 @@ DOMAIN-SUFFIX,hentaihere.com
 DOMAIN-SUFFIX,paypalhere.com
 DOMAIN-SUFFIX,3pornhere.com
 DOMAIN-SUFFIX,mypornhere.com
+DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,azure-sphere.com
 DOMAIN-SUFFIX,pornosphere.com
 DOMAIN-SUFFIX,vsphere.com
@@ -9448,6 +9450,7 @@ DOMAIN-SUFFIX,rdtcdn.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,herokucdn.com
 DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,teraboxcdn.com
 DOMAIN-SUFFIX,bbc.mp-pxcdn.com
 DOMAIN-SUFFIX,keycdn.com
 DOMAIN-SUFFIX,shopifycdn.com

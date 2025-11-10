@@ -11,6 +11,7 @@
 .cursor.sh
 .meta.ai
 .claude.ai
+.cohere.ai
 .mistral.ai
 .devin.ai
 .jasper.ai
@@ -50,6 +51,7 @@ cp4.cloudflare.com
 .gateway.ai.cloudflare.com
 .challenges.cloudflare.com
 apple-relay.cloudflare.com
+.cohere.com
 .api.statsig.com
 .ai.com
 .ciciai.com
