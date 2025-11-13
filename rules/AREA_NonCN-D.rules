@@ -1994,6 +1994,7 @@ DOMAIN-SUFFIX,hqcdp.org
 DOMAIN-SUFFIX,no-ip.org
 DOMAIN-SUFFIX,changeip.org
 DOMAIN-SUFFIX,ipleadership.org
+DOMAIN-SUFFIX,googlecensorship.org
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,wefightcensorship.org
 DOMAIN-SUFFIX,lrip.org
@@ -2481,6 +2482,7 @@ DOMAIN-SUFFIX,canyu.org
 DOMAIN-SUFFIX,bbs.hanminzu.org
 DOMAIN-SUFFIX,51jav.org
 DOMAIN-SUFFIX,pornjav.org
+DOMAIN-SUFFIX,upjav.org
 DOMAIN-SUFFIX,mynetav.org
 DOMAIN-SUFFIX,alphaxiv.org
 DOMAIN-SUFFIX,pixiv.org
@@ -4146,6 +4148,7 @@ DOMAIN-SUFFIX,tiava.com
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,casinoriva.com
+DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,bigtitterrynova.com
 DOMAIN-SUFFIX,coova.com
 DOMAIN-SUFFIX,ero-kawa.com
@@ -4666,6 +4669,7 @@ DOMAIN-SUFFIX,huaglad.com
 DOMAIN-SUFFIX,namethatpornad.com
 DOMAIN-SUFFIX,gogo-load.com
 DOMAIN-SUFFIX,pornmegaload.com
+DOMAIN-SUFFIX,moeload.com
 DOMAIN-SUFFIX,duckload.com
 DOMAIN-SUFFIX,sevenload.com
 DOMAIN-SUFFIX,softether-download.com
@@ -6969,6 +6973,7 @@ DOMAIN-SUFFIX,1watchmygf.com
 DOMAIN-SUFFIX,tukif.com
 DOMAIN-SUFFIX,espressif.com
 DOMAIN-SUFFIX,half.com
+DOMAIN-SUFFIX,myanimeshelf.com
 DOMAIN-SUFFIX,joyourself.com
 DOMAIN-SUFFIX,tailf.com
 DOMAIN-SUFFIX,nakedamateurmilf.com
@@ -9410,6 +9415,7 @@ DOMAIN-SUFFIX,mdhcdn.com
 DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,ciciaicdn.com
 DOMAIN-SUFFIX,bcicdn.com
+DOMAIN-SUFFIX,bgicdn.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,uicdn.com
 DOMAIN-SUFFIX,ckcdn.com
@@ -9450,6 +9456,7 @@ DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,rdtcdn.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,herokucdn.com
+DOMAIN-SUFFIX,bcvcdn.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,teraboxcdn.com
 DOMAIN-SUFFIX,bbc.mp-pxcdn.com
@@ -9879,6 +9886,7 @@ DOMAIN-SUFFIX,justfreevpn.com
 DOMAIN-SUFFIX,ufreevpn.com
 DOMAIN-SUFFIX,seevpn.com
 DOMAIN-SUFFIX,noodlevpn.com
+DOMAIN-SUFFIX,greatfirevpn.com
 DOMAIN-SUFFIX,azirevpn.com
 DOMAIN-SUFFIX,purevpn.com
 DOMAIN-SUFFIX,privatevpn.com
@@ -11672,6 +11680,7 @@ DOMAIN-SUFFIX,dkr.com
 DOMAIN-SUFFIX,thedailysnkr.com
 DOMAIN-SUFFIX,twitterkr.com
 DOMAIN-SUFFIX,twtkr.com
+DOMAIN-SUFFIX,umblr.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tunnelr.com
 DOMAIN-SUFFIX,googlr.com
@@ -12168,6 +12177,7 @@ DOMAIN-SUFFIX,mastercardservices.com
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,squarecloudservices.com
 DOMAIN-SUFFIX,shapeservices.com
+DOMAIN-SUFFIX,affinity.api.serifservices.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,appleiservices.com
 DOMAIN-SUFFIX,mtvnservices.com
@@ -16968,6 +16978,7 @@ DOMAIN-SUFFIX,canarymail.io
 DOMAIN-SUFFIX,mattersprotocol.io
 DOMAIN-SUFFIX,flexpool.io
 DOMAIN-SUFFIX,consul.io
+DOMAIN-SUFFIX,neovim.io
 DOMAIN-SUFFIX,nlm.io
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,xoom.io
@@ -17110,6 +17121,7 @@ DOMAIN-SUFFIX,cuty.io
 DOMAIN-SUFFIX,wireless.radio
 DOMAIN-SUFFIX,appleone.audio
 DOMAIN-SUFFIX,fish.audio
+DOMAIN-SUFFIX,affinity.studio
 DOMAIN-SUFFIX,itunesradio.rio
 DOMAIN-SUFFIX,itunes.rio
 DOMAIN-SUFFIX,jo
@@ -17344,6 +17356,7 @@ DOMAIN-SUFFIX,shop.app
 DOMAIN-SUFFIX,floorp.app
 DOMAIN-SUFFIX,linear.app
 DOMAIN-SUFFIX,vkmessenger.app
+DOMAIN-SUFFIX,zen-browser.app
 DOMAIN-SUFFIX,pulsebrowser.app
 DOMAIN-SUFFIX,libsolutions.app
 DOMAIN-SUFFIX,organicmaps.app

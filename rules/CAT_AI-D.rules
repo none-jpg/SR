@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,mistral.ai
@@ -32,8 +33,8 @@ DOMAIN,api.github.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,claude.com
-DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
@@ -44,14 +45,12 @@ DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,apis.google.com
-DOMAIN,apple-relay.apple.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,stripe.com
-DOMAIN,cp4.cloudflare.com
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ciciai.com

@@ -10,6 +10,7 @@
 .featuregates.org
 .cursor.sh
 .meta.ai
+.trae.ai
 .claude.ai
 .cohere.ai
 .mistral.ai
@@ -32,8 +33,8 @@ api.github.com
 .anthropic.com
 .oaistatic.com
 .deepmind.com
+.marscode.com
 .claude.com
-apple-relay.fastly-edge.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
 webchannel-alkalimakersuite-pa.clients6.google.com
@@ -44,14 +45,12 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .aistudio.google.com
 .jules.google.com
 .apis.google.com
-apple-relay.apple.com
 .poe.com
 .stripe.com
-cp4.cloudflare.com
 .gateway.ai.cloudflare.com
 .challenges.cloudflare.com
-apple-relay.cloudflare.com
 .cohere.com
+.coze.com
 .api.statsig.com
 .ai.com
 .ciciai.com
