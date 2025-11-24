@@ -1670,6 +1670,7 @@ DOMAIN-SUFFIX,uzzf.com
 DOMAIN-SUFFIX,jtg2g.com
 DOMAIN-SUFFIX,zoom3g.com
 DOMAIN-SUFFIX,frp-bag.com
+DOMAIN-SUFFIX,frp-tag.com
 DOMAIN-SUFFIX,71acg.com
 DOMAIN-SUFFIX,sfacg.com
 DOMAIN-SUFFIX,gracg.com
@@ -2111,6 +2112,7 @@ DOMAIN-SUFFIX,114shouji.com
 DOMAIN-SUFFIX,sec-wiki.com
 DOMAIN-SUFFIX,oi-wiki.com
 DOMAIN-SUFFIX,huijiwiki.com
+DOMAIN-SUFFIX,frp-ski.com
 DOMAIN-SUFFIX,wali.com
 DOMAIN-SUFFIX,huashengdaili.com
 DOMAIN-SUFFIX,bilibili.com
@@ -2255,7 +2257,6 @@ DOMAIN-SUFFIX,7k7k.com
 DOMAIN-SUFFIX,tcdnkcbak.com
 DOMAIN-SUFFIX,tcdnvodbak.com
 DOMAIN-SUFFIX,spcdntipbak.com
-DOMAIN-SUFFIX,frp-oak.com
 DOMAIN-SUFFIX,vodtcbk.com
 DOMAIN-SUFFIX,dycloudbk.com
 DOMAIN-SUFFIX,rdfybk.com
@@ -2573,7 +2574,6 @@ DOMAIN-SUFFIX,jiuzhilan.com
 DOMAIN-SUFFIX,yaolan.com
 DOMAIN-SUFFIX,yidianliulan.com
 DOMAIN-SUFFIX,anywlan.com
-DOMAIN-SUFFIX,frp-man.com
 DOMAIN-SUFFIX,duxiaoman.com
 DOMAIN-SUFFIX,ihuman.com
 DOMAIN-SUFFIX,cloudnanan.com
@@ -2898,6 +2898,7 @@ DOMAIN-SUFFIX,frp-run.com
 DOMAIN-SUFFIX,ebrun.com
 DOMAIN-SUFFIX,wxcloudrun.com
 DOMAIN-SUFFIX,tmtsmartrun.com
+DOMAIN-SUFFIX,frp-sun.com
 DOMAIN-SUFFIX,05sun.com
 DOMAIN-SUFFIX,ipchaxun.com
 DOMAIN-SUFFIX,hexun.com
@@ -3307,8 +3308,8 @@ DOMAIN-SUFFIX,tpyzq.com
 DOMAIN-SUFFIX,32r.com
 DOMAIN-SUFFIX,frp-bar.com
 DOMAIN-SUFFIX,mapbar.com
-DOMAIN-SUFFIX,frp-car.com
 DOMAIN-SUFFIX,xiaomiwear.com
+DOMAIN-SUFFIX,frp-jar.com
 DOMAIN-SUFFIX,neoscholar.com
 DOMAIN-SUFFIX,twscholar.com
 DOMAIN-SUFFIX,titanar.com
@@ -3823,7 +3824,6 @@ DOMAIN-SUFFIX,tencentcloud-aiot.com
 DOMAIN-SUFFIX,vertciot.com
 DOMAIN-SUFFIX,qcloudsmartiot.com
 DOMAIN-SUFFIX,ypppt.com
-DOMAIN-SUFFIX,frp-art.com
 DOMAIN-SUFFIX,aamsmart.com
 DOMAIN-SUFFIX,fa-part.com
 DOMAIN-SUFFIX,herostart.com
@@ -4263,7 +4263,6 @@ DOMAIN-SUFFIX,frp-boy.com
 DOMAIN-SUFFIX,youboy.com
 DOMAIN-SUFFIX,burningvocabulary.com
 DOMAIN-SUFFIX,sslibrary.com
-DOMAIN-SUFFIX,frp-dry.com
 DOMAIN-SUFFIX,myparallelstory.com
 DOMAIN-SUFFIX,163industry.com
 DOMAIN-SUFFIX,logiseasy.com

@@ -4199,6 +4199,7 @@ DOMAIN-SUFFIX,myhelpinglab.com
 DOMAIN-SUFFIX,mysocialworklab.com
 DOMAIN-SUFFIX,rbdigitallab.com
 DOMAIN-SUFFIX,visacarddesignlab.com
+DOMAIN-SUFFIX,originlab.com
 DOMAIN-SUFFIX,paypal-innovationlab.com
 DOMAIN-SUFFIX,indaznlab.com
 DOMAIN-SUFFIX,hp-infolab.com
@@ -19660,6 +19661,7 @@ DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,stackpath.dev
 DOMAIN-SUFFIX,ai.dev
 DOMAIN-SUFFIX,orbstack.dev
+DOMAIN-SUFFIX,ai-sdk.dev
 DOMAIN-SUFFIX,autodesk.dev
 DOMAIN-SUFFIX,vercel.dev
 DOMAIN-SUFFIX,intel.dev
