@@ -9417,6 +9417,7 @@ DOMAIN-SUFFIX,tiktokrow-cdn.com
 DOMAIN-SUFFIX,vox-cdn.com
 DOMAIN-SUFFIX,xnxx-cdn.com
 DOMAIN-SUFFIX,sway-cdn.com
+DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,mi9cdn.com
 DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com
 DOMAIN-SUFFIX,cnbetacdn.com
@@ -12081,13 +12082,10 @@ DOMAIN-SUFFIX,epicreads.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,ingads.com
-DOMAIN-SUFFIX,bingads.com
-DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,binads.com
 DOMAIN-SUFFIX,mypornads.com
 DOMAIN-SUFFIX,naverads.com
 DOMAIN-SUFFIX,rbgrads.com
-DOMAIN-SUFFIX,microsoftads.com
 DOMAIN-SUFFIX,ebayads.com
 DOMAIN-SUFFIX,ebayclassifieds.com
 DOMAIN-SUFFIX,ebaydlassifieds.com
@@ -18911,7 +18909,6 @@ DOMAIN-SUFFIX,icloudads.net
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,facebookthreads.net
 DOMAIN-SUFFIX,freefacebookads.net
-DOMAIN-SUFFIX,msads.net
 DOMAIN-SUFFIX,geek-squads.net
 DOMAIN-SUFFIX,ebayads.net
 DOMAIN-SUFFIX,pornogids.net
