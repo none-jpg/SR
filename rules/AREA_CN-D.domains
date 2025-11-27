@@ -854,6 +854,7 @@ cn.download.nvidia.com
 .asklib.com
 .superlib.com
 .frp-rib.com
+.cqsjb.com
 .ihykb.com
 .volcalb.com
 .volcenginealb.com
@@ -906,6 +907,7 @@ cn.download.nvidia.com
 .libaclub.com
 .bestdataclub.com
 .tencentcloudclub.com
+.langrenclub.com
 .lanzoub.com
 .cnepub.com
 .gfbzb.com
@@ -950,6 +952,7 @@ cn.download.nvidia.com
 .huajingsec.com
 .ctsec.com
 .htsec.com
+.iflysec.com
 .jzsec.com
 .zzdtec.com
 .xafc.com
@@ -1566,6 +1569,7 @@ media.cdn.queniuqe.com
 .officese.com
 .jinse.com
 .timmerse.com
+.yokaverse.com
 .seniverse.com
 .17house.com
 .5khouse.com
@@ -1824,6 +1828,7 @@ media.cdn.queniuqe.com
 .jiameng.com
 .tianxiajiameng.com
 .umeng.com
+.tianpeng.com
 .hikunpeng.com
 .xiaopeng.com
 .oupeng.com
@@ -1875,6 +1880,7 @@ media.cdn.queniuqe.com
 .idouyinliving.com
 .toutiaoliving.com
 .itoutiaoliving.com
+.cqliving.com
 .acwing.com
 .woyaogexing.com
 .baixing.com
@@ -2035,6 +2041,7 @@ media.cdn.queniuqe.com
 .ggkuai.com
 .sankuai.com
 .henkuai.com
+.inkuai.com
 .xhaiwai.com
 .inkwai.com
 .kskwai.com
@@ -2066,6 +2073,7 @@ media.cdn.queniuqe.com
 .gamemei.com
 .alimei.com
 .ruanmei.com
+.wanmei.com
 .ishumei.com
 .jumei.com
 .yunshipei.com
@@ -2093,6 +2101,7 @@ media.cdn.queniuqe.com
 .wumii.com
 .dji.com
 .leikeji.com
+.dianzhenkeji.com
 .xiaojukeji.com
 .21jingji.com
 .houyicaiji.com
@@ -2110,6 +2119,7 @@ media.cdn.queniuqe.com
 .shidianguji.com
 .360shouji.com
 .114shouji.com
+.xinwuji.com
 .sec-wiki.com
 .oi-wiki.com
 .huijiwiki.com
@@ -2229,6 +2239,7 @@ media.cdn.queniuqe.com
 .123juzi.com
 .itjuzi.com
 .z28j.com
+.zbj.com
 .igamecj.com
 .gongxiangcj.com
 .zijiedj.com
@@ -2318,6 +2329,7 @@ media.cdn.queniuqe.com
 .iflyink.com
 .wdfok.com
 .tingbook.com
+.imgcook.com
 .klook.com
 .52pk.com
 .4399pk.com
@@ -2405,6 +2417,7 @@ i.dell.com
 .169ol.com
 .cnfol.com
 .cjol.com
+.tacool.com
 .tuicool.com
 .cofool.com
 .neoschool.com
@@ -3086,6 +3099,7 @@ www.libvideo.com
 .eastsoo.com
 .viayoo.com
 .woyoo.com
+.tuyoo.com
 .7po.com
 .freshippo.com
 .oppo.com
@@ -3284,6 +3298,7 @@ www.libvideo.com
 .funjsq.com
 .oojsq.com
 .htjsq.com
+.i8tq.com
 .lanzouq.com
 .zsxq.com
 .hangzhouyq.com
@@ -3527,6 +3542,7 @@ www.ztedevices.com
 .feishumeetings.com
 .cnblogs.com
 .hlzqgs.com
+.xhlsgs.com
 .nzwgs.com
 .tamaegis.com
 .jiathis.com
@@ -3745,6 +3761,8 @@ www.ztedevices.com
 .urselect.com
 .mojidict.com
 .jxedt.com
+.hndt.com
+.weatherdt.com
 .chinaaet.com
 .miaostreet.com
 .igetget.com
@@ -3801,6 +3819,7 @@ www.ztedevices.com
 .jlc-smt.com
 .jlcsmt.com
 .awtmt.com
+.xinhuaxmt.com
 .tencentdigitalassistant.com
 config.ubnt.com
 dl.ubnt.com
@@ -3842,6 +3861,7 @@ dl.ubnt.com
 .byted-dast.com
 .800best.com
 .kfcbest.com
+.dobest.com
 .pptbest.com
 .dhrest.com
 .apaas-zone-test.com
@@ -4010,6 +4030,7 @@ dl.ubnt.com
 .cloudxianyou.com
 .xunyou.com
 .aoyou.com
+.zhuoyou.com
 .yoyou.com
 .peiluyou.com
 .gaoshouyou.com
@@ -4063,6 +4084,7 @@ dl.ubnt.com
 .bdtjrcv.com
 .tenant-zone-dev.com
 .veefdev.com
+.zbjdev.com
 .baseopendev.com
 .blurdev.com
 .vemarsdev.com
@@ -4501,6 +4523,7 @@ gstore.val.manlaxy.com
 .tdnsv5.net
 .95516.net
 .126.net
+.lf126.net
 .166.net
 .tdnsv6.net
 .127.net
@@ -4815,6 +4838,7 @@ time.izatcloud.net
 .pubyun.net
 .kaipuyun.net
 .onlinedown.net
+.taobao.net
 .qijiayoudao.net
 .toutiaohao.net
 .zhaokao.net
@@ -4914,6 +4938,7 @@ time.izatcloud.net
 .yfdts.net
 .oneplus.net
 .jdcloudstatus.net
+.cqnews.net
 .douyinact.net
 .kejet.net
 .coolapkmarket.net
