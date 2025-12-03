@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,vestack.cloud
 DOMAIN-SUFFIX,lazycat.cloud
 DOMAIN-SUFFIX,jikeiot.cloud
 DOMAIN-SUFFIX,linglong.space
+DOMAIN-SUFFIX,xyzfm.space
 DOMAIN-SUFFIX,heiyu.space
 DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,500d.me
@@ -196,6 +197,7 @@ DOMAIN-SUFFIX,dji.ink
 DOMAIN-SUFFIX,wss.ink
 DOMAIN-SUFFIX,126.link
 DOMAIN-SUFFIX,yqkk.link
+DOMAIN-SUFFIX,xyzfm.link
 DOMAIN-SUFFIX,a-map.link
 DOMAIN-SUFFIX,agconnect.link
 DOMAIN-SUFFIX,haowu.link
@@ -1015,6 +1017,7 @@ DOMAIN-SUFFIX,qznovelstatic.com
 DOMAIN-SUFFIX,novelfmstatic.com
 DOMAIN-SUFFIX,jmstatic.com
 DOMAIN-SUFFIX,dxmstatic.com
+DOMAIN-SUFFIX,meicanstatic.com
 DOMAIN-SUFFIX,huoshanstatic.com
 DOMAIN-SUFFIX,ihuoshanstatic.com
 DOMAIN-SUFFIX,zhuanstatic.com
@@ -2471,6 +2474,7 @@ DOMAIN-SUFFIX,jlc-dfm.com
 DOMAIN-SUFFIX,jlcdfm.com
 DOMAIN-SUFFIX,lizhifm.com
 DOMAIN-SUFFIX,novelfm.com
+DOMAIN-SUFFIX,xiaoyuzhoufm.com
 DOMAIN-SUFFIX,gzlzfm.com
 DOMAIN-SUFFIX,4paradigm.com
 DOMAIN-SUFFIX,qdwebim.com
@@ -2518,6 +2522,7 @@ DOMAIN-SUFFIX,huaban.com
 DOMAIN-SUFFIX,wenmingban.com
 DOMAIN-SUFFIX,hongsanban.com
 DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,meican.com
 DOMAIN-SUFFIX,kunluncan.com
 DOMAIN-SUFFIX,jugongdan.com
 DOMAIN-SUFFIX,volcadocean.com
@@ -4818,6 +4823,7 @@ DOMAIN-SUFFIX,bootcdn.net
 DOMAIN-SUFFIX,qingfuwucdn.net
 DOMAIN-SUFFIX,bestvcdn.net
 DOMAIN-SUFFIX,bdycdn.net
+DOMAIN-SUFFIX,xyzcdn.net
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,onegreen.net
 DOMAIN-SUFFIX,jinrongren.net
@@ -5052,4 +5058,5 @@ DOMAIN-SUFFIX,steam302.xyz
 DOMAIN-SUFFIX,privateapi.xyz
 DOMAIN-SUFFIX,landian.xyz
 DOMAIN-SUFFIX,nellit.xyz
+DOMAIN-SUFFIX,podcast.xyz
 DOMAIN-SUFFIX,lingkou.xyz
