@@ -150,6 +150,7 @@ kms.03k.org
 .shssp.org
 .cn.pool.ntp.org
 .nowcoder.org
+.hapjs.org
 .58dns.org
 .wscdns.org
 .lxdns.org
@@ -740,6 +741,7 @@ cn.download.nvidia.com
 .anxia.com
 .downxia.com
 .hapierxia.com
+.rongshuxia.com
 .juxia.com
 .jisuxia.com
 .gtja.com
@@ -1124,6 +1126,7 @@ cn.download.nvidia.com
 .feishuvc.com
 .eduapaashwc.com
 .jomoxc.com
+.bgwxc.com
 .forface3d.com
 .999d.com
 .jlc-cad.com
@@ -1134,6 +1137,8 @@ cn.download.nvidia.com
 .frp-dad.com
 .cubead.com
 .5read.com
+.vsread.com
+.hotread.com
 .volciad.com
 .frp-mad.com
 .uyunad.com
@@ -1422,6 +1427,7 @@ kc.kexinshe.com
 .mogujie.com
 .wuliujie.com
 .shujupie.com
+.motie.com
 .halvie.com
 .changxie.com
 .51changxie.com
@@ -1718,6 +1724,7 @@ media.cdn.queniuqe.com
 .babytreeimg.com
 .dajieimg.com
 .zijieimg.com
+.motieimg.com
 .larksuiteimg.com
 .byteimg.com
 .kgimg.com
@@ -1740,6 +1747,7 @@ media.cdn.queniuqe.com
 .ihuoshanimg.com
 .yihaodianimg.com
 .kanimg.com
+.heiyanimg.com
 .soufunimg.com
 .toutiaoimg.com
 .bitautoimg.com
@@ -1791,6 +1799,7 @@ media.cdn.queniuqe.com
 .cloudlijiang.com
 .hujiang.com
 .cloudjiujiang.com
+.kujiang.com
 .cloudtongliang.com
 .piaoliang.com
 .lixiang.com
@@ -1799,6 +1808,7 @@ media.cdn.queniuqe.com
 .wuuxiang.com
 .taikang.com
 .awemeuglang.com
+.zhulang.com
 .leleketang.com
 .duitang.com
 .qiaobutang.com
@@ -2016,6 +2026,7 @@ media.cdn.queniuqe.com
 .xingyeai.com
 .maoxiangai.com
 .cloudshanghai.com
+.shuhai.com
 .cloudzhuhai.com
 .wolai.com
 .zhidemai.com
@@ -2640,6 +2651,7 @@ i.dell.com
 .juwan.com
 .tuwan.com
 .changyan.com
+.heiyan.com
 .cloud-shiyan.com
 .chinakaoyan.com
 .maoyan.com
@@ -2733,6 +2745,7 @@ i.dell.com
 .myalicdn.com
 .geilicdn.com
 www.layuicdn.com
+.kjcdn.com
 .ljcdn.com
 .zjcdn.com
 .dbankcdn.com
@@ -2832,6 +2845,7 @@ www.layuicdn.com
 .yuewen.com
 .ruiwen.com
 .qianwen.com
+.zuowen.com
 .ivwen.com
 .zhlyen.com
 .larkfn.com
@@ -3431,6 +3445,7 @@ www.libvideo.com
 .okr.com
 .guokr.com
 .ifanr.com
+.dxmjinr.com
 .xiaominr.com
 .kugousenior.com
 .oppocolor.com
@@ -3499,8 +3514,7 @@ www.libvideo.com
 .lvtds.com
 .hwclouds.com
 .myhwclouds.com
-bbs.ztedevices.com
-www.ztedevices.com
+.ztedevices.com
 .tencentdevices.com
 .feishu-3rd-party-services.com
 .emr-volces.com
@@ -3560,6 +3574,7 @@ www.ztedevices.com
 .sinajs.com
 .sharejs.com
 .frontjs.com
+.haidubooks.com
 .zgjsks.com
 .jsyks.com
 .bthhotels.com
@@ -3906,6 +3921,7 @@ dl.ubnt.com
 .123u.com
 .guabu.com
 .mubu.com
+.tadu.com
 .byted-edu.com
 .welltrend-edu.com
 .jdcloud-edu.com
@@ -3937,6 +3953,7 @@ dl.ubnt.com
 .zhihu.com
 .114menhu.com
 .sohu.com
+.hongshu.com
 .xiaohongshu.com
 .3songshu.com
 .getfeishu.com
@@ -4333,6 +4350,7 @@ gstore.val.manlaxy.com
 .cdnjtzy.com
 .52z.com
 .chinaz.com
+.jamcz.com
 .oadz.com
 .happyhlddz.com
 .filez.com
