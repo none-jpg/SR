@@ -189,6 +189,7 @@ DOMAIN-SUFFIX,51pincha.cc
 DOMAIN-SUFFIX,fotolia.cc
 DOMAIN-SUFFIX,xsela.cc
 DOMAIN-SUFFIX,avrila.cc
+DOMAIN-SUFFIX,perma.cc
 DOMAIN-SUFFIX,xnxxarab.cc
 DOMAIN-SUFFIX,pttweb.cc
 DOMAIN-SUFFIX,jkb.cc
@@ -1191,6 +1192,7 @@ DOMAIN-SUFFIX,dotdeb.org
 DOMAIN-SUFFIX,rfaweb.org
 DOMAIN-SUFFIX,picasaweb.org
 DOMAIN-SUFFIX,aclweb.org
+DOMAIN-SUFFIX,mementoweb.org
 DOMAIN-SUFFIX,cdpweb.org
 DOMAIN-SUFFIX,hrweb.org
 DOMAIN-SUFFIX,tbib.org
@@ -1468,7 +1470,9 @@ DOMAIN-SUFFIX,internetdefenseleague.org
 DOMAIN-SUFFIX,teenrave.org
 DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,eotarchive.org
 DOMAIN-SUFFIX,coverartarchive.org
+DOMAIN-SUFFIX,ghostarchive.org
 DOMAIN-SUFFIX,jerkmatelive.org
 DOMAIN-SUFFIX,xhlive.org
 DOMAIN-SUFFIX,onedrive.org
@@ -1913,6 +1917,7 @@ DOMAIN-SUFFIX,linuxfoundation.org
 DOMAIN-SUFFIX,dataliberation.org
 DOMAIN-SUFFIX,tibetanliberation.org
 DOMAIN-SUFFIX,june4commemoration.org
+DOMAIN-SUFFIX,webcitation.org
 DOMAIN-SUFFIX,scitation.org
 DOMAIN-SUFFIX,kingdomsalvation.org
 DOMAIN-SUFFIX,thechinacollection.org
@@ -17254,6 +17259,7 @@ DOMAIN-SUFFIX,microsoft.io
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,imagekit.io
 DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,dmit.io
 DOMAIN-SUFFIX,cla-assistant.io
 DOMAIN-SUFFIX,element.io
 DOMAIN-SUFFIX,adobecontent.io
@@ -18691,6 +18697,7 @@ DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN,f3b7q2p3.ssl.hwcdn.net
 DOMAIN-SUFFIX,ebaycdn.net
 DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,dzcdn.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,osdn.net
 DOMAIN-SUFFIX,mysdn.net
