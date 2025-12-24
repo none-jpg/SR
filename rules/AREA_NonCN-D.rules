@@ -1457,6 +1457,7 @@ DOMAIN-SUFFIX,awseducate.org
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,free-gate.org
 DOMAIN-SUFFIX,ogate.org
+DOMAIN-SUFFIX,weblate.org
 DOMAIN-SUFFIX,wemigrate.org
 DOMAIN-SUFFIX,paypal-activate.org
 DOMAIN-SUFFIX,sqlite.org
@@ -4582,7 +4583,6 @@ DOMAIN-SUFFIX,pplusstatic.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,nftstatic.com
 DOMAIN-SUFFIX,redditstatic.com
-DOMAIN-SUFFIX,futustatic.com
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,wixstatic.com
 DOMAIN-SUFFIX,dropboxstatic.com
@@ -6248,6 +6248,7 @@ DOMAIN-SUFFIX,vanitaonline.com
 DOMAIN-SUFFIX,oxfordmusiconline.com
 DOMAIN-SUFFIX,geeksquadonline.com
 DOMAIN-SUFFIX,javhdonline.com
+DOMAIN-SUFFIX,ldoceonline.com
 DOMAIN-SUFFIX,appleonline.com
 DOMAIN-SUFFIX,2013beatsbydrdreonline.com
 DOMAIN-SUFFIX,applestoreonline.com
@@ -9751,7 +9752,6 @@ DOMAIN-SUFFIX,avcnn.com
 DOMAIN-SUFFIX,mmdnn.com
 DOMAIN-SUFFIX,tryquinn.com
 DOMAIN-SUFFIX,41maonn.com
-DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,twibbon.com
 DOMAIN-SUFFIX,carbon.com
 DOMAIN-SUFFIX,applecarbon.com
@@ -11115,7 +11115,6 @@ DOMAIN-SUFFIX,wheelpop.com
 DOMAIN-SUFFIX,vpnpop.com
 DOMAIN-SUFFIX,gearspop.com
 DOMAIN-SUFFIX,javpop.com
-DOMAIN-SUFFIX,futuesop.com
 DOMAIN-SUFFIX,av-top.com
 DOMAIN-SUFFIX,n0vadesktop.com
 DOMAIN-SUFFIX,fmdesktop.com
@@ -11157,6 +11156,7 @@ DOMAIN-SUFFIX,kingkongapp.com
 DOMAIN-SUFFIX,cashbycashapp.com
 DOMAIN-SUFFIX,bitnamiapp.com
 DOMAIN-SUFFIX,pickpackapp.com
+DOMAIN-SUFFIX,futuhkapp.com
 DOMAIN-SUFFIX,postmarkapp.com
 DOMAIN-SUFFIX,jetfuelapp.com
 DOMAIN-SUFFIX,onapp.com
@@ -15009,7 +15009,6 @@ DOMAIN-SUFFIX,avhu.com
 DOMAIN-SUFFIX,sexhu.com
 DOMAIN-SUFFIX,eiu.com
 DOMAIN-SUFFIX,laomiu.com
-DOMAIN-SUFFIX,futuniuniu.com
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,huanyuju.com
 DOMAIN-SUFFIX,asagaku.com
@@ -16216,6 +16215,7 @@ DOMAIN-SUFFIX,cloudinary.com
 DOMAIN-SUFFIX,dictionary.com
 DOMAIN-SUFFIX,urbandictionary.com
 DOMAIN-SUFFIX,podictionary.com
+DOMAIN-SUFFIX,collinsdictionary.com
 DOMAIN-SUFFIX,moeero-library.com
 DOMAIN-SUFFIX,rbrandlibrary.com
 DOMAIN-SUFFIX,thefreelibrary.com
@@ -18252,6 +18252,7 @@ DOMAIN-SUFFIX,beatsone.net
 DOMAIN-SUFFIX,seezone.net
 DOMAIN-SUFFIX,wezone.net
 DOMAIN-SUFFIX,sexxxtape.net
+DOMAIN-SUFFIX,newpipe.net
 DOMAIN-SUFFIX,ripe.net
 DOMAIN-SUFFIX,skype.net
 DOMAIN-SUFFIX,69re.net
