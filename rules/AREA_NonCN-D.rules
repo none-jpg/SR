@@ -10368,6 +10368,7 @@ DOMAIN-SUFFIX,renminbao.com
 DOMAIN-SUFFIX,jieshibaobao.com
 DOMAIN-SUFFIX,zaobao.com
 DOMAIN-SUFFIX,kzaobao.com
+DOMAIN-SUFFIX,gfwbao.com
 DOMAIN-SUFFIX,venetianmacao.com
 DOMAIN-SUFFIX,500caocao.com
 DOMAIN-SUFFIX,badiucao.com
@@ -11386,6 +11387,7 @@ DOMAIN-SUFFIX,yomiuri-shimbun.pressreader.com
 DOMAIN-SUFFIX,getuploader.com
 DOMAIN-SUFFIX,pocketbiketrader.com
 DOMAIN-SUFFIX,instaadder.com
+DOMAIN-SUFFIX,steamladder.com
 DOMAIN-SUFFIX,abclider.com
 DOMAIN-SUFFIX,insider.com
 DOMAIN-SUFFIX,microsoftedgeinsider.com
@@ -14204,9 +14206,6 @@ DOMAIN-SUFFIX,yourepeat.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,safechat.com
-DOMAIN,sglong.wechat.com
-DOMAIN,sgshort.wechat.com
-DOMAIN,sgminorshort.wechat.com
 DOMAIN-SUFFIX,freewechat.com
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 DOMAIN-SUFFIX,snapchat.com
@@ -19822,7 +19821,6 @@ DOMAIN-SUFFIX,zeplin.dev
 DOMAIN-SUFFIX,zenn.dev
 DOMAIN-SUFFIX,amazon.dev
 DOMAIN-SUFFIX,go.dev
-DOMAIN-SUFFIX,deno.dev
 DOMAIN-SUFFIX,kiro.dev
 DOMAIN-SUFFIX,mdnyalp.dev
 DOMAIN-SUFFIX,amp.dev
