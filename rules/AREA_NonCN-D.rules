@@ -1855,6 +1855,7 @@ DOMAIN-SUFFIX,casadeltibetbcn.org
 DOMAIN-SUFFIX,cmcn.org
 DOMAIN-SUFFIX,ncn.org
 DOMAIN-SUFFIX,uocn.org
+DOMAIN-SUFFIX,archlinuxcn.org
 DOMAIN-SUFFIX,telegram-cdn.org
 DOMAIN-SUFFIX,edx-cdn.org
 DOMAIN-SUFFIX,4cdn.org
@@ -2438,6 +2439,7 @@ DOMAIN-SUFFIX,openvinotoolkit.org
 DOMAIN-SUFFIX,componentkit.org
 DOMAIN-SUFFIX,www.monlamit.org
 DOMAIN-SUFFIX,finlitsummit.org
+DOMAIN-SUFFIX,godbolt.org
 DOMAIN-SUFFIX,proxyadult.org
 DOMAIN-SUFFIX,fpmt.org
 DOMAIN-SUFFIX,brilliant.org
