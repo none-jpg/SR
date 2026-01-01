@@ -4015,6 +4015,7 @@ DOMAIN-SUFFIX,urasma.com
 DOMAIN-SUFFIX,delcam-na.com
 DOMAIN-SUFFIX,179na.com
 DOMAIN-SUFFIX,porncana.com
+DOMAIN-SUFFIX,grafana.com
 DOMAIN-SUFFIX,blog.taragana.com
 DOMAIN-SUFFIX,exotic-ghana.com
 DOMAIN-SUFFIX,bmw-ghana.com
@@ -8668,6 +8669,7 @@ DOMAIN-SUFFIX,188channel.com
 DOMAIN-SUFFIX,redzonechannel.com
 DOMAIN-SUFFIX,foxnewschannel.com
 DOMAIN-SUFFIX,kickshatchannel.com
+DOMAIN-SUFFIX,cloudflaretunnel.com
 DOMAIN-SUFFIX,securetunnel.com
 DOMAIN-SUFFIX,privatetunnel.com
 DOMAIN-SUFFIX,vpntunnel.com
@@ -9572,6 +9574,7 @@ DOMAIN-SUFFIX,shopifycdn.com
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,strikinglycdn.com
 DOMAIN-SUFFIX,udemycdn.com
+DOMAIN-SUFFIX,bunnycdn.com
 DOMAIN-SUFFIX,55dndn.com
 DOMAIN-SUFFIX,dazndn.com
 DOMAIN-SUFFIX,btwrdn.com
@@ -18663,9 +18666,7 @@ DOMAIN-SUFFIX,redchinacn.net
 DOMAIN-SUFFIX,lkcn.net
 DOMAIN-SUFFIX,xbookcn.net
 DOMAIN-SUFFIX,gaycn.net
-DOMAIN,anime-rule34-world.b-cdn.net
-DOMAIN,tmdb-image-prod.b-cdn.net
-DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,line-cdn.net
@@ -19604,6 +19605,7 @@ DOMAIN-SUFFIX,currently.net
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,burstly.net
 DOMAIN-SUFFIX,falun-ny.net
+DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,inkbunny.net
 DOMAIN-SUFFIX,clearharmony.net
 DOMAIN-SUFFIX,sony.net
