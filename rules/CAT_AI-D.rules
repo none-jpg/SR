@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,jules.google
 DOMAIN,antigravity.google
+DOMAIN,antigravity-unleash.goog
 DOMAIN-SUFFIX,comfyci.org
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,comfy.org
@@ -80,6 +81,7 @@ DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
