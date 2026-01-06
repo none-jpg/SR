@@ -23,4 +23,5 @@ DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,ai.studio
 DOMAIN,ai.google.dev
