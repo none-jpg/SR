@@ -70,6 +70,8 @@ DOMAIN-SUFFIX,ua
 DOMAIN-SUFFIX,va
 DOMAIN-SUFFIX,java
 DOMAIN-SUFFIX,za
+DOMAIN-SUFFIX,ngrok-free.pizza
+DOMAIN-SUFFIX,ngrok.pizza
 DOMAIN-SUFFIX,apple.xn--czr694b
 DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b
 DOMAIN-SUFFIX,bb
@@ -2892,6 +2894,7 @@ DOMAIN-SUFFIX,tryst.link
 DOMAIN-SUFFIX,66lu.link
 DOMAIN-SUFFIX,teensnow.link
 DOMAIN-SUFFIX,spotify.link
+DOMAIN-SUFFIX,pinggy.link
 DOMAIN-SUFFIX,hentai.pink
 DOMAIN-SUFFIX,pk
 DOMAIN-SUFFIX,huluhuluhuluhulu10.work
@@ -8404,6 +8407,7 @@ DOMAIN-SUFFIX,facewook.com
 DOMAIN-SUFFIX,facebyook.com
 DOMAIN-SUFFIX,facebzook.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,ngrok.com
 DOMAIN-SUFFIX,monsterbeatsok.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,thottok.com
@@ -17229,6 +17233,7 @@ DOMAIN-SUFFIX,thenewstack.io
 DOMAIN-SUFFIX,servicetalk.io
 DOMAIN-SUFFIX,kakaobank.io
 DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,ngrok.io
 DOMAIN-SUFFIX,metamask.io
 DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,spatial.io
@@ -17371,6 +17376,7 @@ DOMAIN-SUFFIX,vday.io
 DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,misskey.io
 DOMAIN-SUFFIX,disney.io
+DOMAIN-SUFFIX,pinggy.io
 DOMAIN-SUFFIX,fly.io
 DOMAIN-SUFFIX,cdn.statically.io
 DOMAIN-SUFFIX,grammarly.io
@@ -17426,6 +17432,7 @@ DOMAIN-SUFFIX,popai.pro
 DOMAIN-SUFFIX,hentai.pro
 DOMAIN-SUFFIX,huobi.pro
 DOMAIN-SUFFIX,cylink.pro
+DOMAIN-SUFFIX,ngrok.pro
 DOMAIN-SUFFIX,sexvideo12com.pro
 DOMAIN-SUFFIX,seqingwangzhan.pro
 DOMAIN-SUFFIX,verisign.pro
@@ -17616,6 +17623,7 @@ DOMAIN-SUFFIX,web.app
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,zb.app
 DOMAIN-SUFFIX,adguard.app
+DOMAIN-SUFFIX,ngrok-free.app
 DOMAIN-SUFFIX,gridaware.app
 DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,vklive.app
@@ -17625,6 +17633,7 @@ DOMAIN-SUFFIX,cash.app
 DOMAIN,yangzhi.app
 DOMAIN-SUFFIX,bbc-reporting-api.app
 DOMAIN-SUFFIX,knock.app
+DOMAIN-SUFFIX,ngrok.app
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,agedm.app
 DOMAIN-SUFFIX,singlelogin.app
@@ -19879,6 +19888,7 @@ DOMAIN-SUFFIX,demo.unlock-music.dev
 DOMAIN-SUFFIX,dartpad.dev
 DOMAIN-SUFFIX,discord.dev
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,ngrok-free.dev
 DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,g.dev
@@ -19887,6 +19897,7 @@ DOMAIN-SUFFIX,stackpath.dev
 DOMAIN-SUFFIX,ai.dev
 DOMAIN-SUFFIX,orbstack.dev
 DOMAIN-SUFFIX,ai-sdk.dev
+DOMAIN-SUFFIX,ngrok.dev
 DOMAIN-SUFFIX,autodesk.dev
 DOMAIN-SUFFIX,vercel.dev
 DOMAIN-SUFFIX,intel.dev
