@@ -937,6 +937,7 @@ DOMAIN-SUFFIX,jtamac.com
 DOMAIN-SUFFIX,guoxinmac.com
 DOMAIN-SUFFIX,oneyac.com
 DOMAIN-SUFFIX,gameabc.com
+DOMAIN-SUFFIX,hiaiabc.com
 DOMAIN-SUFFIX,ozonabc.com
 DOMAIN-SUFFIX,jsbc.com
 DOMAIN-SUFFIX,psbc.com
@@ -2526,6 +2527,7 @@ DOMAIN-SUFFIX,novelfm.com
 DOMAIN-SUFFIX,xiaoyuzhoufm.com
 DOMAIN-SUFFIX,gzlzfm.com
 DOMAIN-SUFFIX,4paradigm.com
+DOMAIN-SUFFIX,szpgm.com
 DOMAIN-SUFFIX,qdwebim.com
 DOMAIN-SUFFIX,bocim.com
 DOMAIN-SUFFIX,pddim.com
@@ -2544,6 +2546,7 @@ DOMAIN-SUFFIX,beckyroom.com
 DOMAIN-SUFFIX,tom.com
 DOMAIN-SUFFIX,myhuaweicloud-custom.com
 DOMAIN-SUFFIX,tlbapm.com
+DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,oneapm.com
 DOMAIN-SUFFIX,woshipm.com
@@ -3547,6 +3550,7 @@ DOMAIN-SUFFIX,ngabbs.com
 DOMAIN-SUFFIX,realmebbs.com
 DOMAIN-SUFFIX,klpbbs.com
 DOMAIN-SUFFIX,oneplusbbs.com
+DOMAIN-SUFFIX,mygolbs.com
 DOMAIN-SUFFIX,myhuaweicloud-obs.com
 DOMAIN-SUFFIX,openbcs.com
 DOMAIN-SUFFIX,jdcloudcs.com
@@ -3645,6 +3649,8 @@ DOMAIN-SUFFIX,hwcloudvis.com
 DOMAIN-SUFFIX,sinajs.com
 DOMAIN-SUFFIX,sharejs.com
 DOMAIN-SUFFIX,frontjs.com
+DOMAIN-SUFFIX,mobsdks.com
+DOMAIN-SUFFIX,yksdks.com
 DOMAIN-SUFFIX,haidubooks.com
 DOMAIN-SUFFIX,tapapks.com
 DOMAIN-SUFFIX,zgjsks.com
@@ -3820,12 +3826,15 @@ DOMAIN-SUFFIX,wsdvs.com
 DOMAIN-SUFFIX,bianews.com
 DOMAIN-SUFFIX,kankanews.com
 DOMAIN-SUFFIX,chinanews.com
+DOMAIN-SUFFIX,dutenews.com
 DOMAIN-SUFFIX,nanyuenews.com
+DOMAIN-SUFFIX,anhuinews.com
 DOMAIN-SUFFIX,landiannews.com
 DOMAIN-SUFFIX,kankannews.com
 DOMAIN-SUFFIX,qingdaonews.com
 DOMAIN-SUFFIX,donews.com
 DOMAIN-SUFFIX,jztvnews.com
+DOMAIN-SUFFIX,sznews.com
 DOMAIN-SUFFIX,cgws.com
 DOMAIN-SUFFIX,teleows.com
 DOMAIN-SUFFIX,getsays.com
