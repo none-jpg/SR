@@ -336,6 +336,7 @@ DOMAIN-SUFFIX,tdnsv1.com
 DOMAIN-SUFFIX,jdfw1.com
 DOMAIN-SUFFIX,tdnsx1.com
 DOMAIN-SUFFIX,edgeonedy1.com
+DOMAIN-SUFFIX,abdf002.com
 DOMAIN-SUFFIX,zmz002.com
 DOMAIN-SUFFIX,cdnhwcbzj102.com
 DOMAIN-SUFFIX,cdnhwchcg02.com
@@ -651,8 +652,10 @@ DOMAIN-SUFFIX,we4399.com
 DOMAIN-SUFFIX,img4399.com
 DOMAIN-SUFFIX,mail4399.com
 DOMAIN-SUFFIX,wanwan4399.com
+DOMAIN-SUFFIX,maindown4399.com
 DOMAIN-SUFFIX,edu4399.com
 DOMAIN-SUFFIX,my4399.com
+DOMAIN-SUFFIX,buke999.com
 DOMAIN-SUFFIX,dj99.com
 DOMAIN-SUFFIX,fymallqa9.com
 DOMAIN-SUFFIX,cdnhwc9.com
@@ -1761,6 +1764,7 @@ DOMAIN-SUFFIX,kgimg.com
 DOMAIN-SUFFIX,fengimg.com
 DOMAIN-SUFFIX,ifengimg.com
 DOMAIN-SUFFIX,qhimg.com
+DOMAIN-SUFFIX,yxhimg.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,biliimg.com
@@ -2020,6 +2024,7 @@ DOMAIN-SUFFIX,aliresearch.com
 DOMAIN-SUFFIX,bdispatch.com
 DOMAIN-SUFFIX,jdh.com
 DOMAIN-SUFFIX,citicifh.com
+DOMAIN-SUFFIX,4399hdhh.com
 DOMAIN-SUFFIX,4399hhh.com
 DOMAIN-SUFFIX,ppxhhh.com
 DOMAIN-SUFFIX,jlc-jh.com
@@ -2211,6 +2216,7 @@ DOMAIN-SUFFIX,bytedanceapi.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,volcengineapi.com
 DOMAIN-SUFFIX,byteapi.com
+DOMAIN-SUFFIX,yxhapi.com
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,hjapi.com
 DOMAIN-SUFFIX,golinkapi.com
@@ -2276,6 +2282,7 @@ DOMAIN-SUFFIX,sgyouxi.com
 DOMAIN-SUFFIX,videoxiaoyouxi.com
 DOMAIN-SUFFIX,tuxi.com
 DOMAIN-SUFFIX,cloudyuxi.com
+DOMAIN-SUFFIX,5wyxi.com
 DOMAIN-SUFFIX,mayi.com
 DOMAIN-SUFFIX,mumayi.com
 DOMAIN-SUFFIX,tongyi.com
@@ -4911,6 +4918,7 @@ DOMAIN-SUFFIX,jushuitan.net
 DOMAIN-SUFFIX,taichuan.net
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,juhuiwan.net
+DOMAIN-SUFFIX,haohaowan.net
 DOMAIN-SUFFIX,yushiyan.net
 DOMAIN-SUFFIX,amzndns-cn.net
 DOMAIN-SUFFIX,cloudfront-cn.net

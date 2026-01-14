@@ -5,6 +5,8 @@
 .notebooklm.google
 .labs.google
 .jules.google
+.antigravity.google
+.antigravity-unleash.goog
 .deepmind.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
@@ -21,8 +23,15 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .aida.googleapis.com
 .proactivebackend-pa.googleapis.com
 .robinfrontend-pa.googleapis.com
+cloudcode-pa.googleapis.com
+daily-cloudcode-pa.googleapis.com
+notebooklm-pa.googleapis.com
 .geller-pa.googleapis.com
 .aisandbox-pa.googleapis.com
+antigravity-pa.googleapis.com
 .generativelanguage.googleapis.com
+notebooklm.googleapis.com
+cloudaicompanion.googleapis.com
+antigravity.googleapis.com
 .ai.studio
 ai.google.dev
