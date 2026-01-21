@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,youmind.site
 DOMAIN-SUFFIX,antigravity-unleash.goog
 DOMAIN-SUFFIX,comfyci.org
 DOMAIN-SUFFIX,featuregates.org
@@ -17,6 +18,7 @@ DOMAIN-SUFFIX,comfy.org
 DOMAIN-SUFFIX,comfyregistry.org
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,youmind.ai
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,cohere.ai
@@ -42,6 +44,7 @@ DOMAIN,api.github.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,claude.com
 DOMAIN,alkalicore-pa.clients6.google.com
@@ -116,6 +119,7 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,oystermercury.top
+DOMAIN-SUFFIX,lpsnmedia.net
 DOMAIN-SUFFIX,algolia.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,production-openaicom-storage.azureedge.net
@@ -124,6 +128,7 @@ DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,liveperson.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,openaicom.imgix.net

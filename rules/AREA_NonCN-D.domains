@@ -45,13 +45,11 @@
 .hitomi.la
 .nozomi.la
 .intel.la
-.icbc.com.la
 .ipfs.lain.la
 .hentaivn.la
 .bmw-lao.la
 .yahoo.la
 .zuo.la
-.myip.la
 .sis.la
 .xvideos.la
 .ts.la
@@ -917,6 +915,7 @@ hub.slarker.me
 .ai7995.site
 .nextra.site
 .hmd.site
+.youmind.site
 .gyutte.site
 .51dh.site
 .shahvani.site
@@ -1016,7 +1015,6 @@ rsshub.henry.wang
 .muncloud.dog
 .telegram.dog
 .jav.dog
-.didiaustralia.blog
 .nijioma.blog
 .github.blog
 .stackmod.blog
@@ -1887,7 +1885,6 @@ databank.worldbank.org
 .paypal-login.org
 .shuziyimin.org
 .bitcoin.org
-.deepin.org
 .jingpin.org
 .frontiersin.org
 .waltermartin.org
@@ -2267,7 +2264,6 @@ rsshub.asailor.org
 .ubuntuforums.org
 .91fans.org
 .freesexyindians.org
-.huaweicloud-dns.org
 .azure-dns.org
 .ubddns.org
 .freeddns.org
@@ -2746,6 +2742,7 @@ mdn.mozillademos.org
 .clova.ai
 .github.ai
 .mlc.ai
+.youmind.ai
 .trae.ai
 .claude.ai
 .grazie.ai
@@ -3840,7 +3837,6 @@ licdn.cn.cdn20.com
 .xvideos-india.com
 .india.com
 .dnaindia.com
-.icbcindia.com
 .mcdindia.com
 .babesofindia.com
 .paypalindia.com
@@ -3913,7 +3909,6 @@ licdn.cn.cdn20.com
 .disney-asia.com
 .sony-asia.com
 .autodeskdocandmediaasia.com
-.icbcasia.com
 .nikeasia.com
 .creamasia.com
 .gcmasia.com
@@ -4000,7 +3995,6 @@ licdn.cn.cdn20.com
 .llama.com
 .wallmama.com
 .pacopacomama.com
-.icbcpanama.com
 .link-o-rama.com
 .manorama.com
 .malayalamanorama.com
@@ -4334,7 +4328,6 @@ vsmarketplacebadge.apphb.com
 .avjb.com
 .666kb.com
 .slackb.com
-.byteglb.com
 .steam.eca.qtlglb.com
 .steam.apac.qtlglb.com
 .steam.naeu.qtlglb.com
@@ -4687,6 +4680,7 @@ vsmarketplacebadge.apphb.com
 .line-apps-rc.com
 .forzarc.com
 .4irc.com
+.sc.com
 .oxfordaasc.com
 .sonybsc.com
 .adobesc.com
@@ -4844,6 +4838,7 @@ i.jeded.com
 .buffered.com
 .pearsonhighered.com
 .stephaniered.com
+.standardchartered.com
 .steampowered.com
 .wired.com
 .roxired.com
@@ -5060,6 +5055,7 @@ i.jeded.com
 .goofind.com
 .mcpeaceofmind.com
 .deepmind.com
+.youmind.com
 .yourdirtymind.com
 .aliverewind.com
 .www.owind.com
@@ -5086,7 +5082,6 @@ i.jeded.com
 .imod.com
 .boqimod.com
 .facebood.com
-.didi-food.com
 .boysfood.com
 .dafagood.com
 .cobinhood.com
@@ -5148,7 +5143,6 @@ i.jeded.com
 .ssdevrd.com
 .from-sd.com
 .imgasd.com
-.icbc-ltd.com
 .ntd.com
 .starbucksrtd.com
 .lepornochaud.com
@@ -5171,48 +5165,6 @@ i.jeded.com
 .applemx-icloud.com
 .icloud.com
 .hentaicloud.com
-.as-south-0.myhuaweicloud.com
-.na-east-0.myhuaweicloud.com
-.eu-west-0.myhuaweicloud.com
-.ae-ad-1.myhuaweicloud.com
-.af-north-1.myhuaweicloud.com
-.af-south-1.myhuaweicloud.com
-.sa-brazil-1.myhuaweicloud.com
-.na-mexico-1.myhuaweicloud.com
-.my-kualalumpur-1.myhuaweicloud.com
-.me-east-1.myhuaweicloud.com
-.us-east-1.myhuaweicloud.com
-.ap-southeast-1.myhuaweicloud.com
-.tr-west-1.myhuaweicloud.com
-.eu-west-1.myhuaweicloud.com
-.ru-moscow-1.myhuaweicloud.com
-.eu-west-101.myhuaweicloud.com
-.eu-north-201.myhuaweicloud.com
-.as-south-201.myhuaweicloud.com
-.eu-central-201.myhuaweicloud.com
-.ca-east-201.myhuaweicloud.com
-.af-east-201.myhuaweicloud.com
-.ap-northeast-201.myhuaweicloud.com
-.ap-southeast-201.myhuaweicloud.com
-.eu-west-201.myhuaweicloud.com
-.ru-northwest-201.myhuaweicloud.com
-.la-north-2.myhuaweicloud.com
-.la-south-2.myhuaweicloud.com
-.ap-southeast-2.myhuaweicloud.com
-.ru-northwest-2.myhuaweicloud.com
-.eu-central-202.myhuaweicloud.com
-.ap-southeast-202.myhuaweicloud.com
-.af-west-202.myhuaweicloud.com
-.ap-southeast-3.myhuaweicloud.com
-.ap-southeast-203.myhuaweicloud.com
-.ap-southeast-4.myhuaweicloud.com
-.ap-southeast-5.myhuaweicloud.com
-.la-north-205.myhuaweicloud.com
-.as-south-205.myhuaweicloud.com
-.me-east-205.myhuaweicloud.com
-.as-south-207.myhuaweicloud.com
-.me-east-208.myhuaweicloud.com
-.me-east-209.myhuaweicloud.com
 .alicloud.com
 .wwwicloud.com
 .adskcloud.com
@@ -5226,27 +5178,6 @@ i.jeded.com
 .my.pcloud.com
 .myqnapcloud.com
 .appcloud.com
-.cosca.myqcloud.com
-.ap-jakarta.myqcloud.com
-.ca.file.myqcloud.com
-.hk.file.myqcloud.com
-.sgp.file.myqcloud.com
-.ger.file.myqcloud.com
-.ap-singapore.myqcloud.com
-.ap-hongkong.myqcloud.com
-.ap-mumbai.myqcloud.com
-.coshk.myqcloud.com
-.ap-bangkok.myqcloud.com
-.ap-seoul.myqcloud.com
-.na-ashburn.myqcloud.com
-.sa-saopaulo.myqcloud.com
-.na-toronto.myqcloud.com
-.ap-tokyo.myqcloud.com
-.cossgp.myqcloud.com
-.cosger.myqcloud.com
-.eu-frankfurt.myqcloud.com
-.eu-moscow.myqcloud.com
-.na-siliconvalley.myqcloud.com
 .dlercloud.com
 .asuscloud.com
 .awscloud.com
@@ -7186,7 +7117,6 @@ adobeereg.com
 .ntdimg.com
 .oracleimg.com
 .gateimg.com
-.ibyteimg.com
 .iloveimg.com
 .aaplimg.com
 .zamimg.com
@@ -7476,7 +7406,6 @@ adobeereg.com
 .nike-org.com
 .urlborg.com
 .awsloft-johannesburg.com
-.rumt-sg.com
 .lpsg.com
 .edgedatg.com
 .hottg.com
@@ -7705,7 +7634,6 @@ public-us-pingsx.api.clonoth.com
 .akaeai.com
 .buy-from-shanghai.com
 .voathai.com
-.icbcthai.com
 .coithienthai.com
 .tsthai.com
 .ciciai.com
@@ -7881,7 +7809,6 @@ imperial.insendi.com
 .javtsunami.com
 .catmiimi.com
 .amanmi.com
-.global.market.xiaomi.com
 .bigtithitomi.com
 .aziani.com
 .disneyaulani.com
@@ -8173,14 +8100,12 @@ roovza.inapps.appsflyersdk.com
 .apple-hk.com
 .forum4hk.com
 .i818hk.com
-.bochk.com
 .bmwmotorradhk.com
 .memehk.com
 .omghk.com
 .epochhk.com
 .minihk.com
 .hkhkhk.com
-.chinatelecomhk.com
 .bunbunhk.com
 .polymerhk.com
 .localpresshk.com
@@ -8238,7 +8163,6 @@ roovza.inapps.appsflyersdk.com
 .silvergatebank.com
 .hsbcprivatebank.com
 .shwebank.com
-.cmbwinglungbank.com
 .tuncommercialbank.com
 .mmtourismbank.com
 .nptsibinbank.com
@@ -8519,7 +8443,6 @@ roovza.inapps.appsflyersdk.com
 .javdisk.com
 .hentaitk.com
 .momotk.com
-.icbc-uk.com
 .nike-uk.com
 .beatsbydresale-uk.com
 .buybeatsbydre-uk.com
@@ -8550,11 +8473,7 @@ roovza.inapps.appsflyersdk.com
 .igi-global.com
 .bybit-global.com
 .faceidglobal.com
-.didiglobal.com
-.chinatelecomglobal.com
-.chinaunicomglobal.com
 .mansionglobal.com
-.vivoglobal.com
 .quovadisglobal.com
 .bybitglobal.com
 .pccwglobal.com
@@ -8607,7 +8526,6 @@ roovza.inapps.appsflyersdk.com
 .mini-clubs-international.com
 .bmw-clubs-international.com
 .rbnainternational.com
-.cncbinternational.com
 .mobileinternational.com
 .slinginternational.com
 .universalpicturesinternational.com
@@ -8704,7 +8622,6 @@ roovza.inapps.appsflyersdk.com
 .shemalebestlabel.com
 .xcancel.com
 .vercel.com
-.ctexcel.com
 .del.com
 .beascoremodel.com
 .javmodel.com
@@ -8940,7 +8857,6 @@ roovza.inapps.appsflyersdk.com
 .lysol.com
 .dettol.com
 .buyaapl.com
-.icbcpl.com
 .deepl.com
 .appl.com
 .pypl.com
@@ -8982,7 +8898,6 @@ roovza.inapps.appsflyersdk.com
 .attssl.com
 .herokussl.com
 .pearson-intl.com
-.biliintl.com
 .bbyintl.com
 .micstl.com
 .typeisbeautiful.com
@@ -8990,7 +8905,6 @@ roovza.inapps.appsflyersdk.com
 .contentful.com
 .paxful.com
 .storyful.com
-.ccbseoul.com
 .mahjongsoul.com
 .phayul.com
 .comic-growl.com
@@ -9605,13 +9519,6 @@ deutschewelle.h-cdn.com
 .badoocdn.com
 .msocdn.com
 .bootstrapcdn.com
-.aw-d.tripcdn.com
-.ak-p.tripcdn.com
-.aw-p.tripcdn.com
-.ak-s.tripcdn.com
-.aw-s.tripcdn.com
-.akatest.tripcdn.com
-.ak-s-cw.tripcdn.com
 .jwpcdn.com
 .doclercdn.com
 .phprcdn.com
@@ -9833,7 +9740,6 @@ deutschewelle.h-cdn.com
 .paipancon.com
 .bbs.mikocon.com
 .amazonalexavoxcon.com
-.icbclondon.com
 .fnlondon.com
 .campuslondon.com
 .islamiccenterofnewlondon.com
@@ -10465,13 +10371,6 @@ tesla-cdn.thron.com
 .hbo.com
 .avhbo.com
 .redbyhbo.com
-.sg.weibo.com
-.th.weibo.com
-.hk.weibo.com
-.overseas.weibo.com
-.us.weibo.com
-.tw.weibo.com
-.my.weibo.com
 .freechinaweibo.com
 .freeweibo.com
 .whatsonweibo.com
@@ -10579,7 +10478,6 @@ tesla-cdn.thron.com
 .edninfo.com
 .rbeuroinfo.com
 .foxnetworksinfo.com
-.wetvinfo.com
 .hwinfo.com
 .webmoneyinfo.com
 .xxxmofo.com
@@ -10742,7 +10640,6 @@ faronics.kayako.com
 .kumo.com
 .vrsumo.com
 .exmo.com
-.alipaymo.com
 .waymo.com
 .sessoamatorialeitaliano.com
 .pornoitaliano.com
@@ -11084,7 +10981,6 @@ cbsi.live.ott.irdeto.com
 .uymaarip.com
 .onesiterip.com
 .onlysiterip.com
-.trip.com
 .nusatrip.com
 .disneychannelroadtrip.com
 .uplay-istrip.com
@@ -11359,12 +11255,10 @@ cbsi.live.ott.irdeto.com
 .instanthq.com
 .animesexhq.com
 .foxhq.com
-.iq.com
 .salesforceiq.com
 .relateiq.com
 .capitaliq.com
 .porniq.com
-.cuniq.com
 .financialadvisoriq.com
 .twitiq.com
 .cmhalq.com
@@ -11375,7 +11269,6 @@ cbsi.live.ott.irdeto.com
 .starbuckspoq.com
 .groq.com
 .xn--3et96bj49ahpq.com
-wetv.qq.com
 .qq33qq.com
 .88xqq.com
 .ebayqq.com
@@ -12222,21 +12115,7 @@ cdn-spotify-experiments.conductrics.com
 .pixanalytics.com
 .crashlytics.com
 .geolytics.com
-.oss-ap-south-1.aliyuncs.com
-.oss-eu-central-1.aliyuncs.com
-.oss-me-east-1.aliyuncs.com
-.oss-us-east-1.aliyuncs.com
-.oss-ap-northeast-1.aliyuncs.com
-.oss-ap-southeast-1.aliyuncs.com
-.oss-us-west-1.aliyuncs.com
-.oss-eu-west-1.aliyuncs.com
-.oss-ap-northeast-2.aliyuncs.com
-.oss-ap-southeast-2.aliyuncs.com
-.oss-ap-southeast-3.aliyuncs.com
-.oss-ap-southeast-5.aliyuncs.com
-.oss-ap-southeast-6.aliyuncs.com
-.oss-ap-southeast-7.aliyuncs.com
-.oss-cn-hongkong.aliyuncs.com
+gitlab-assets.oss-cn-hongkong.aliyuncs.com
 .docs.com
 .acdocs.com
 .readthedocs.com
@@ -12894,7 +12773,6 @@ ingest.apple-studies.com
 .redgifs.com
 .jigglegifs.com
 .minifs.com
-.icbkfs.com
 .flatandfuckedmilfs.com
 .homealonemilfs.com
 .imilfs.com
@@ -13420,20 +13298,6 @@ ingest.apple-studies.com
 .free-sns.com
 .zyns.com
 .mach-os.com
-.ap-jakarta.tencentcos.com
-.ap-singapore.tencentcos.com
-.ap-hongkong.tencentcos.com
-.ap-mumbai.tencentcos.com
-.ap-bangkok.tencentcos.com
-.ap-seoul.tencentcos.com
-.na-ashburn.tencentcos.com
-.sa-saopaulo.tencentcos.com
-.na-toronto.tencentcos.com
-.ap-tokyo.tencentcos.com
-.eu-frankfurt.tencentcos.com
-.eu-moscow.tencentcos.com
-.na-siliconvalley.tencentcos.com
-.intltencentcos.com
 .microsoftdiplomados.com
 .unodedos.com
 .esposasymaridos.com
@@ -13547,7 +13411,6 @@ ingest.apple-studies.com
 .macbookpros.com
 .pornpros.com
 .pornsos.com
-.ibytedtos.com
 .jetos.com
 .pornditos.com
 .hot-sex-photos.com
@@ -13845,7 +13708,6 @@ ingest.apple-studies.com
 .securitykiss.com
 .joanabliss.com
 .crystalmiss.com
-.icbcswiss.com
 .auroraoss.com
 .duyaoss.com
 .ifuckedtheboss.com
@@ -13934,6 +13796,7 @@ rsshub.isrss.com
 .skyassets.com
 .paypal-gifts.com
 .incentivetravelgifts.com
+.weights.com
 .erofights.com
 .bmw-product-highlights.com
 .bluehatnights.com
@@ -14054,14 +13917,12 @@ rsshub.isrss.com
 .bustyoldsluts.com
 .silversluts.com
 .tnatryouts.com
-.icbc-us.com
 .nike-us.com
 .beats-dre-us.com
 .beatsbydre-us.com
 .discountbeatsbydre-us.com
 .unblock-us.com
 .tiktokcdn-us.com
-.rumt-us.com
 .ebay-us.com
 .huaren4us.com
 .caus.com
@@ -14083,7 +13944,6 @@ rsshub.isrss.com
 .movidius.com
 .termius.com
 .genius.com
-.icbkus.com
 .getmalus.com
 .matome-plus.com
 .enfaaplus.com
@@ -14103,7 +13963,6 @@ community.oneplus.com
 .foxsoccerplus.com
 .tiresplus.com
 .paramountplus.com
-.cuguplus.com
 .huluplus.com
 .wwwhuluplus.com
 .foxplus.com
@@ -14287,7 +14146,6 @@ community.oneplus.com
 .xn--204-4g6em5t.com
 .xn--205-4g6em5t.com
 .xn--096-4g6em5t.com
-.icbc-at.com
 .lastcombat.com
 .robobat.com
 .acrobat.com
@@ -14566,7 +14424,6 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 .fitbit.com
 .xxxbit.com
 .bybit.com
-.icbcit.com
 .neiexplicit.com
 .reddit.com
 .paypalcredit.com
@@ -16261,7 +16118,6 @@ rsshub.pseudoyu.com
 .fastly.com
 .brizzly.com
 .ourdearamy.com
-.icbcmy.com
 .mastercardacademy.com
 .kubeacademy.com
 .pearsononlineacademy.com
@@ -16567,7 +16423,6 @@ rsshub.pseudoyu.com
 .vizvaz.com
 .mangabz.com
 .porngrabbz.com
-.icbc-cz.com
 .ebay-cz.com
 .xxxpicz.com
 .i91dz.com
@@ -16612,7 +16467,6 @@ rsshub.pseudoyu.com
 .beatsbydreheadphones-nz.com
 .drebeatsheadphones-nz.com
 .cheapbeatsbydreoutlet-nz.com
-.icbcnz.com
 .behindthescreenz.com
 .a-teenz.com
 .wankoz.com
@@ -17299,7 +17153,6 @@ live-patreon-marketing.pantheonsite.io
 .codepen.io
 .hentaihaven.io
 .zeplin.io
-.deepin.io
 .holopin.io
 .cnn.io
 .microsoft-falcon.io
@@ -17541,7 +17394,6 @@ live-patreon-marketing.pantheonsite.io
 .mist.vip
 .bbbaihu.vip
 .missav.vip
-.wetv.vip
 .hentaixxx.vip
 .jmapiproxyxxx.vip
 .hsyy.vip
@@ -18030,7 +17882,6 @@ rsshub.rss.tips
 .ikea.net
 .mujikorea.net
 .sexkorea.net
-.byteoversea.net
 .dojinmanga.net
 .poringa.net
 .twidouga.net
@@ -18041,6 +17892,7 @@ rsshub.rss.tips
 .restream-media.net
 .bridgestoneperformancemedia.net
 .photonmedia.net
+.lpsnmedia.net
 .reutersmedia.net
 .moepedia.net
 .wixipedia.net
@@ -18150,7 +18002,6 @@ rsshub.rss.tips
 .reastatic.net
 .yastatic.net
 .cstatic.net
-.aestatic.net
 .emblstatic.net
 .pstatic.net
 .rstatic.net
@@ -18895,6 +18746,7 @@ crl.versign.net
 .pornotron.net
 .maddenseason.net
 .meadjohnson.net
+.liveperson.net
 .ebayon.net
 .verizon.net
 .espn.net
@@ -19297,7 +19149,6 @@ rink.hockeyapp.net
 .rapefilms.net
 .hsforms.net
 .dynamic-dns.net
-.huaweicloud-dns.net
 .apple-dns.net
 .azure-dns.net
 .every1dns.net
@@ -19423,7 +19274,6 @@ ntp7.ntp-servers.net
 .foxsoccerplus.net
 .taiwanus.net
 .luscious.net
-.ae-rus.net
 .360nexus.net
 .autodesk360nexus.net
 .amazonaws.net
@@ -20120,7 +19970,6 @@ rss.datuan.dev
 .nivodi.tv
 .kimchi.tv
 .pipii.tv
-.bilibili.tv
 .bangumi.tv
 .18j.tv
 .airwick.tv

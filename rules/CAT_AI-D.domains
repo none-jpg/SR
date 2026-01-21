@@ -10,6 +10,7 @@
 .labs.google
 .jules.google
 .antigravity.google
+.youmind.site
 .antigravity-unleash.goog
 .comfyci.org
 .featuregates.org
@@ -17,6 +18,7 @@
 .comfyregistry.org
 .cursor.sh
 .meta.ai
+.youmind.ai
 .trae.ai
 .claude.ai
 .cohere.ai
@@ -42,6 +44,7 @@ api.github.com
 .anthropic.com
 .oaistatic.com
 .deepmind.com
+.youmind.com
 .marscode.com
 .claude.com
 alkalicore-pa.clients6.google.com
@@ -116,6 +119,7 @@ pplx-res.cloudinary.com
 .sentry.io
 .ai.studio
 .oystermercury.top
+.lpsnmedia.net
 .algolia.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 production-openaicom-storage.azureedge.net
@@ -124,6 +128,7 @@ production-openaicom-storage.azureedge.net
 .events.statsigapi.net
 servd-anthropic-website.b-cdn.net
 .poecdn.net
+.liveperson.net
 openaicomproductionae4b.blob.core.windows.net
 .observeit.net
 .openaicom.imgix.net
