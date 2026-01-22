@@ -136,6 +136,8 @@ DOMAIN-SUFFIX,mijia.tech
 DOMAIN-SUFFIX,iotronic.tech
 DOMAIN-SUFFIX,dreame.tech
 DOMAIN-SUFFIX,13th.tech
+DOMAIN-SUFFIX,shinescan.tech
+DOMAIN-SUFFIX,baimiao.tech
 DOMAIN-SUFFIX,cf-ns.tech
 DOMAIN-SUFFIX,saasops.tech
 DOMAIN-SUFFIX,xet.tech
@@ -2503,6 +2505,7 @@ DOMAIN-SUFFIX,beisenapp.com
 DOMAIN-SUFFIX,minapp.com
 DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,dongjiaoapp.com
+DOMAIN-SUFFIX,baimiaoapp.com
 DOMAIN-SUFFIX,ztoapp.com
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,llsapp.com
