@@ -28,12 +28,9 @@ DOMAIN-SUFFIX,hsbc.com.bh
 DOMAIN-SUFFIX,icbc.com.kh
 DOMAIN-SUFFIX,hsbc.com.ph
 DOMAIN-SUFFIX,hsbc.co.th
-DOMAIN-SUFFIX,csci.hk
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,cmbi.com.hk
 DOMAIN-SUFFIX,icbci.com.hk
-DOMAIN-SUFFIX,ccbintl.com.hk
-DOMAIN-SUFFIX,citics.com.hk
 DOMAIN-SUFFIX,hsbc.lk
 DOMAIN-SUFFIX,icbc.com.pk
 DOMAIN-SUFFIX,hsbc.uk
@@ -100,11 +97,9 @@ DOMAIN-SUFFIX,wxsbank.com
 DOMAIN-SUFFIX,xwbank.com
 DOMAIN-SUFFIX,csxbank.com
 DOMAIN-SUFFIX,icbc-uk.com
-DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-SUFFIX,shanrongmall.com
 DOMAIN-SUFFIX,icbcpl.com
 DOMAIN-SUFFIX,unionpayintl.com
-DOMAIN-SUFFIX,ccbseoul.com
 DOMAIN-SUFFIX,bocim.com
 DOMAIN-SUFFIX,bankcomm.com
 DOMAIN-SUFFIX,icbclondon.com
