@@ -2272,6 +2272,7 @@ rsshub.asailor.org
 .authorizeddns.org
 .puredns.org
 .blogdns.org
+.foundationdns.org
 .dyndns.org
 .amzndns.org
 .gwins.org
@@ -4123,6 +4124,7 @@ licdn.cn.cdn20.com
 .altera.com
 .buyaltera.com
 .e-tugra.com
+.jira.com
 .avira.com
 .collabora.com
 .pandora.com
@@ -11599,6 +11601,7 @@ cbsi.live.ott.irdeto.com
 .cloudflarebrowser.com
 .kiwibrowser.com
 .puffinbrowser.com
+.orionbrowser.com
 .eater.com
 .gayasiantheater.com
 .billmelater.com
@@ -13201,6 +13204,7 @@ ingest.apple-studies.com
 .surfsharkdns.com
 .theguardiandns.com
 .opendns.com
+.foundationdns.com
 .amzndns.com
 .intodns.com
 .mktdns.com
@@ -18339,6 +18343,7 @@ ood.opsource.net
 .watchmygf.net
 .jkf.net
 .librewolf.net
+.ss-inf.net
 .apisof.net
 .sf.net
 .jyxf.net
@@ -19033,6 +19038,7 @@ rink.hockeyapp.net
 .jav-vr.net
 .madvr.net
 .jsdelivr.net
+.atl-paas.net
 .mallandrinhas.net
 .falunpilipinas.net
 .dsmynas.net
@@ -19178,6 +19184,7 @@ rink.hockeyapp.net
 .na-att-idns.net
 .att-idns.net
 .lldns.net
+.foundationdns.net
 .amzndns.net
 .yahoodns.net
 .incapdns.net
@@ -19465,6 +19472,7 @@ ntp7.ntp-servers.net
 .mynetav.net
 .justav.net
 .muryouav.net
+.atlassian-dev.net
 .snap-dev.net
 .tiananmenuniv.net
 .pixiv.net

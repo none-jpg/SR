@@ -1,4 +1,5 @@
 .900.la
+.dns.la
 .wfdata.club
 .kiyuu.club
 .acetaffy.club
@@ -1152,6 +1153,7 @@ media.cdn.queniuqe.com
 .ceblease.com
 .netease.com
 .officese.com
+.hisense.com
 .jinse.com
 .yokaverse.com
 .seniverse.com
@@ -1549,6 +1551,7 @@ media.cdn.queniuqe.com
 .eduei.com
 .huawei.com
 .pdfwifi.com
+.miwifi.com
 .hisensehitachi.com
 .guoxuedashi.com
 .ludashi.com
@@ -1722,6 +1725,7 @@ media.cdn.queniuqe.com
 .z-bank.com
 .cebbank.com
 .zgcbank.com
+.cqcbank.com
 .dbank.com
 .kcbebank.com
 .webank.com
@@ -1821,10 +1825,12 @@ i.dell.com
 .xdtool.com
 .pubgtool.com
 .cyol.com
+.zol.com
 .qqurl.com
 .thunderurl.com
 .qnssl.com
 .startssl.com
+.myssl.com
 .yundaltl.com
 .ebchinaintl.com
 .stointl.com
@@ -2468,6 +2474,7 @@ ocsp.globalsign.com
 .trip.com
 .alibtrip.com
 .c-ctrip.com
+.d-ctrip.com
 .ctrip.com
 .umetrip.com
 .hwtrip.com
@@ -3068,6 +3075,7 @@ dl.ubnt.com
 .feizhu.com
 .jinglingbiaozhu.com
 .shuidihuzhu.com
+.niu.com
 .kekeniu.com
 .wanliniu.com
 .qiniu.com
@@ -3276,6 +3284,7 @@ dl.ubnt.com
 .chainedbox.com
 .cabbagebox.com
 .miaibox.com
+.duokanbox.com
 .emarbox.com
 .aplaybox.com
 .frp-fox.com
@@ -3308,9 +3317,11 @@ dl.ubnt.com
 .jdpay.com
 .yeepay.com
 .alipay.com
+.mipay.com
 .dxmpay.com
 .123panpay.com
 .tenpay.com
+.douyinpay.com
 .unionpay.com
 .chinaunionpay.com
 .oppopay.com
@@ -3823,6 +3834,7 @@ time.izatcloud.net
 .cloudxns.net
 .fnos.net
 .yfdts.net
+.oneplus.net
 .cqnews.net
 .douyinact.net
 .kejet.net
@@ -3869,6 +3881,7 @@ time.izatcloud.net
 .liblib.art
 .baidu
 .sohu
+.tool.lu
 .trae.guru
 .mchost.guru
 .tcwqqdy.guru

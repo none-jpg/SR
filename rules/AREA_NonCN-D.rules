@@ -2272,6 +2272,7 @@ DOMAIN-SUFFIX,freeddns.org
 DOMAIN-SUFFIX,authorizeddns.org
 DOMAIN-SUFFIX,puredns.org
 DOMAIN-SUFFIX,blogdns.org
+DOMAIN-SUFFIX,foundationdns.org
 DOMAIN-SUFFIX,dyndns.org
 DOMAIN-SUFFIX,amzndns.org
 DOMAIN-SUFFIX,gwins.org
@@ -4123,6 +4124,7 @@ DOMAIN-SUFFIX,orbitera.com
 DOMAIN-SUFFIX,altera.com
 DOMAIN-SUFFIX,buyaltera.com
 DOMAIN-SUFFIX,e-tugra.com
+DOMAIN-SUFFIX,jira.com
 DOMAIN-SUFFIX,avira.com
 DOMAIN-SUFFIX,collabora.com
 DOMAIN-SUFFIX,pandora.com
@@ -11599,6 +11601,7 @@ DOMAIN-SUFFIX,epicbrowser.com
 DOMAIN-SUFFIX,cloudflarebrowser.com
 DOMAIN-SUFFIX,kiwibrowser.com
 DOMAIN-SUFFIX,puffinbrowser.com
+DOMAIN-SUFFIX,orionbrowser.com
 DOMAIN-SUFFIX,eater.com
 DOMAIN-SUFFIX,gayasiantheater.com
 DOMAIN-SUFFIX,billmelater.com
@@ -13201,6 +13204,7 @@ DOMAIN-SUFFIX,myddns.com
 DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,theguardiandns.com
 DOMAIN-SUFFIX,opendns.com
+DOMAIN-SUFFIX,foundationdns.com
 DOMAIN-SUFFIX,amzndns.com
 DOMAIN-SUFFIX,intodns.com
 DOMAIN-SUFFIX,mktdns.com
@@ -18339,6 +18343,7 @@ DOMAIN-SUFFIX,watchmyexgf.net
 DOMAIN-SUFFIX,watchmygf.net
 DOMAIN-SUFFIX,jkf.net
 DOMAIN-SUFFIX,librewolf.net
+DOMAIN-SUFFIX,ss-inf.net
 DOMAIN-SUFFIX,apisof.net
 DOMAIN-SUFFIX,sf.net
 DOMAIN-SUFFIX,jyxf.net
@@ -19033,6 +19038,7 @@ DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,jav-vr.net
 DOMAIN-SUFFIX,madvr.net
 DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,atl-paas.net
 DOMAIN-SUFFIX,mallandrinhas.net
 DOMAIN-SUFFIX,falunpilipinas.net
 DOMAIN-SUFFIX,dsmynas.net
@@ -19178,6 +19184,7 @@ DOMAIN-SUFFIX,authorizeddns.net
 DOMAIN-SUFFIX,na-att-idns.net
 DOMAIN-SUFFIX,att-idns.net
 DOMAIN-SUFFIX,lldns.net
+DOMAIN-SUFFIX,foundationdns.net
 DOMAIN-SUFFIX,amzndns.net
 DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,incapdns.net
@@ -19465,6 +19472,7 @@ DOMAIN-SUFFIX,yoyoav.net
 DOMAIN-SUFFIX,mynetav.net
 DOMAIN-SUFFIX,justav.net
 DOMAIN-SUFFIX,muryouav.net
+DOMAIN-SUFFIX,atlassian-dev.net
 DOMAIN-SUFFIX,snap-dev.net
 DOMAIN-SUFFIX,tiananmenuniv.net
 DOMAIN-SUFFIX,pixiv.net

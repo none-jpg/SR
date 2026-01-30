@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,900.la
+DOMAIN-SUFFIX,dns.la
 DOMAIN-SUFFIX,wfdata.club
 DOMAIN-SUFFIX,kiyuu.club
 DOMAIN-SUFFIX,acetaffy.club
@@ -1152,6 +1153,7 @@ DOMAIN-SUFFIX,timibase.com
 DOMAIN-SUFFIX,ceblease.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,officese.com
+DOMAIN-SUFFIX,hisense.com
 DOMAIN-SUFFIX,jinse.com
 DOMAIN-SUFFIX,yokaverse.com
 DOMAIN-SUFFIX,seniverse.com
@@ -1549,6 +1551,7 @@ DOMAIN-SUFFIX,yunshipei.com
 DOMAIN-SUFFIX,eduei.com
 DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,pdfwifi.com
+DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,hisensehitachi.com
 DOMAIN-SUFFIX,guoxuedashi.com
 DOMAIN-SUFFIX,ludashi.com
@@ -1722,6 +1725,7 @@ DOMAIN-SUFFIX,xa-bank.com
 DOMAIN-SUFFIX,z-bank.com
 DOMAIN-SUFFIX,cebbank.com
 DOMAIN-SUFFIX,zgcbank.com
+DOMAIN-SUFFIX,cqcbank.com
 DOMAIN-SUFFIX,dbank.com
 DOMAIN-SUFFIX,kcbebank.com
 DOMAIN-SUFFIX,webank.com
@@ -1821,10 +1825,12 @@ DOMAIN-SUFFIX,matpool.com
 DOMAIN-SUFFIX,xdtool.com
 DOMAIN-SUFFIX,pubgtool.com
 DOMAIN-SUFFIX,cyol.com
+DOMAIN-SUFFIX,zol.com
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,thunderurl.com
 DOMAIN-SUFFIX,qnssl.com
 DOMAIN-SUFFIX,startssl.com
+DOMAIN-SUFFIX,myssl.com
 DOMAIN-SUFFIX,yundaltl.com
 DOMAIN-SUFFIX,ebchinaintl.com
 DOMAIN-SUFFIX,stointl.com
@@ -2468,6 +2474,7 @@ DOMAIN-SUFFIX,chaipip.com
 DOMAIN-SUFFIX,trip.com
 DOMAIN-SUFFIX,alibtrip.com
 DOMAIN-SUFFIX,c-ctrip.com
+DOMAIN-SUFFIX,d-ctrip.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,umetrip.com
 DOMAIN-SUFFIX,hwtrip.com
@@ -3068,6 +3075,7 @@ DOMAIN-SUFFIX,longzhu.com
 DOMAIN-SUFFIX,feizhu.com
 DOMAIN-SUFFIX,jinglingbiaozhu.com
 DOMAIN-SUFFIX,shuidihuzhu.com
+DOMAIN-SUFFIX,niu.com
 DOMAIN-SUFFIX,kekeniu.com
 DOMAIN-SUFFIX,wanliniu.com
 DOMAIN-SUFFIX,qiniu.com
@@ -3276,6 +3284,7 @@ DOMAIN-SUFFIX,fcbox.com
 DOMAIN-SUFFIX,chainedbox.com
 DOMAIN-SUFFIX,cabbagebox.com
 DOMAIN-SUFFIX,miaibox.com
+DOMAIN-SUFFIX,duokanbox.com
 DOMAIN-SUFFIX,emarbox.com
 DOMAIN-SUFFIX,aplaybox.com
 DOMAIN-SUFFIX,frp-fox.com
@@ -3308,9 +3317,11 @@ DOMAIN-SUFFIX,chinapay.com
 DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,yeepay.com
 DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,mipay.com
 DOMAIN-SUFFIX,dxmpay.com
 DOMAIN-SUFFIX,123panpay.com
 DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,douyinpay.com
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,chinaunionpay.com
 DOMAIN-SUFFIX,oppopay.com
@@ -3823,6 +3834,7 @@ DOMAIN-SUFFIX,bdydns.net
 DOMAIN-SUFFIX,cloudxns.net
 DOMAIN-SUFFIX,fnos.net
 DOMAIN-SUFFIX,yfdts.net
+DOMAIN-SUFFIX,oneplus.net
 DOMAIN-SUFFIX,cqnews.net
 DOMAIN-SUFFIX,douyinact.net
 DOMAIN-SUFFIX,kejet.net
@@ -3869,6 +3881,7 @@ DOMAIN-SUFFIX,wss.pet
 DOMAIN-SUFFIX,liblib.art
 DOMAIN-SUFFIX,baidu
 DOMAIN-SUFFIX,sohu
+DOMAIN-SUFFIX,tool.lu
 DOMAIN-SUFFIX,trae.guru
 DOMAIN-SUFFIX,mchost.guru
 DOMAIN-SUFFIX,tcwqqdy.guru
