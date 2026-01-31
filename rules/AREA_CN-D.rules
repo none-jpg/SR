@@ -835,7 +835,6 @@ DOMAIN-SUFFIX,5read.com
 DOMAIN-SUFFIX,vsread.com
 DOMAIN-SUFFIX,hotread.com
 DOMAIN-SUFFIX,frp-mad.com
-DOMAIN-SUFFIX,uyunad.com
 DOMAIN-SUFFIX,heytapdownload.com
 DOMAIN-SUFFIX,thinkpad.com
 DOMAIN-SUFFIX,116cd.com
@@ -913,7 +912,6 @@ DOMAIN-SUFFIX,tidbcloud.com
 DOMAIN-SUFFIX,jdcloud.com
 DOMAIN-SUFFIX,tendcloud.com
 DOMAIN-SUFFIX,lecloud.com
-DOMAIN-SUFFIX,whalecloud.com
 DOMAIN-SUFFIX,xiaoecloud.com
 DOMAIN-SUFFIX,yfcloud.com
 DOMAIN-SUFFIX,tencent-gcloud.com
@@ -1039,7 +1037,6 @@ DOMAIN-SUFFIX,zhaomishijie.com
 DOMAIN-SUFFIX,yoyojie.com
 DOMAIN-SUFFIX,mogujie.com
 DOMAIN-SUFFIX,tongxuepie.com
-DOMAIN-SUFFIX,shujupie.com
 DOMAIN-SUFFIX,motie.com
 DOMAIN-SUFFIX,halvie.com
 DOMAIN-SUFFIX,douxie.com
@@ -1144,7 +1141,6 @@ DOMAIN-SUFFIX,2dfire.com
 DOMAIN-SUFFIX,gamebonfire.com
 DOMAIN-SUFFIX,nowscore.com
 DOMAIN-SUFFIX,funnycore.com
-DOMAIN-SUFFIX,mobmore.com
 DOMAIN-SUFFIX,senlinjimore.com
 DOMAIN-SUFFIX,kugoustore.com
 DOMAIN-SUFFIX,letvstore.com
@@ -1360,7 +1356,6 @@ DOMAIN-SUFFIX,runsheng.com
 DOMAIN-SUFFIX,nvsheng.com
 DOMAIN-SUFFIX,jiameng.com
 DOMAIN-SUFFIX,tianxiajiameng.com
-DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,tianpeng.com
 DOMAIN-SUFFIX,hikunpeng.com
 DOMAIN-SUFFIX,xiaopeng.com
@@ -1698,7 +1693,6 @@ DOMAIN-SUFFIX,bx1k.com
 DOMAIN-SUFFIX,17k.com
 DOMAIN-SUFFIX,7k7k.com
 DOMAIN-SUFFIX,rdfybk.com
-DOMAIN-SUFFIX,umtrack.com
 DOMAIN-SUFFIX,ucloudstack.com
 DOMAIN-SUFFIX,bystack.com
 DOMAIN-SUFFIX,cooldock.com
@@ -2814,7 +2808,6 @@ DOMAIN-SUFFIX,bdydns.com
 DOMAIN-SUFFIX,homeinns.com
 DOMAIN-SUFFIX,chinalions.com
 DOMAIN-SUFFIX,hitevision-solutions.com
-DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,cloudxns.com
 DOMAIN-SUFFIX,chinazns.com
 DOMAIN-SUFFIX,360os.com
@@ -3412,7 +3405,6 @@ DOMAIN-SUFFIX,ewqcxz.com
 DOMAIN-SUFFIX,fxxz.com
 DOMAIN-SUFFIX,mamayz.com
 DOMAIN-SUFFIX,linliyz.com
-DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,qunarzz.com
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,devui.design
@@ -3442,7 +3434,6 @@ DOMAIN-SUFFIX,biliintl.co
 DOMAIN-SUFFIX,yyds.co
 DOMAIN-SUFFIX,fofa.info
 DOMAIN-SUFFIX,cf-china.info
-DOMAIN-SUFFIX,puata.info
 DOMAIN-SUFFIX,ucgslb.info
 DOMAIN-SUFFIX,ugslb.info
 DOMAIN-SUFFIX,zdnscloud.info
@@ -3836,6 +3827,7 @@ DOMAIN-SUFFIX,fnos.net
 DOMAIN-SUFFIX,yfdts.net
 DOMAIN-SUFFIX,oneplus.net
 DOMAIN-SUFFIX,cqnews.net
+DOMAIN-SUFFIX,zjzs.net
 DOMAIN-SUFFIX,douyinact.net
 DOMAIN-SUFFIX,kejet.net
 DOMAIN-SUFFIX,coolapkmarket.net
