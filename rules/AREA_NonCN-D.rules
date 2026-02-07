@@ -2911,6 +2911,7 @@ DOMAIN-SUFFIX,qqbs.work
 DOMAIN-SUFFIX,xbooks.work
 DOMAIN-SUFFIX,mlzs.work
 DOMAIN-SUFFIX,mk.shrimpia.network
+DOMAIN-SUFFIX,v2.hysteria.network
 DOMAIN-SUFFIX,test-ipv6.epic.network
 DOMAIN-SUFFIX,wynd.network
 DOMAIN-SUFFIX,stripe.network
@@ -4801,6 +4802,7 @@ DOMAIN-SUFFIX,xkcd.com
 DOMAIN-SUFFIX,mcd.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,fucd.com
+DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,curbed.com
 DOMAIN,i.jeded.com
 DOMAIN-SUFFIX,autodeskaecfeed.com
@@ -9545,6 +9547,7 @@ DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,dditscdn.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,rdtcdn.com
 DOMAIN-SUFFIX,aspnetcdn.com
@@ -14572,6 +14575,7 @@ DOMAIN-SUFFIX,intuit-gopayment.com
 DOMAIN-SUFFIX,gopayment.com
 DOMAIN-SUFFIX,kakaoent.com
 DOMAIN-SUFFIX,msoopent.com
+DOMAIN-SUFFIX,bittorrent.com
 DOMAIN-SUFFIX,ijavtorrent.com
 DOMAIN-SUFFIX,samsungconsent.com
 DOMAIN-SUFFIX,icloud-content.com

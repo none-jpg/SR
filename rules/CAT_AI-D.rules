@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,dola.com
 DOMAIN-SUFFIX,sora.com
@@ -76,6 +77,7 @@ DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,ciciaicdn.com
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,manuscdn.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,diabrowser.com
