@@ -162,7 +162,6 @@ DOMAIN-SUFFIX,sfcar.hk
 DOMAIN-SUFFIX,qd.ink
 DOMAIN-SUFFIX,dji.ink
 DOMAIN-SUFFIX,wss.ink
-DOMAIN-SUFFIX,126.link
 DOMAIN-SUFFIX,yqkk.link
 DOMAIN-SUFFIX,xyzfm.link
 DOMAIN-SUFFIX,haowu.link
@@ -203,6 +202,7 @@ DOMAIN-SUFFIX,055110.com
 DOMAIN-SUFFIX,fengxian110.com
 DOMAIN-SUFFIX,it610.com
 DOMAIN-SUFFIX,job910.com
+DOMAIN-SUFFIX,jin10.com
 DOMAIN-SUFFIX,rrys2020.com
 DOMAIN-SUFFIX,cd120.com
 DOMAIN-SUFFIX,hack520.com
@@ -778,7 +778,6 @@ DOMAIN-SUFFIX,igwfmc.com
 DOMAIN-SUFFIX,jlc-cnc.com
 DOMAIN-SUFFIX,jlccnc.com
 DOMAIN-SUFFIX,alibaba-inc.com
-DOMAIN-SUFFIX,netease-inc.com
 DOMAIN-SUFFIX,dingxiang-inc.com
 DOMAIN-SUFFIX,jushuitan-inc.com
 DOMAIN-SUFFIX,renren-inc.com
@@ -1213,8 +1212,6 @@ DOMAIN-SUFFIX,lorhf.com
 DOMAIN-SUFFIX,espressif.com
 DOMAIN-SUFFIX,ysjf.com
 DOMAIN-SUFFIX,53kf.com
-DOMAIN-SUFFIX,qiyukf.com
-DOMAIN-SUFFIX,163qiyukf.com
 DOMAIN-SUFFIX,cloudflareperf.com
 DOMAIN-SUFFIX,freebuf.com
 DOMAIN-SUFFIX,lanzouf.com
@@ -1790,7 +1787,6 @@ DOMAIN-SUFFIX,fqnovel.com
 DOMAIN-SUFFIX,changdunovel.com
 DOMAIN-SUFFIX,qznovel.com
 DOMAIN-SUFFIX,skypixel.com
-DOMAIN-SUFFIX,163mail.com
 DOMAIN-SUFFIX,4399mail.com
 DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,xxtmail.com
@@ -3232,7 +3228,6 @@ DOMAIN-SUFFIX,bestopview.com
 DOMAIN-SUFFIX,ccnew.com
 DOMAIN-SUFFIX,dfcfw.com
 DOMAIN-SUFFIX,aitcfw.com
-DOMAIN-SUFFIX,yunxinfw.com
 DOMAIN-SUFFIX,goufw.com
 DOMAIN-SUFFIX,jlc-gw.com
 DOMAIN-SUFFIX,cloudflarestoragegw.com
@@ -3367,7 +3362,6 @@ DOMAIN-SUFFIX,youboy.com
 DOMAIN-SUFFIX,burningvocabulary.com
 DOMAIN-SUFFIX,sslibrary.com
 DOMAIN-SUFFIX,myparallelstory.com
-DOMAIN-SUFFIX,163industry.com
 DOMAIN-SUFFIX,cnbksy.com
 DOMAIN-SUFFIX,shumensy.com
 DOMAIN-SUFFIX,wztsy.com
@@ -3526,7 +3520,6 @@ DOMAIN-SUFFIX,962.net
 DOMAIN-SUFFIX,ugslb2.net
 DOMAIN-SUFFIX,ali213.net
 DOMAIN-SUFFIX,yinhang123.net
-DOMAIN-SUFFIX,static163.net
 DOMAIN-SUFFIX,cn163.net
 DOMAIN-SUFFIX,qq163.net
 DOMAIN-SUFFIX,263.net
@@ -3534,7 +3527,6 @@ DOMAIN-SUFFIX,it165.net
 DOMAIN-SUFFIX,xuexi365.net
 DOMAIN-SUFFIX,95516.net
 DOMAIN-SUFFIX,126.net
-DOMAIN-SUFFIX,lf126.net
 DOMAIN-SUFFIX,166.net
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,lf127.net
@@ -3628,7 +3620,6 @@ DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,lenovo.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,applysquare.net
 DOMAIN-SUFFIX,hugecore.net
-DOMAIN-SUFFIX,nease.net
 DOMAIN-SUFFIX,xiaote.net
 DOMAIN-SUFFIX,tiexue.net
 DOMAIN-SUFFIX,aliyundrive.net
@@ -3892,7 +3883,6 @@ DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,zhanqi.tv
 DOMAIN-SUFFIX,yixi.tv
 DOMAIN-SUFFIX,wol.tv
-DOMAIN-SUFFIX,163cn.tv
 DOMAIN-SUFFIX,quanmin.tv
 DOMAIN-SUFFIX,fun.tv
 DOMAIN-SUFFIX,acfun.tv

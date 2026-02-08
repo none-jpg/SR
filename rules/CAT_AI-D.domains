@@ -1,3 +1,4 @@
+.windsurf.build
 .turn.livekit.cloud
 .chatgpt.livekit.cloud
 .host.livekit.cloud
@@ -41,6 +42,7 @@ api.jetbrains.ai
 .auth0.com
 .dola.com
 .sora.com
+.codeiumdata.com
 api.github.com
 .anthropic.com
 .oaistatic.com
@@ -66,6 +68,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .challenges.cloudflare.com
 .cohere.com
 .coze.com
+.windsurf.com
 .api.statsig.com
 .ai.com
 .ciciai.com
@@ -74,6 +77,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .cursorapi.com
 .grok.com
 cdn.usefathom.com
+.codeium.com
 .cursor-cdn.com
 .ciciaicdn.com
 .intercomcdn.com
