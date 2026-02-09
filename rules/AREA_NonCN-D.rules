@@ -794,6 +794,8 @@ DOMAIN-SUFFIX,humanparty.me
 DOMAIN-SUFFIX,xingrz.me
 DOMAIN-SUFFIX,plug.game
 DOMAIN-SUFFIX,hentai.game
+DOMAIN-SUFFIX,activematter.game
+DOMAIN-SUFFIX,cubicodyssey.game
 DOMAIN-SUFFIX,sissy.game
 DOMAIN-SUFFIX,pornov1080.name
 DOMAIN-SUFFIX,ns1.name
@@ -814,6 +816,7 @@ DOMAIN-SUFFIX,porn300.online
 DOMAIN-SUFFIX,567321.online
 DOMAIN-SUFFIX,54647.online
 DOMAIN-SUFFIX,hentai69.online
+DOMAIN-SUFFIX,2kweb.online
 DOMAIN-SUFFIX,dasaob.online
 DOMAIN-SUFFIX,hentaitube.online
 DOMAIN-SUFFIX,pornvideotube.online
@@ -2948,6 +2951,7 @@ DOMAIN-SUFFIX,ml
 DOMAIN-SUFFIX,nl
 DOMAIN-SUFFIX,slashine.onl
 DOMAIN-SUFFIX,kraken.onl
+DOMAIN-SUFFIX,2kct.onl
 DOMAIN-SUFFIX,jb22.lol
 DOMAIN-SUFFIX,dh44.lol
 DOMAIN-SUFFIX,n3ro.lol
@@ -3759,6 +3763,7 @@ DOMAIN-SUFFIX,itaeromanga.com
 DOMAIN-SUFFIX,xanga.com
 DOMAIN-SUFFIX,douzinnsi-eromannga.com
 DOMAIN-SUFFIX,donga.com
+DOMAIN-SUFFIX,zynga.com
 DOMAIN-SUFFIX,heydoga.com
 DOMAIN-SUFFIX,hdouga.com
 DOMAIN-SUFFIX,idouga.com
@@ -5981,6 +5986,7 @@ DOMAIN-SUFFIX,magentomobile.com
 DOMAIN-SUFFIX,hpmobile.com
 DOMAIN-SUFFIX,worksmobile.com
 DOMAIN-SUFFIX,jsatmobile.com
+DOMAIN-SUFFIX,wtmobile.com
 DOMAIN-SUFFIX,jquerymobile.com
 DOMAIN-SUFFIX,chinafile.com
 DOMAIN-SUFFIX,paypal-profile.com
@@ -7599,6 +7605,7 @@ DOMAIN-SUFFIX,snapdragonbooth.com
 DOMAIN-SUFFIX,googleearth.com
 DOMAIN-SUFFIX,highpeakspureearth.com
 DOMAIN-SUFFIX,googlearth.com
+DOMAIN-SUFFIX,rockstarnorth.com
 DOMAIN-SUFFIX,stackauth.com
 DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,twitteroauth.com
@@ -9188,6 +9195,7 @@ DOMAIN-SUFFIX,jotform.com
 DOMAIN-SUFFIX,steel-storm.com
 DOMAIN-SUFFIX,fox5storm.com
 DOMAIN-SUFFIX,heroesofthestorm.com
+DOMAIN-SUFFIX,artstorm.com
 DOMAIN-SUFFIX,hentaigasm.com
 DOMAIN-SUFFIX,orgasm.com
 DOMAIN-SUFFIX,bigdickorgasm.com
@@ -11369,6 +11377,7 @@ DOMAIN-SUFFIX,iconfinder.com
 DOMAIN-SUFFIX,scatfinder.com
 DOMAIN-SUFFIX,cisco-warrantyfinder.com
 DOMAIN-SUFFIX,ocsp-responder.com
+DOMAIN-SUFFIX,warthunder.com
 DOMAIN-SUFFIX,plunder.com
 DOMAIN-SUFFIX,zencoder.com
 DOMAIN-SUFFIX,topcoder.com
@@ -11460,6 +11469,7 @@ DOMAIN-SUFFIX,xxxbunker.com
 DOMAIN-SUFFIX,jizzbunker.com
 DOMAIN-SUFFIX,bigtithooker.com
 DOMAIN-SUFFIX,888poker.com
+DOMAIN-SUFFIX,zyngapoker.com
 DOMAIN-SUFFIX,pacificpoker.com
 DOMAIN-SUFFIX,paradisepoker.com
 DOMAIN-SUFFIX,foxpoker.com
@@ -13404,6 +13414,7 @@ DOMAIN-SUFFIX,trustisfps.com
 DOMAIN-SUFFIX,chips.com
 DOMAIN-SUFFIX,hpmemorychips.com
 DOMAIN-SUFFIX,pokemonchampionships.com
+DOMAIN-SUFFIX,modernwarships.com
 DOMAIN-SUFFIX,microsoftazuresponsorships.com
 DOMAIN-SUFFIX,amateur-porn-clips.com
 DOMAIN-SUFFIX,sex-amateur-clips.com
@@ -13878,6 +13889,7 @@ DOMAIN-SUFFIX,lolesports.com
 DOMAIN-SUFFIX,molesports.com
 DOMAIN-SUFFIX,store-bridgestonesports.com
 DOMAIN-SUFFIX,wiisports.com
+DOMAIN-SUFFIX,2ksports.com
 DOMAIN-SUFFIX,nikkansports.com
 DOMAIN-SUFFIX,cbssports.com
 DOMAIN-SUFFIX,goldbetsports.com
@@ -14210,6 +14222,7 @@ DOMAIN-SUFFIX,visaicsdirect.com
 DOMAIN-SUFFIX,visapcsdirect.com
 DOMAIN-SUFFIX,ecotect.com
 DOMAIN-SUFFIX,nfscdict.com
+DOMAIN-SUFFIX,star-conflict.com
 DOMAIN-SUFFIX,cam-duct.com
 DOMAIN-SUFFIX,cadduct.com
 DOMAIN-SUFFIX,camduct.com
@@ -14520,6 +14533,7 @@ DOMAIN-SUFFIX,hackharassment.com
 DOMAIN-SUFFIX,kakaoinvestment.com
 DOMAIN-SUFFIX,intuit-gopayment.com
 DOMAIN-SUFFIX,gopayment.com
+DOMAIN-SUFFIX,gaijinent.com
 DOMAIN-SUFFIX,kakaoent.com
 DOMAIN-SUFFIX,msoopent.com
 DOMAIN-SUFFIX,bittorrent.com
@@ -14704,6 +14718,7 @@ DOMAIN-SUFFIX,hpsupport.com
 DOMAIN-SUFFIX,myhpsupport.com
 DOMAIN-SUFFIX,printersetupsupport.com
 DOMAIN-SUFFIX,hpcustomersupport.com
+DOMAIN-SUFFIX,zyngaplayersupport.com
 DOMAIN-SUFFIX,razersupport.com
 DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,airport.com
@@ -17996,7 +18011,9 @@ DOMAIN-SUFFIX,dealerspeed.net
 DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,bloodshed.net
 DOMAIN-SUFFIX,steamunlocked.net
+DOMAIN-SUFFIX,crsed.net
 DOMAIN-SUFFIX,hpconnected.net
+DOMAIN-SUFFIX,enlisted.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,savitahd.net
@@ -18668,6 +18685,7 @@ DOMAIN,crl.versign.net
 DOMAIN-SUFFIX,swisssign.net
 DOMAIN-SUFFIX,sethwklein.net
 DOMAIN-SUFFIX,ituneslogin.net
+DOMAIN-SUFFIX,gaijin.net
 DOMAIN-SUFFIX,kairakudoujin.net
 DOMAIN-SUFFIX,tfsallin.net
 DOMAIN-SUFFIX,vsallin.net
@@ -18904,6 +18922,7 @@ DOMAIN-SUFFIX,appdownloader.net
 DOMAIN-SUFFIX,exploader.net
 DOMAIN-SUFFIX,vesselfinder.net
 DOMAIN-SUFFIX,camgirlfinder.net
+DOMAIN-SUFFIX,acesofthunder.net
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,beatspascher.net
 DOMAIN-SUFFIX,monstercasquebeatspascher.net
@@ -19372,6 +19391,7 @@ DOMAIN-SUFFIX,reckitt.net
 DOMAIN-SUFFIX,hstt.net
 DOMAIN-SUFFIX,vagabundasdoorkut.net
 DOMAIN-SUFFIX,visacheckout.net
+DOMAIN-SUFFIX,crossout.net
 DOMAIN-SUFFIX,nyt.net
 DOMAIN-SUFFIX,incezt.net
 DOMAIN-SUFFIX,vivahentai4u.net
