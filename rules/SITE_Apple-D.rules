@@ -1363,7 +1363,7 @@ DOMAIN-SUFFIX,gobuyonlinestore.net
 DOMAIN-SUFFIX,appleappstore.net
 DOMAIN-SUFFIX,tvappstore.net
 DOMAIN-SUFFIX,icloudsecure.net
-DOMAIN,appldnld.apple.com.edgesuite.net
+DOMAIN-SUFFIX,appldnld.apple.com.edgesuite.net
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
 DOMAIN-SUFFIX,igoshopping.net
 DOMAIN-SUFFIX,pullstring.net

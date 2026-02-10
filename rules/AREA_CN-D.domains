@@ -42,6 +42,7 @@ dot.pub
 .jikeiot.cloud
 .xyzfm.space
 .heiyu.space
+.100.me
 .id6.me
 .500d.me
 .simplecd.me
@@ -149,9 +150,15 @@ kms.03k.org
 .shengyi.ai
 .qwenlm.ai
 .qwen.ai
+.moonshot.ai
+.ddmc.mobi
 .goto-game.mobi
 .aamgame.mobi
+.ddimg.mobi
+.imaicai.mobi
 .htjsq.mobi
+.ddxq.mobi
+.dduser.mobi
 .xunyou.mobi
 .chunyu.mobi
 .qiuwen.wiki
@@ -960,6 +967,7 @@ cn.download.nvidia.com
 .wiwide.com
 .gaode.com
 .ybccode.com
+.pingcode.com
 .gitcode.com
 .somode.com
 .ultracachenode.com
@@ -970,6 +978,7 @@ cn.download.nvidia.com
 .oeeee.com
 .frp-fee.com
 .lkcoffee.com
+.boohee.com
 .taomee.com
 .baidufree.com
 .gree.com
@@ -1108,6 +1117,7 @@ cn.download.nvidia.com
 .chuansongme.com
 .btime.com
 .vgtime.com
+.mtime.com
 .realme.com
 .0379home.com
 .ecjobhome.com
@@ -1205,6 +1215,7 @@ media.cdn.queniuqe.com
 .ctyunwaf.com
 .dxmlcf.com
 .dancf.com
+.haodf.com
 .xundupdf.com
 .frp-off.com
 .founderff.com
@@ -1253,6 +1264,7 @@ media.cdn.queniuqe.com
 .zijieimg.com
 .motieimg.com
 .byteimg.com
+.hdfimg.com
 .kgimg.com
 .fengimg.com
 .ifengimg.com
@@ -1285,6 +1297,7 @@ media.cdn.queniuqe.com
 .xesimg.com
 .ppsimg.com
 .appsimg.com
+.sxsimg.com
 .byteacctimg.com
 .gdtimg.com
 .gtimg.com
@@ -1594,6 +1607,7 @@ media.cdn.queniuqe.com
 .mi.com
 .xiami.com
 .guoxuemi.com
+.kimi.com
 .benmi.com
 .xiaomi.com
 .nuomi.com
@@ -2294,6 +2308,7 @@ ocsp.globalsign.com
 .toutiaohao.com
 .iranshao.com
 .jiazhao.com
+.xiaoyuanzhao.com
 .kaifubiao.com
 .xbiao.com
 .huajiao.com
@@ -3095,6 +3110,7 @@ dl.ubnt.com
 .youku.com
 .tietuku.com
 .lu.com
+.xilu.com
 .myunlu.com
 .fimmu.com
 .iyunmu.com
@@ -3649,8 +3665,10 @@ time.izatcloud.net
 .yeah.net
 .hsqh.net
 .uonline-sh.net
+.ddfresh.net
 .ipssh.net
 .bjyouth.net
+.ddmaicai.net
 .sandai.net
 .mahjongai.net
 .xiamai.net
@@ -3786,6 +3804,7 @@ time.izatcloud.net
 .chinapp.net
 .duapp.net
 .steampp.net
+.ddcorp.net
 .newasp.net
 .mahjongcup.net
 .texasholdemcup.net
