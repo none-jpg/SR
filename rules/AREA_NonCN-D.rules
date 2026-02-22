@@ -1254,6 +1254,7 @@ DOMAIN-SUFFIX,sae.org
 DOMAIN-SUFFIX,pornvibe.org
 DOMAIN-SUFFIX,greenpeace.org
 DOMAIN-SUFFIX,unknownspace.org
+DOMAIN-SUFFIX,assets.nxtrace.org
 DOMAIN-SUFFIX,ieee-ecce.org
 DOMAIN-SUFFIX,tibetoffice.org
 DOMAIN-SUFFIX,kagyuoffice.org
@@ -4224,6 +4225,7 @@ DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,paypal-galactic.com
 DOMAIN-SUFFIX,ciscokinetic.com
 DOMAIN-SUFFIX,metacritic.com
+DOMAIN-SUFFIX,opencritic.com
 DOMAIN-SUFFIX,theatlantic.com
 DOMAIN-SUFFIX,kaotic.com
 DOMAIN-SUFFIX,gamerotic.com
@@ -16030,6 +16032,7 @@ DOMAIN-SUFFIX,appbridge.io
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,scramble.io
 DOMAIN-SUFFIX,kaggle.io
+DOMAIN-SUFFIX,akile.io
 DOMAIN-SUFFIX,graphengine.io
 DOMAIN-SUFFIX,codeshare.io
 DOMAIN-SUFFIX,bitsquare.io
@@ -18611,6 +18614,7 @@ DOMAIN-SUFFIX,dartpad.dev
 DOMAIN-SUFFIX,discord.dev
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,ngrok-free.dev
+DOMAIN-SUFFIX,www.clashverge.dev
 DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,g.dev
