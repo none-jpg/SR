@@ -104,6 +104,7 @@ DOMAIN,notebooklm.googleapis.com
 DOMAIN,cloudaicompanion.googleapis.com
 DOMAIN,antigravity.googleapis.com
 DOMAIN,static.cloudflareinsights.com
+DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,copilot.microsoft.com
