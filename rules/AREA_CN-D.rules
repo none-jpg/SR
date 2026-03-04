@@ -1938,6 +1938,7 @@ DOMAIN-SUFFIX,diandian.com
 DOMAIN-SUFFIX,askdiandian.com
 DOMAIN-SUFFIX,baifendian.com
 DOMAIN-SUFFIX,zhonshian.com
+DOMAIN-SUFFIX,juziwulian.com
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,qianqian.com
 DOMAIN-SUFFIX,souqian.com
@@ -2702,6 +2703,7 @@ DOMAIN-SUFFIX,huaweiapaas.com
 DOMAIN-SUFFIX,beisenpaas.com
 DOMAIN-SUFFIX,mypaas.com
 DOMAIN-SUFFIX,sf-saas.com
+DOMAIN-SUFFIX,kaadas.com
 DOMAIN-SUFFIX,openmidas.com
 DOMAIN-SUFFIX,frp-gas.com
 DOMAIN-SUFFIX,fnnas.com
@@ -3088,6 +3090,7 @@ DOMAIN-SUFFIX,qmniu.com
 DOMAIN-SUFFIX,tuniu.com
 DOMAIN-SUFFIX,newniu.com
 DOMAIN-SUFFIX,xueqiu.com
+DOMAIN-SUFFIX,dongdianqiu.com
 DOMAIN-SUFFIX,huanqiu.com
 DOMAIN-SUFFIX,easiu.com
 DOMAIN-SUFFIX,9xiu.com
@@ -3277,6 +3280,7 @@ DOMAIN-SUFFIX,weiyangx.com
 DOMAIN-SUFFIX,biddingx.com
 DOMAIN-SUFFIX,kjwugx.com
 DOMAIN-SUFFIX,frp-mix.com
+DOMAIN-SUFFIX,172mix.com
 DOMAIN-SUFFIX,pipix.com
 DOMAIN-SUFFIX,frp-six.com
 DOMAIN-SUFFIX,dcdkjx.com
