@@ -385,6 +385,7 @@ DOMAIN-SUFFIX,ys7.com
 DOMAIN-SUFFIX,cftest7.com
 DOMAIN-SUFFIX,cfund108.com
 DOMAIN-SUFFIX,95508.com
+DOMAIN-SUFFIX,book118.com
 DOMAIN-SUFFIX,jsw118.com
 DOMAIN-SUFFIX,myyx618.com
 DOMAIN-SUFFIX,9718.com
@@ -796,6 +797,8 @@ DOMAIN-SUFFIX,sogou-inc.com
 DOMAIN-SUFFIX,4399inc.com
 DOMAIN-SUFFIX,zhuaninc.com
 DOMAIN-SUFFIX,360doc.com
+DOMAIN-SUFFIX,renrendoc.com
+DOMAIN-SUFFIX,haohaodoc.com
 DOMAIN-SUFFIX,hqdoc.com
 DOMAIN-SUFFIX,bytednsdoc.com
 DOMAIN-SUFFIX,carnoc.com
@@ -2996,6 +2999,8 @@ DOMAIN-SUFFIX,hellowebfont.com
 DOMAIN-SUFFIX,sobot.com
 DOMAIN-SUFFIX,hikiot.com
 DOMAIN-SUFFIX,eziot.com
+DOMAIN-SUFFIX,1ppt.com
+DOMAIN-SUFFIX,52ppt.com
 DOMAIN-SUFFIX,ypppt.com
 DOMAIN-SUFFIX,aamsmart.com
 DOMAIN-SUFFIX,fa-part.com
@@ -3098,6 +3103,7 @@ DOMAIN-SUFFIX,xiaokaxiu.com
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,duxiu.com
 DOMAIN-SUFFIX,huxiu.com
+DOMAIN-SUFFIX,wenkeju.com
 DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,ttmeiju.com
 DOMAIN-SUFFIX,xishanju.com
@@ -3116,6 +3122,7 @@ DOMAIN-SUFFIX,fimmu.com
 DOMAIN-SUFFIX,iyunmu.com
 DOMAIN-SUFFIX,swsmu.com
 DOMAIN-SUFFIX,taou.com
+DOMAIN-SUFFIX,badou.com
 DOMAIN-SUFFIX,doudou.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,sifou.com
@@ -3821,6 +3828,7 @@ DOMAIN-SUFFIX,haier.net
 DOMAIN-SUFFIX,thinkprinter.net
 DOMAIN-SUFFIX,lenovoprinter.net
 DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,lazyer.net
 DOMAIN-SUFFIX,jdair.net
 DOMAIN-SUFFIX,luckyair.net
 DOMAIN-SUFFIX,guokr.net
