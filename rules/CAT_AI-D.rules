@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,gemini.google
@@ -20,6 +21,7 @@ DOMAIN-SUFFIX,comfy.org
 DOMAIN-SUFFIX,comfyregistry.org
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,youmind.ai
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,claude.ai
@@ -28,6 +30,7 @@ DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,duck.ai
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,devin.ai
+DOMAIN-SUFFIX,h2o.ai
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,cerebras.ai
@@ -36,6 +39,7 @@ DOMAIN,api.jetbrains.ai
 DOMAIN-SUFFIX,coderabbit.ai
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,lovart.ai
+DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,dify.ai

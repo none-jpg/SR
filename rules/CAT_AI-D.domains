@@ -3,6 +3,7 @@
 .chatgpt.livekit.cloud
 .host.livekit.cloud
 .hf.space
+.clau.de
 .deepmind.google
 .generativeai.google
 .gemini.google
@@ -20,6 +21,7 @@
 .comfyregistry.org
 .cursor.sh
 .meta.ai
+.clawhub.ai
 .youmind.ai
 .trae.ai
 .claude.ai
@@ -28,6 +30,7 @@
 .duck.ai
 .mistral.ai
 .devin.ai
+.h2o.ai
 .jasper.ai
 .openrouter.ai
 .cerebras.ai
@@ -36,6 +39,7 @@ api.jetbrains.ai
 .coderabbit.ai
 .openart.ai
 .lovart.ai
+.openclaw.ai
 .x.ai
 .pplx.ai
 .dify.ai
