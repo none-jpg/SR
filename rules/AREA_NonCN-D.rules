@@ -1426,6 +1426,7 @@ DOMAIN-SUFFIX,go-lang.org
 DOMAIN-SUFFIX,elixir-lang.org
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,ruby-lang.org
+DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,hacklang.org
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,golang.org
@@ -7329,6 +7330,7 @@ DOMAIN-SUFFIX,busayari.com
 DOMAIN-SUFFIX,autodeskegitimleri.com
 DOMAIN-SUFFIX,izmirautodeskegitimleri.com
 DOMAIN-SUFFIX,siri.com
+DOMAIN-SUFFIX,bestdori.com
 DOMAIN-SUFFIX,doujinnomori.com
 DOMAIN-SUFFIX,esri.com
 DOMAIN-SUFFIX,cbsi.com
@@ -18710,6 +18712,7 @@ DOMAIN-SUFFIX,lv
 DOMAIN-SUFFIX,mv
 DOMAIN-SUFFIX,share.america.gov
 DOMAIN-SUFFIX,msha.gov
+DOMAIN-SUFFIX,cia.gov
 DOMAIN-SUFFIX,voa.gov
 DOMAIN-SUFFIX,jpl.nasa.gov
 DOMAIN-SUFFIX,solarsystem.nasa.gov
