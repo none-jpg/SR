@@ -3,3 +3,4 @@ DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,openai
+URL-REGEX,https://www\.google\.com/.*continue=https://gemini\.google\.com.+
