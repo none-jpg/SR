@@ -661,6 +661,8 @@ DOMAIN-SUFFIX,bestdataclub.com
 DOMAIN-SUFFIX,langrenclub.com
 DOMAIN-SUFFIX,lanzoub.com
 DOMAIN-SUFFIX,cnepub.com
+DOMAIN-SUFFIX,ycwb.com
+DOMAIN-SUFFIX,icswb.com
 DOMAIN-SUFFIX,gfbzb.com
 DOMAIN-SUFFIX,max-c.com
 DOMAIN-SUFFIX,8686c.com
@@ -1277,7 +1279,6 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,biliimg.com
 DOMAIN-SUFFIX,zbjimg.com
-DOMAIN-SUFFIX,wdjimg.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,vanclimg.com
 DOMAIN-SUFFIX,cnfolimg.com
@@ -1455,6 +1456,7 @@ DOMAIN-SUFFIX,asktug.com
 DOMAIN-SUFFIX,a9vg.com
 DOMAIN-SUFFIX,ch.com
 DOMAIN-SUFFIX,merach.com
+DOMAIN-SUFFIX,aispeech.com
 DOMAIN-SUFFIX,xiaoe-tech.com
 DOMAIN-SUFFIX,dingdatech.com
 DOMAIN-SUFFIX,miyatech.com
@@ -1503,6 +1505,7 @@ DOMAIN-SUFFIX,xiucai.com
 DOMAIN-SUFFIX,koudai.com
 DOMAIN-SUFFIX,xingyeai.com
 DOMAIN-SUFFIX,maoxiangai.com
+DOMAIN-SUFFIX,ikanchai.com
 DOMAIN-SUFFIX,shuhai.com
 DOMAIN-SUFFIX,wolai.com
 DOMAIN-SUFFIX,zhidemai.com
@@ -2262,6 +2265,7 @@ DOMAIN-SUFFIX,caiyun.com
 DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,anhuiyun.com
 DOMAIN-SUFFIX,zhiziyun.com
 DOMAIN-SUFFIX,blyun.com
 DOMAIN-SUFFIX,avlyun.com
@@ -2412,6 +2416,7 @@ DOMAIN-SUFFIX,okooo.com
 DOMAIN-SUFFIX,woozooo.com
 DOMAIN-SUFFIX,yupoo.com
 DOMAIN-SUFFIX,eastsoo.com
+DOMAIN-SUFFIX,sootoo.com
 DOMAIN-SUFFIX,viayoo.com
 DOMAIN-SUFFIX,woyoo.com
 DOMAIN-SUFFIX,tuyoo.com
@@ -2649,6 +2654,7 @@ DOMAIN-SUFFIX,vamaker.com
 DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,moseeker.com
 DOMAIN-SUFFIX,ntalker.com
+DOMAIN-SUFFIX,techwalker.com
 DOMAIN-SUFFIX,hbooker.com
 DOMAIN-SUFFIX,zealer.com
 DOMAIN-SUFFIX,sgamer.com
@@ -3016,6 +3022,7 @@ DOMAIN-SUFFIX,1ppt.com
 DOMAIN-SUFFIX,52ppt.com
 DOMAIN-SUFFIX,ypppt.com
 DOMAIN-SUFFIX,aamsmart.com
+DOMAIN-SUFFIX,knewsmart.com
 DOMAIN-SUFFIX,fa-part.com
 DOMAIN-SUFFIX,herostart.com
 DOMAIN-SUFFIX,tencentstart.com
@@ -3602,6 +3609,7 @@ DOMAIN-SUFFIX,ugslb.net
 DOMAIN-SUFFIX,xslb.net
 DOMAIN-SUFFIX,fqjob.net
 DOMAIN-SUFFIX,news.yxrb.net
+DOMAIN-SUFFIX,ctdsb.net
 DOMAIN-SUFFIX,media.paperclipclub.net
 DOMAIN-SUFFIX,itpub.net
 DOMAIN-SUFFIX,yzwb.net
@@ -3955,6 +3963,7 @@ DOMAIN-SUFFIX,yuanbei.biz
 DOMAIN-SUFFIX,amzndns-cn.biz
 DOMAIN-SUFFIX,zhenguanyu.biz
 DOMAIN-SUFFIX,steam302.xyz
+DOMAIN,ctdsb.clouddiffuse.xyz
 DOMAIN-SUFFIX,privateapi.xyz
 DOMAIN-SUFFIX,landian.xyz
 DOMAIN-SUFFIX,nellit.xyz

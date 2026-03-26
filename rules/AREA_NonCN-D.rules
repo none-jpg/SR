@@ -580,6 +580,7 @@ DOMAIN-SUFFIX,avstar09.me
 DOMAIN-SUFFIX,frank2019.me
 DOMAIN-SUFFIX,7719.me
 DOMAIN-SUFFIX,ccav69.me
+DOMAIN-SUFFIX,telega.me
 DOMAIN-SUFFIX,batsa.me
 DOMAIN-SUFFIX,line-beta.me
 DOMAIN-SUFFIX,fansta.me
@@ -1188,6 +1189,7 @@ DOMAIN,firstsearch.oclc.org
 DOMAIN-SUFFIX,europepmc.org
 DOMAIN-SUFFIX,ieeesmc.org
 DOMAIN-SUFFIX,quiltmc.org
+DOMAIN-SUFFIX,spigotmc.org
 DOMAIN-SUFFIX,falundafa-nc.org
 DOMAIN-SUFFIX,tanc.org
 DOMAIN-SUFFIX,ieee-ccnc.org
@@ -4260,6 +4262,7 @@ DOMAIN-SUFFIX,rbplc.com
 DOMAIN-SUFFIX,amc.com
 DOMAIN-SUFFIX,emc.com
 DOMAIN-SUFFIX,dellemc.com
+DOMAIN-SUFFIX,namemc.com
 DOMAIN-SUFFIX,shinhangmc.com
 DOMAIN-SUFFIX,amuletmc.com
 DOMAIN-SUFFIX,vmwarevmc.com
@@ -6182,6 +6185,7 @@ DOMAIN-SUFFIX,javdatabase.com
 DOMAIN-SUFFIX,shadbase.com
 DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,epochbase.com
+DOMAIN-SUFFIX,chunkbase.com
 DOMAIN-SUFFIX,embase.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,topobase.com
@@ -13664,6 +13668,7 @@ DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,starship-ent.com
 DOMAIN-SUFFIX,porntubent.com
 DOMAIN-SUFFIX,askstudent.com
+DOMAIN-SUFFIX,ngrok-agent.com
 DOMAIN-SUFFIX,marvelsdoubleagent.com
 DOMAIN-SUFFIX,salesforceliveagent.com
 DOMAIN-SUFFIX,cloudflareclient.com
@@ -15834,6 +15839,7 @@ DOMAIN-SUFFIX,ccav69.info
 DOMAIN-SUFFIX,otaku18a.info
 DOMAIN-SUFFIX,artoferotica.info
 DOMAIN-SUFFIX,gscanada.info
+DOMAIN-SUFFIX,telega.info
 DOMAIN-SUFFIX,daretoku-eromanga.info
 DOMAIN-SUFFIX,oppai-doga.info
 DOMAIN-SUFFIX,falunasia.info
@@ -16262,6 +16268,7 @@ DOMAIN-SUFFIX,stealthex.io
 DOMAIN-SUFFIX,dragonex.io
 DOMAIN-SUFFIX,cloudlatex.io
 DOMAIN-SUFFIX,codesandbox.io
+DOMAIN-SUFFIX,equinox.io
 DOMAIN-SUFFIX,avtoday.io
 DOMAIN-SUFFIX,vday.io
 DOMAIN-SUFFIX,quay.io
@@ -17018,7 +17025,7 @@ DOMAIN-SUFFIX,geeksquad.net
 DOMAIN-SUFFIX,mullvad.net
 DOMAIN-SUFFIX,igcd.net
 DOMAIN-SUFFIX,dealerspeed.net
-DOMAIN-SUFFIX,maven.neoforged.net
+DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,bloodshed.net
 DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN-SUFFIX,crsed.net
@@ -17133,6 +17140,7 @@ DOMAIN-SUFFIX,mirrorsedge.net
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,facebookexchange.net
 DOMAIN-SUFFIX,sourceforge.net
+DOMAIN-SUFFIX,minecraftforge.net
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,xsijishe.net
@@ -17196,6 +17204,7 @@ DOMAIN-SUFFIX,mshome.net
 DOMAIN-SUFFIX,hentaiathome.net
 DOMAIN-SUFFIX,emome.net
 DOMAIN-SUFFIX,theshoppingexpresslane.net
+DOMAIN-SUFFIX,optifine.net
 DOMAIN-SUFFIX,xxxengine.net
 DOMAIN-SUFFIX,paypal-online.net
 DOMAIN-SUFFIX,appleonline.net
