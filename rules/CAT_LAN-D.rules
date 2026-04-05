@@ -105,7 +105,6 @@ DOMAIN-SUFFIX,ip6-loopback
 DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,internal
 DOMAIN,oasisauth.h3c.com
-DOMAIN-SUFFIX,test.steampowered.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,miwifi.com
