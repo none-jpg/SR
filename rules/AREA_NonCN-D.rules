@@ -1475,7 +1475,6 @@ DOMAIN-SUFFIX,laogairesearch.org
 DOMAIN-SUFFIX,pewresearch.org
 DOMAIN-SUFFIX,familysearch.org
 DOMAIN-SUFFIX,botorch.org
-DOMAIN-SUFFIX,pytorch.org
 DOMAIN-SUFFIX,shwchurch.org
 DOMAIN-SUFFIX,linuxfromscratch.org
 DOMAIN-SUFFIX,gfwatch.org
@@ -9116,6 +9115,7 @@ DOMAIN-SUFFIX,mrskin.com
 DOMAIN-SUFFIX,poolin.com
 DOMAIN-SUFFIX,tweakadmin.com
 DOMAIN-SUFFIX,adidasadmin.com
+DOMAIN-SUFFIX,garmin.com
 DOMAIN-SUFFIX,jasmin.com
 DOMAIN-SUFFIX,livejasmin.com
 DOMAIN-SUFFIX,paypal-signin.com
@@ -18690,6 +18690,7 @@ DOMAIN-SUFFIX,avxlive.icu
 DOMAIN-SUFFIX,starsze.icu
 DOMAIN-SUFFIX,xn--11xs86f.icu
 DOMAIN-SUFFIX,poi.icu
+DOMAIN-SUFFIX,intervals.icu
 DOMAIN-SUFFIX,milfav.icu
 DOMAIN-SUFFIX,hsex.icu
 DOMAIN-SUFFIX,611study.icu
