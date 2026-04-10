@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,ba
 DOMAIN-SUFFIX,ca
 DOMAIN-SUFFIX,b-ok.africa
+DOMAIN-SUFFIX,yango.africa
 DOMAIN-SUFFIX,ga
 DOMAIN-SUFFIX,zooporn.shiksha
 DOMAIN-SUFFIX,hayabusa.media
@@ -1224,6 +1225,7 @@ DOMAIN-SUFFIX,rarbgaccessed.org
 DOMAIN-SUFFIX,hpconnected.org
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,chinaaid.org
+DOMAIN-SUFFIX,taxiaid.org
 DOMAIN-SUFFIX,afraid.org
 DOMAIN-SUFFIX,opendroneid.org
 DOMAIN-SUFFIX,projecteuclid.org
@@ -1538,6 +1540,8 @@ DOMAIN-SUFFIX,jitsi.org
 DOMAIN-SUFFIX,minghui.org
 DOMAIN-SUFFIX,fawanghuihui.org
 DOMAIN-SUFFIX,rostaxi.org
+DOMAIN-SUFFIX,gogettaxi.org
+DOMAIN-SUFFIX,driveawaytaxi.org
 DOMAIN-SUFFIX,uyghur-j.org
 DOMAIN-SUFFIX,twitter4j.org
 DOMAIN-SUFFIX,icij.org
@@ -2156,6 +2160,7 @@ DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,freenetproject.org
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,theopportunityproject.org
+DOMAIN-SUFFIX,cabconnect.org
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,omct.org
 DOMAIN-SUFFIX,friends-of-tibet.org
@@ -2262,6 +2267,7 @@ DOMAIN-SUFFIX,qiangyou.org
 DOMAIN-SUFFIX,booru.org
 DOMAIN-SUFFIX,safebooru.org
 DOMAIN-SUFFIX,derpibooru.org
+DOMAIN-SUFFIX,taxiguru.org
 DOMAIN-SUFFIX,busu.org
 DOMAIN-SUFFIX,cdpwu.org
 DOMAIN-SUFFIX,canyu.org
@@ -2295,6 +2301,7 @@ DOMAIN-SUFFIX,hrw.org
 DOMAIN-SUFFIX,www.moztw.org
 DOMAIN-SUFFIX,smyw.org
 DOMAIN-SUFFIX,x.org
+DOMAIN-SUFFIX,taxitax.org
 DOMAIN-SUFFIX,xlecx.org
 DOMAIN-SUFFIX,edx.org
 DOMAIN-SUFFIX,yandex.org
@@ -2442,6 +2449,7 @@ DOMAIN-SUFFIX,appleone.tech
 DOMAIN-SUFFIX,deepfreeze.tech
 DOMAIN-SUFFIX,wikiless.funami.tech
 DOMAIN-SUFFIX,javporn.tech
+DOMAIN-SUFFIX,yango.tech
 DOMAIN-SUFFIX,faronics.tech
 DOMAIN-SUFFIX,ipfs.tech
 DOMAIN-SUFFIX,megamarket.tech
@@ -2501,6 +2509,7 @@ DOMAIN-SUFFIX,wombo.ai
 DOMAIN-SUFFIX,openvino.ai
 DOMAIN-SUFFIX,suno.ai
 DOMAIN-SUFFIX,censorship.ai
+DOMAIN-SUFFIX,goup.ai
 DOMAIN-SUFFIX,javfinder.ai
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,character.ai
@@ -2588,6 +2597,7 @@ DOMAIN-SUFFIX,sextube.desi
 DOMAIN-SUFFIX,hentai.desi
 DOMAIN-SUFFIX,xhamster.desi
 DOMAIN-SUFFIX,vi
+DOMAIN-SUFFIX,yango.taxi
 DOMAIN-SUFFIX,bj
 DOMAIN-SUFFIX,google.dj
 DOMAIN-SUFFIX,yahoo.dj
@@ -3914,6 +3924,7 @@ DOMAIN-SUFFIX,paypal-plaza.com
 DOMAIN-SUFFIX,auntymaza.com
 DOMAIN-SUFFIX,junauza.com
 DOMAIN-SUFFIX,zvuk-b2b.com
+DOMAIN-SUFFIX,yango-b2b.com
 DOMAIN-SUFFIX,starbuckscardb2b.com
 DOMAIN-SUFFIX,foxnewsb2b.com
 DOMAIN-SUFFIX,po2b.com
@@ -4234,6 +4245,7 @@ DOMAIN-SUFFIX,pixlromatic.com
 DOMAIN-SUFFIX,rakuten-static.com
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN-SUFFIX,costco-static.com
+DOMAIN-SUFFIX,envato-static.com
 DOMAIN-SUFFIX,homedepot-static.com
 DOMAIN-SUFFIX,bstatic.com
 DOMAIN-SUFFIX,jdbstatic.com
@@ -6363,6 +6375,7 @@ DOMAIN-SUFFIX,nichepornsite.com
 DOMAIN-SUFFIX,bestpremiumpornsite.com
 DOMAIN-SUFFIX,hairypornsite.com
 DOMAIN-SUFFIX,beatsstudiosite.com
+DOMAIN-SUFFIX,jivosite.com
 DOMAIN-SUFFIX,sexyteenssite.com
 DOMAIN-SUFFIX,drebeatssite.com
 DOMAIN-SUFFIX,scatsite.com
@@ -6966,6 +6979,7 @@ DOMAIN-SUFFIX,micoach.com
 DOMAIN-SUFFIX,cloudflare-ech.com
 DOMAIN-SUFFIX,tochka-tech.com
 DOMAIN-SUFFIX,exascale-tech.com
+DOMAIN-SUFFIX,yango-tech.com
 DOMAIN-SUFFIX,mbeats-tech.com
 DOMAIN-SUFFIX,cdmatech.com
 DOMAIN-SUFFIX,analytictech.com
@@ -8443,6 +8457,7 @@ DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,cnnmoneystream.com
 DOMAIN-SUFFIX,paypal-team.com
 DOMAIN-SUFFIX,brand-protection-team.com
+DOMAIN-SUFFIX,yango-team.com
 DOMAIN-SUFFIX,svp-team.com
 DOMAIN-SUFFIX,z3x-team.com
 DOMAIN-SUFFIX,miteam.com
@@ -9905,6 +9920,7 @@ DOMAIN-SUFFIX,mgo.com
 DOMAIN-SUFFIX,erogazo-ngo.com
 DOMAIN-SUFFIX,fandango.com
 DOMAIN-SUFFIX,chatango.com
+DOMAIN-SUFFIX,yango.com
 DOMAIN-SUFFIX,moonbingo.com
 DOMAIN-SUFFIX,chillingo.com
 DOMAIN-SUFFIX,duolingo.com
@@ -9921,6 +9937,7 @@ DOMAIN-SUFFIX,hulugo.com
 DOMAIN-SUFFIX,58avgo.com
 DOMAIN-SUFFIX,hwgo.com
 DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,yandexgo.com
 DOMAIN-SUFFIX,brandeasygo.com
 DOMAIN-SUFFIX,beats-soaho.com
 DOMAIN-SUFFIX,pornacho.com
@@ -10186,6 +10203,7 @@ DOMAIN-SUFFIX,hpsso.com
 DOMAIN-SUFFIX,potatso.com
 DOMAIN-SUFFIX,meguso.com
 DOMAIN-SUFFIX,echichimato.com
+DOMAIN-SUFFIX,envato.com
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN-SUFFIX,marketo.com
 DOMAIN-SUFFIX,mobilemarketo.com
@@ -10332,6 +10350,7 @@ DOMAIN-SUFFIX,universitypressscholarship.com
 DOMAIN-SUFFIX,timesmembership.com
 DOMAIN-SUFFIX,amazonliterarypartnership.com
 DOMAIN-SUFFIX,applecensorship.com
+DOMAIN-SUFFIX,yangofellowship.com
 DOMAIN-SUFFIX,dirtyship.com
 DOMAIN-SUFFIX,miniclip.com
 DOMAIN-SUFFIX,luticlip.com
@@ -10698,6 +10717,7 @@ DOMAIN-SUFFIX,3d-december.com
 DOMAIN-SUFFIX,3december.com
 DOMAIN-SUFFIX,3ddecember.com
 DOMAIN-SUFFIX,marvelsuperheroseptember.com
+DOMAIN-SUFFIX,support-uber.com
 DOMAIN-SUFFIX,uber.com
 DOMAIN-SUFFIX,xxxpornotuber.com
 DOMAIN-SUFFIX,drtuber.com
@@ -11862,6 +11882,7 @@ DOMAIN-SUFFIX,topsexygames.com
 DOMAIN-SUFFIX,noxygames.com
 DOMAIN-SUFFIX,karlajames.com
 DOMAIN-SUFFIX,wp-themes.com
+DOMAIN-SUFFIX,uxthemes.com
 DOMAIN-SUFFIX,nsfwmemes.com
 DOMAIN-SUFFIX,timesofindia.indiatimes.com
 DOMAIN-SUFFIX,chinatimes.com
@@ -13417,6 +13438,7 @@ DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,safechat.com
 DOMAIN-SUFFIX,freewechat.com
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+DOMAIN-SUFFIX,jivochat.com
 DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,vrchat.com
@@ -13802,6 +13824,7 @@ DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,patreonusercontent.com
 DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,ozonusercontent.com
+DOMAIN-SUFFIX,envatousercontent.com
 DOMAIN-SUFFIX,framerusercontent.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,firefoxusercontent.com
@@ -13837,6 +13860,7 @@ DOMAIN-SUFFIX,onthehunt.com
 DOMAIN-SUFFIX,producthunt.com
 DOMAIN-SUFFIX,1-account.com
 DOMAIN-SUFFIX,howtohackfacebook-account.com
+DOMAIN-SUFFIX,my-manager-account.com
 DOMAIN-SUFFIX,adguardaccount.com
 DOMAIN-SUFFIX,bestbuybusinessadvantageaccount.com
 DOMAIN-SUFFIX,beatsheadphones-discount.com
@@ -15813,6 +15837,7 @@ DOMAIN-SUFFIX,starbucks.com.co
 DOMAIN-SUFFIX,volvotrucks.com.co
 DOMAIN-SUFFIX,strepsils.com.co
 DOMAIN-SUFFIX,foxsports.com.co
+DOMAIN-SUFFIX,jivochat.com.co
 DOMAIN-SUFFIX,veet.com.co
 DOMAIN-SUFFIX,blogspot.com.co
 DOMAIN-SUFFIX,jav.com.co
@@ -16366,6 +16391,7 @@ DOMAIN-SUFFIX,fly.io
 DOMAIN-SUFFIX,cdn.statically.io
 DOMAIN-SUFFIX,grammarly.io
 DOMAIN-SUFFIX,fastly.io
+DOMAIN-SUFFIX,canny.io
 DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,storageclassmemory.io
 DOMAIN-SUFFIX,snap-telemetry.io
@@ -16883,6 +16909,7 @@ DOMAIN-SUFFIX,wxw.cat
 DOMAIN-SUFFIX,giga.chat
 DOMAIN-SUFFIX,appleone.chat
 DOMAIN-SUFFIX,tamtam.chat
+DOMAIN-SUFFIX,jivo.chat
 DOMAIN-SUFFIX,webcamgirls.chat
 DOMAIN-SUFFIX,rocket.chat
 DOMAIN-SUFFIX,bettergpt.chat
@@ -18410,6 +18437,7 @@ DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 DOMAIN-SUFFIX,blogterest.net
 DOMAIN-SUFFIX,pinterest.net
 DOMAIN-SUFFIX,eroterest.net
+DOMAIN-SUFFIX,themeforest.net
 DOMAIN-SUFFIX,azureedge-test.net
 DOMAIN-SUFFIX,azure-test.net
 DOMAIN-SUFFIX,speedtest.net

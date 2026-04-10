@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN,api.github.com
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,envato-static.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,youmind.com
@@ -88,6 +89,7 @@ DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,ciciaicdn.com
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,manuscdn.com
+DOMAIN-SUFFIX,envato.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,diabrowser.com
@@ -118,6 +120,7 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,envatousercontent.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,identrust.com
@@ -147,6 +150,7 @@ DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,themeforest.net
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,kiro.dev

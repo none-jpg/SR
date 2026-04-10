@@ -51,6 +51,7 @@ api.jetbrains.ai
 .codeiumdata.com
 api.github.com
 .anthropic.com
+.envato-static.com
 .oaistatic.com
 .deepmind.com
 .youmind.com
@@ -88,6 +89,7 @@ cdn.usefathom.com
 .ciciaicdn.com
 .intercomcdn.com
 .manuscdn.com
+.envato.com
 browser-intake-datadoghq.com
 .groq.com
 .diabrowser.com
@@ -118,6 +120,7 @@ ppl-ai-file-upload.s3.amazonaws.com
 .claudemcpclient.com
 .claudeusercontent.com
 .oaiusercontent.com
+.envatousercontent.com
 .githubcopilot.com
 .chatgpt.com
 .identrust.com
@@ -147,6 +150,7 @@ servd-anthropic-website.b-cdn.net
 .liveperson.net
 openaicomproductionae4b.blob.core.windows.net
 .observeit.net
+.themeforest.net
 .openaicom.imgix.net
 ai.google.dev
 .kiro.dev
