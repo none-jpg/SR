@@ -101,6 +101,7 @@ DOMAIN-SUFFIX,invalid
 DOMAIN-SUFFIX,example
 DOMAIN-SUFFIX,phicomm.me
 DOMAIN-SUFFIX,zte.home
+DOMAIN,local.adguard.org
 DOMAIN-SUFFIX,ip6-loopback
 DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,internal
@@ -113,6 +114,7 @@ DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 DOMAIN-SUFFIX,localhost.sec.qq.com
 DOMAIN,asusrouter.com
 DOMAIN,www.asusrouter.com
+DOMAIN-SUFFIX,kis.v2.scr.kaspersky-labs.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,router.asus.com

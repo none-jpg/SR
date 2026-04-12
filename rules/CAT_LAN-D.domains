@@ -101,6 +101,7 @@
 .example
 .phicomm.me
 .zte.home
+local.adguard.org
 .ip6-loopback
 .local
 .internal
@@ -113,6 +114,7 @@ oasisauth.h3c.com
 .localhost.sec.qq.com
 asusrouter.com
 www.asusrouter.com
+.kis.v2.scr.kaspersky-labs.com
 setmeup.arubanetworks.com
 instant.arubanetworks.com
 router.asus.com
