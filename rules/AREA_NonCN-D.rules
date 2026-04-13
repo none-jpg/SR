@@ -371,8 +371,8 @@ DOMAIN-SUFFIX,ec
 DOMAIN-SUFFIX,panasonic
 DOMAIN-SUFFIX,lc
 DOMAIN-SUFFIX,madvrlabs.llc
-DOMAIN-SUFFIX,megapolis.llc
 DOMAIN-SUFFIX,mc
+DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,xn--qcka1pmc
 DOMAIN-SUFFIX,nc
 DOMAIN-SUFFIX,mastercard.inc
@@ -810,17 +810,14 @@ DOMAIN-SUFFIX,2kweb.online
 DOMAIN-SUFFIX,dasaob.online
 DOMAIN-SUFFIX,hentaitube.online
 DOMAIN-SUFFIX,pornvideotube.online
-DOMAIN-SUFFIX,foralice.online
 DOMAIN-SUFFIX,poop-pee.online
 DOMAIN-SUFFIX,faproulette.online
-DOMAIN-SUFFIX,jieshang.online
 DOMAIN-SUFFIX,2kcoretech.online
 DOMAIN-SUFFIX,dbo-dengi.online
 DOMAIN-SUFFIX,zatrahal.online
 DOMAIN-SUFFIX,allhen.online
 DOMAIN-SUFFIX,submarin.online
 DOMAIN-SUFFIX,mastodon.online
-DOMAIN-SUFFIX,nuwjon.online
 DOMAIN-SUFFIX,adguard-vpn.online
 DOMAIN-SUFFIX,rushporn.online
 DOMAIN-SUFFIX,skyporn.online
@@ -904,11 +901,9 @@ DOMAIN-SUFFIX,skype
 DOMAIN-SUFFIX,re
 DOMAIN-SUFFIX,on.here
 DOMAIN-SUFFIX,discord.store
-DOMAIN-SUFFIX,jieshang.store
 DOMAIN-SUFFIX,mimei.store
 DOMAIN-SUFFIX,vercel.store
 DOMAIN-SUFFIX,svipshipin.store
-DOMAIN-SUFFIX,nuwjon.store
 DOMAIN-SUFFIX,91porny.store
 DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,se
@@ -2567,7 +2562,6 @@ DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,bitz.ai
 DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai
-DOMAIN-SUFFIX,xn--e1agcghdbe0a2b2a3c.xn--p1ai
 DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
 DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
@@ -2575,8 +2569,6 @@ DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai
 DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai
 DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai
-DOMAIN-SUFFIX,xn----7sbbqwlovjffky5gn.xn--p1ai
-DOMAIN-SUFFIX,xn--80aapfrkg0au.xn--p1ai
 DOMAIN-SUFFIX,bi
 DOMAIN-SUFFIX,jmcomic1.mobi
 DOMAIN-SUFFIX,sex3.mobi
@@ -2648,7 +2640,6 @@ DOMAIN-SUFFIX,health026.click
 DOMAIN-SUFFIX,18hmanga.click
 DOMAIN-SUFFIX,mypornolab.click
 DOMAIN-SUFFIX,popxi.click
-DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,avmoo.click
 DOMAIN-SUFFIX,syfor.click
 DOMAIN,1password.drift.click
@@ -2666,6 +2657,7 @@ DOMAIN-SUFFIX,mimi2022.link
 DOMAIN-SUFFIX,viet69.link
 DOMAIN-SUFFIX,nudevista.link
 DOMAIN-SUFFIX,dweb.link
+DOMAIN-SUFFIX,magic.link
 DOMAIN-SUFFIX,dcard.link
 DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,nftstorage.link
@@ -2730,6 +2722,7 @@ DOMAIN-SUFFIX,chaos.social
 DOMAIN-SUFFIX,grapheneos.social
 DOMAIN-SUFFIX,g0v.social
 DOMAIN-SUFFIX,bsky.social
+DOMAIN-SUFFIX,spasibo.digital
 DOMAIN-SUFFIX,infocert.digital
 DOMAIN-SUFFIX,cl
 DOMAIN-SUFFIX,weatherchannel
@@ -10108,7 +10101,6 @@ DOMAIN-SUFFIX,deno.com
 DOMAIN-SUFFIX,pinkdino.com
 DOMAIN-SUFFIX,pornoreino.com
 DOMAIN-SUFFIX,tsumino.com
-DOMAIN-SUFFIX,caronino.com
 DOMAIN-SUFFIX,centrino.com
 DOMAIN-SUFFIX,ituneslatino.com
 DOMAIN-SUFFIX,foxnewslatino.com
@@ -14915,7 +14907,6 @@ DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,milffox.com
 DOMAIN-SUFFIX,hentaifox.com
 DOMAIN-SUFFIX,camfox.com
-DOMAIN-SUFFIX,gerronfox.com
 DOMAIN-SUFFIX,testonfox.com
 DOMAIN-SUFFIX,mypornfox.com
 DOMAIN-SUFFIX,starfox.com
@@ -16267,6 +16258,7 @@ DOMAIN-SUFFIX,snapstore.io
 DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,keybase.io
 DOMAIN-SUFFIX,readwise.io
+DOMAIN-SUFFIX,getsynapse.io
 DOMAIN-SUFFIX,weverse.io
 DOMAIN-SUFFIX,jiuse.io
 DOMAIN-SUFFIX,greenhouse.io
@@ -16615,13 +16607,11 @@ DOMAIN-SUFFIX,lmm167.shop
 DOMAIN-SUFFIX,naihenda.shop
 DOMAIN-SUFFIX,yinya.shop
 DOMAIN-SUFFIX,nike.shop
-DOMAIN-SUFFIX,jieshang.shop
 DOMAIN-SUFFIX,r18lu-avi.shop
 DOMAIN-SUFFIX,facebook.shop
 DOMAIN-SUFFIX,gmo-official.shop
 DOMAIN-SUFFIX,play-bmm.shop
 DOMAIN-SUFFIX,mengnan.shop
-DOMAIN-SUFFIX,nuwjon.shop
 DOMAIN-SUFFIX,lanniser-ylo.shop
 DOMAIN-SUFFIX,juzi-js.shop
 DOMAIN-SUFFIX,jdav-css.shop
@@ -16980,7 +16970,6 @@ DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,vct.news
 DOMAIN-SUFFIX,windows
 DOMAIN-SUFFIX,hentai.toys
-DOMAIN-SUFFIX,tigrenok.toys
 DOMAIN-SUFFIX,at
 DOMAIN-SUFFIX,airbnb.cat
 DOMAIN-SUFFIX,aoc.cat
@@ -17009,6 +16998,7 @@ DOMAIN-SUFFIX,bt
 DOMAIN-SUFFIX,et
 DOMAIN-SUFFIX,bet
 DOMAIN-SUFFIX,target
+DOMAIN-SUFFIX,spasibo.market
 DOMAIN-SUFFIX,d100.net
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,thaigirls100.net
@@ -18869,6 +18859,7 @@ DOMAIN-SUFFIX,momsporn.su
 DOMAIN-SUFFIX,bestporn.su
 DOMAIN-SUFFIX,xxxporn.su
 DOMAIN-SUFFIX,kemono.su
+DOMAIN-SUFFIX,t-bank-app.su
 DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,evilx.su
 DOMAIN-SUFFIX,simpcity.su
