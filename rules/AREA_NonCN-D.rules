@@ -7093,6 +7093,7 @@ DOMAIN-SUFFIX,search.com
 DOMAIN-SUFFIX,cobrasearch.com
 DOMAIN-SUFFIX,googleinsidesearch.com
 DOMAIN-SUFFIX,wise-research.com
+DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,cloudflareresearch.com
 DOMAIN-SUFFIX,apple.comscoreresearch.com
 DOMAIN-SUFFIX,autodeskresearch.com
@@ -16530,6 +16531,7 @@ DOMAIN-SUFFIX,unidraw.io
 DOMAIN-SUFFIX,shw.io
 DOMAIN-SUFFIX,playshow.io
 DOMAIN-SUFFIX,pushgrow.io
+DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,bwbx.io
 DOMAIN-SUFFIX,cex.io
 DOMAIN-SUFFIX,ddex.io
