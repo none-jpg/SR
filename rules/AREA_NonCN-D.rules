@@ -2160,7 +2160,6 @@ DOMAIN-SUFFIX,bignews.org
 DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,microsoftnews.org
 DOMAIN-SUFFIX,lzmtnews.org
-DOMAIN-SUFFIX,soylentnews.org
 DOMAIN-SUFFIX,foxnews.org
 DOMAIN-SUFFIX,agemys.org
 DOMAIN-SUFFIX,chat.lmsys.org
@@ -2414,6 +2413,7 @@ DOMAIN-SUFFIX,tibetoralhistory.org
 DOMAIN-SUFFIX,twicountry.org
 DOMAIN-SUFFIX,comfyregistry.org
 DOMAIN-SUFFIX,xdty.org
+DOMAIN-SUFFIX,asiasociety.org
 DOMAIN-SUFFIX,technologyandsociety.org
 DOMAIN-SUFFIX,ciscolearningsociety.org
 DOMAIN-SUFFIX,signalprocessingsociety.org
@@ -2544,6 +2544,7 @@ DOMAIN-SUFFIX,tenbin.ai
 DOMAIN-SUFFIX,devin.ai
 DOMAIN-SUFFIX,h2o.ai
 DOMAIN-SUFFIX,wombo.ai
+DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,openvino.ai
 DOMAIN-SUFFIX,suno.ai
 DOMAIN-SUFFIX,censorship.ai
@@ -3749,6 +3750,7 @@ DOMAIN-SUFFIX,foxla.com
 DOMAIN-SUFFIX,myfoxla.com
 DOMAIN-SUFFIX,sexodama.com
 DOMAIN-SUFFIX,llama.com
+DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,wallmama.com
 DOMAIN-SUFFIX,pacopacomama.com
 DOMAIN-SUFFIX,link-o-rama.com
@@ -6305,6 +6307,7 @@ DOMAIN-SUFFIX,saintyculture.com
 DOMAIN-SUFFIX,apture.com
 DOMAIN-SUFFIX,7capture.com
 DOMAIN-SUFFIX,eropasture.com
+DOMAIN-SUFFIX,recordedfuture.com
 DOMAIN-SUFFIX,texture.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,windowsazure.com
@@ -7293,6 +7296,7 @@ DOMAIN-SUFFIX,disneyhentai.com
 DOMAIN-SUFFIX,heavenlyhentai.com
 DOMAIN-SUFFIX,anyhentai.com
 DOMAIN-SUFFIX,ka-wai.com
+DOMAIN-SUFFIX,crewai.com
 DOMAIN-SUFFIX,kwai.com
 DOMAIN-SUFFIX,clipsaoyai.com
 DOMAIN-SUFFIX,bmw-motorrad-abudhabi.com
@@ -9186,6 +9190,7 @@ DOMAIN-SUFFIX,swisssign.com
 DOMAIN-SUFFIX,bmwgroupinfobahn.com
 DOMAIN-SUFFIX,illusionchn.com
 DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,langchain.com
 DOMAIN-SUFFIX,blockchain.com
 DOMAIN-SUFFIX,localbitcoinschain.com
 DOMAIN-SUFFIX,value-domain.com
@@ -13546,6 +13551,7 @@ DOMAIN-SUFFIX,xn--096-4g6em5t.com
 DOMAIN-SUFFIX,lastcombat.com
 DOMAIN-SUFFIX,robobat.com
 DOMAIN-SUFFIX,acrobat.com
+DOMAIN-SUFFIX,bellingcat.com
 DOMAIN-SUFFIX,vrporncat.com
 DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,fapcat.com
@@ -15532,6 +15538,7 @@ DOMAIN-SUFFIX,lghvacstory.com
 DOMAIN-SUFFIX,bowsersinsidestory.com
 DOMAIN-SUFFIX,enemahistory.com
 DOMAIN-SUFFIX,realclearhistory.com
+DOMAIN-SUFFIX,rawstory.com
 DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,x-berry.com
 DOMAIN-SUFFIX,erosberry.com

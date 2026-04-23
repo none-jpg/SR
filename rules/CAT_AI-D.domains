@@ -31,6 +31,7 @@
 .mistral.ai
 .devin.ai
 .h2o.ai
+.lmstudio.ai
 .jasper.ai
 .openrouter.ai
 .cerebras.ai
@@ -47,6 +48,7 @@ api.jetbrains.ai
 .manus.im
 .auth0.com
 .dola.com
+.ollama.com
 .sora.com
 .codeiumdata.com
 api.github.com
@@ -81,6 +83,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .ai.com
 .ciciai.com
 .openai.com
+.crewai.com
 .cici.com
 .cursorapi.com
 .grok.com
@@ -90,6 +93,7 @@ cdn.usefathom.com
 .ciciaicdn.com
 .intercomcdn.com
 .manuscdn.com
+.langchain.com
 .envato.com
 browser-intake-datadoghq.com
 .groq.com

@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,duck.ai
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,devin.ai
 DOMAIN-SUFFIX,h2o.ai
+DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,cerebras.ai
@@ -47,6 +48,7 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,dola.com
+DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN,api.github.com
@@ -81,6 +83,7 @@ DOMAIN-SUFFIX,api.statsig.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,crewai.com
 DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,grok.com
@@ -90,6 +93,7 @@ DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,ciciaicdn.com
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,manuscdn.com
+DOMAIN-SUFFIX,langchain.com
 DOMAIN-SUFFIX,envato.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,groq.com
