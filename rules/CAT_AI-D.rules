@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,h2o.ai
 DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,plannotator.ai
 DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,chutes.ai
 DOMAIN,api.jetbrains.ai
@@ -87,6 +88,7 @@ DOMAIN-SUFFIX,crewai.com
 DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,cursor-cdn.com
@@ -113,6 +115,7 @@ DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN,antigravity-pa.googleapis.com
+DOMAIN-SUFFIX,aicode.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN,notebooklm.googleapis.com
 DOMAIN,cloudaicompanion.googleapis.com

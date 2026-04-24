@@ -2554,6 +2554,7 @@ DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,character.ai
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,videoindexer.ai
+DOMAIN-SUFFIX,plannotator.ai
 DOMAIN-SUFFIX,seodirector.ai
 DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,wyndlabs.ai
@@ -8402,6 +8403,7 @@ DOMAIN-SUFFIX,qombol.com
 DOMAIN-SUFFIX,cepacol.com
 DOMAIN-SUFFIX,etools.ncol.com
 DOMAIN-SUFFIX,opengraphprotocol.com
+DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,beatsbydreol.com
 DOMAIN-SUFFIX,ulol.com
 DOMAIN-SUFFIX,facebookenespanol.com
@@ -9293,6 +9295,7 @@ DOMAIN-SUFFIX,calgoncarbon.com
 DOMAIN-SUFFIX,bacon.com
 DOMAIN-SUFFIX,freebeacon.com
 DOMAIN-SUFFIX,paypalbeacon.com
+DOMAIN-SUFFIX,twitchcon.com
 DOMAIN-SUFFIX,sony-semicon.com
 DOMAIN-SUFFIX,paipancon.com
 DOMAIN-SUFFIX,bbs.mikocon.com
