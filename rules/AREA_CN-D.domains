@@ -59,6 +59,7 @@ dot.pub
 .qbox.me
 .letitfly.me
 .yrz.name
+.seclab.online
 .jutongbao.online
 .wss.zone
 .mingxuan.store
@@ -179,6 +180,7 @@ kms.03k.org
 .mcbaas.work
 .c-t.work
 .autohome.tel
+.coze.email
 .wss.email
 .cnb.cool
 .chushi.cool
@@ -236,6 +238,7 @@ kms.03k.org
 .ycrx360.com
 .123860.com
 .qhimgs0.com
+.coze-dns-01.com
 .xingtan001.com
 .kaixin001.com
 .et001.com
@@ -323,6 +326,7 @@ izattime.qcomgeo2.com
 .qhimgs4.com
 .1905.com
 .m1905.com
+.95015.com
 .115.com
 .x315.com
 .35.com
@@ -671,6 +675,7 @@ cn.download.nvidia.com
 .langrenclub.com
 .lanzoub.com
 .cnepub.com
+.shellpub.com
 .ycwb.com
 .icswb.com
 .gfbzb.com
@@ -875,6 +880,7 @@ cn.download.nvidia.com
 .touzid.com
 .jd.com
 .mszdld.com
+.cozebuild.com
 .weand.com
 .lkkbrand.com
 .globrand.com
@@ -932,6 +938,7 @@ cn.download.nvidia.com
 .115cloud.com
 .alibabacloud.com
 .tidbcloud.com
+.obriccloud.com
 .jdcloud.com
 .tendcloud.com
 .lecloud.com
@@ -1649,6 +1656,7 @@ media.cdn.queniuqe.com
 .bestincapi.com
 .bdcloudapi.com
 .lecloudapi.com
+.oceancloudapi.com
 .ucloudapi.com
 .zijieapi.com
 .yxhapi.com
@@ -1750,6 +1758,7 @@ media.cdn.queniuqe.com
 .cnstock.com
 .gcloudsdk.com
 .fanqiesdk.com
+.cozesdk.com
 .qnsdk.com
 .snssdk.com
 .deepseek.com
@@ -1790,6 +1799,7 @@ media.cdn.queniuqe.com
 .leautolink.com
 .pkoplink.com
 .iflyink.com
+.threatbook.com
 .klook.com
 .52pk.com
 .4399pk.com
@@ -2085,6 +2095,7 @@ i.dell.com
 .ku6cdn.com
 .17cdn.com
 .88cdn.com
+.guangyacdn.com
 .wswebcdn.com
 .51jobcdn.com
 .tbcdn.com
@@ -2103,6 +2114,7 @@ i.dell.com
 .sogouimecdn.com
 .zhangyuecdn.com
 .qlivecdn.com
+.cozecdn.com
 .chuangcdn.com
 .qingcdn.com
 .ctgcdn.com
@@ -2134,6 +2146,7 @@ www.layuicdn.com
 .sencdn.com
 .sevencdn.com
 .meixincdn.com
+.qianxincdn.com
 .douyincdn.com
 .funcdn.com
 .aliyuncdn.com
@@ -2241,6 +2254,7 @@ ocsp.globalsign.com
 .weixin.com
 .jiqizhixin.com
 .qixin.com
+.qianxin.com
 .douyin.com
 .iesdouyin.com
 .boxdouyin.com
@@ -2613,6 +2627,7 @@ ocsp.globalsign.com
 .tracup.com
 .mahjongcup.com
 .texasholdemcup.com
+.tianshucup.com
 .qiniup.com
 .sinopecgroup.com
 .zxhgroup.com
@@ -2707,6 +2722,7 @@ ocsp.globalsign.com
 .camscanner.com
 .ctyuninner.com
 .fangxiaoer.com
+.banxiaoer.com
 .liuxiaoer.com
 .pubghelper.com
 .wegamedeveloper.com
@@ -3003,6 +3019,7 @@ cdnstatic.tencentcs.com
 .hndt.com
 .weatherdt.com
 .chinaaet.com
+.instreet.com
 .igetget.com
 .papocket.com
 .coolapkmarket.com
@@ -3278,6 +3295,7 @@ dl.ubnt.com
 .my7v.com
 .wondercv.com
 .bdtjrcv.com
+.doubao-dev.com
 .zbjdev.com
 .blurdev.com
 .jintdev.com
@@ -3318,6 +3336,7 @@ dl.ubnt.com
 .icpcw.com
 .zgzcw.com
 .nzbdw.com
+.obricclouddw.com
 .zgsydw.com
 .csbew.com
 .expreview.com
@@ -3460,6 +3479,7 @@ dl.ubnt.com
 .sony.com
 .frp-boy.com
 .youboy.com
+.cozedeploy.com
 .anytocopy.com
 .soulteary.com
 .burningvocabulary.com
@@ -3517,6 +3537,9 @@ gstore.val.manlaxy.com
 .ytoluohan.xin
 .yto.xin
 .ac.fun
+.api-building.fun
+.building.fun
+.dbbuilding.fun
 .youlian.fun
 .sast.fun
 .chaz.fun
@@ -3906,6 +3929,7 @@ time.izatcloud.net
 .nextworkshop.net
 .snapdrop.net
 .3839app.net
+.cozeapp.net
 .chinapp.net
 .duapp.net
 .steampp.net
@@ -3921,6 +3945,7 @@ time.izatcloud.net
 .heweather.net
 .qweather.net
 .haier.net
+.banxiaoer.net
 .thinkprinter.net
 .lenovoprinter.net
 .steamserver.net
