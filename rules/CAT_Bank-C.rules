@@ -10,3 +10,6 @@ DOMAIN-KEYWORD,za.group
 DOMAIN-KEYWORD,zafinsvc
 DOMAIN-KEYWORD,zajourney
 DOMAIN-KEYWORD,zaticdn
+DOMAIN-WILDCARD,*.standchartbank.*.*
+DOMAIN-WILDCARD,*.standchartbank.*.*.*
+DOMAIN-WILDCARD,*.vam-hk.*.vv1865.com
