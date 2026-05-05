@@ -135,6 +135,7 @@ DOMAIN-SUFFIX,speedws.org
 DOMAIN-SUFFIX,ibcet.org
 DOMAIN-SUFFIX,solidot.org
 DOMAIN-SUFFIX,guigu.org
+DOMAIN-SUFFIX,acftu.org
 DOMAIN-SUFFIX,tikv.org
 DOMAIN-SUFFIX,szfw.org
 DOMAIN-SUFFIX,sfgy.org
@@ -1424,6 +1425,7 @@ DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,cnsuning.com
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,36dianping.com
+DOMAIN-SUFFIX,nongfuspring.com
 DOMAIN-SUFFIX,1ting.com
 DOMAIN-SUFFIX,wrating.com
 DOMAIN-SUFFIX,guzhangting.com
@@ -1516,6 +1518,7 @@ DOMAIN-SUFFIX,centuryenglish.com
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,sf-cityrush.com
 DOMAIN-SUFFIX,jsehealth.com
+DOMAIN-SUFFIX,whhhealth.com
 DOMAIN-SUFFIX,geovisearth.com
 DOMAIN-SUFFIX,lenauth.com
 DOMAIN-SUFFIX,kugouyouth.com
@@ -1566,6 +1569,7 @@ DOMAIN-SUFFIX,ggkuai.com
 DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,henkuai.com
 DOMAIN-SUFFIX,inkuai.com
+DOMAIN-SUFFIX,wjwai.com
 DOMAIN-SUFFIX,inkwai.com
 DOMAIN-SUFFIX,kskwai.com
 DOMAIN-SUFFIX,ecukwai.com
@@ -2560,6 +2564,7 @@ DOMAIN-SUFFIX,benfuip.com
 DOMAIN-SUFFIX,bio-equip.com
 DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,dzdvip.com
+DOMAIN-SUFFIX,kcdnvip.com
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,hezuvip.com
 DOMAIN-SUFFIX,adxvip.com
@@ -3286,6 +3291,7 @@ DOMAIN-SUFFIX,dewu.com
 DOMAIN-SUFFIX,caijingwu.com
 DOMAIN-SUFFIX,114piaowu.com
 DOMAIN-SUFFIX,9xu.com
+DOMAIN-SUFFIX,xiyouyingyu.com
 DOMAIN-SUFFIX,chinaweiyu.com
 DOMAIN-SUFFIX,chaziyu.com
 DOMAIN-SUFFIX,zhenguanyu.com
@@ -3302,6 +3308,7 @@ DOMAIN-SUFFIX,jintdev.com
 DOMAIN-SUFFIX,alipaydev.com
 DOMAIN-SUFFIX,xiaomiev.com
 DOMAIN-SUFFIX,chaoxingv.com
+DOMAIN-SUFFIX,viviv.com
 DOMAIN-SUFFIX,rwkv.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,develenv.com
@@ -3896,6 +3903,7 @@ DOMAIN-SUFFIX,iesdouyin.net
 DOMAIN-SUFFIX,funshion.net
 DOMAIN-SUFFIX,chinatranslation.net
 DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,zysn.net
 DOMAIN-SUFFIX,tongdun.net
 DOMAIN-SUFFIX,acfun.net
 DOMAIN-SUFFIX,alikunlun.net
