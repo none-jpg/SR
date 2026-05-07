@@ -89,6 +89,7 @@ DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,agentclientprotocol.com
+DOMAIN-SUFFIX,anythingllm.com
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,cursor-cdn.com
@@ -126,12 +127,16 @@ DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,envatousercontent.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,identrust.com
+DOMAIN,copilot-workspace.githubnext.com
 DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN,pplx-res.cloudinary.com
@@ -158,8 +163,10 @@ DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,themeforest.net
 DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,openspec.dev
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,kiro.dev

@@ -175,6 +175,8 @@ DOMAIN-SUFFIX,sfcar.hk
 DOMAIN-SUFFIX,qd.ink
 DOMAIN-SUFFIX,dji.ink
 DOMAIN-SUFFIX,wss.ink
+DOMAIN,end.shallow.ink
+DOMAIN,end-api.shallow.ink
 DOMAIN-SUFFIX,yqkk.link
 DOMAIN-SUFFIX,xyzfm.link
 DOMAIN-SUFFIX,haowu.link
@@ -404,7 +406,6 @@ DOMAIN-SUFFIX,9718.com
 DOMAIN-SUFFIX,dandan818.com
 DOMAIN-SUFFIX,vic18.com
 DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,fm3838.com
 DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,258.com
 DOMAIN-SUFFIX,5858.com
@@ -871,7 +872,6 @@ DOMAIN-SUFFIX,chaindd.com
 DOMAIN-SUFFIX,cofeed.com
 DOMAIN-SUFFIX,sipeed.com
 DOMAIN-SUFFIX,cm.steampowered.com
-DOMAIN-SUFFIX,larsonlimited.com
 DOMAIN-SUFFIX,edge-byted.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,yhd.com
@@ -1258,7 +1258,6 @@ DOMAIN-SUFFIX,lanzouf.com
 DOMAIN-SUFFIX,4399swf.com
 DOMAIN-SUFFIX,uzzf.com
 DOMAIN-SUFFIX,jtg2g.com
-DOMAIN-SUFFIX,zoom3g.com
 DOMAIN-SUFFIX,frp-bag.com
 DOMAIN-SUFFIX,frp-tag.com
 DOMAIN-SUFFIX,71acg.com
@@ -3857,6 +3856,7 @@ DOMAIN-SUFFIX,ifdian.net
 DOMAIN-SUFFIX,qiluyidian.net
 DOMAIN-SUFFIX,hzman.net
 DOMAIN-SUFFIX,jushuitan.net
+DOMAIN-SUFFIX,huotan.net
 DOMAIN-SUFFIX,taichuan.net
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,juhuiwan.net
@@ -4024,6 +4024,7 @@ DOMAIN-SUFFIX,dgjy.net
 DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,chinaz.net
 DOMAIN-SUFFIX,jzfz.net
+DOMAIN-SUFFIX,azz.net
 DOMAIN-SUFFIX,netzz.net
 DOMAIN-SUFFIX,wss.pet
 DOMAIN-SUFFIX,liblib.art

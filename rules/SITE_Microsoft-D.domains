@@ -336,7 +336,12 @@ github-api.arkoselabs.com
 .iotinactionevents.com
 .morphcharts.com
 .githubstatus.com
+github-production-repository-image-32fea6.s3.amazonaws.com
+github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+github-production-repository-file-5c1aeb.s3.amazonaws.com
 github-cloud.s3.amazonaws.com
+github-production-release-asset-2e65be.s3.amazonaws.com
+github-production-user-asset-6210df.s3.amazonaws.com
 .microsoftnews.com
 .windows.com
 .myoctocat.com

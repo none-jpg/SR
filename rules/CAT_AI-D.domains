@@ -89,6 +89,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .cursorapi.com
 .grok.com
 .agentclientprotocol.com
+.anythingllm.com
 cdn.usefathom.com
 .codeium.com
 .cursor-cdn.com
@@ -126,12 +127,16 @@ ppl-ai-file-upload.s3.amazonaws.com
 .crixet.com
 .copilot.microsoft.com
 .claudemcpclient.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+copilot-proxy.githubusercontent.com
 .claudeusercontent.com
 .oaiusercontent.com
 .envatousercontent.com
 .githubcopilot.com
 .chatgpt.com
 .identrust.com
+copilot-workspace.githubnext.com
 .grok.x.com
 .launchdarkly.com
 pplx-res.cloudinary.com
@@ -158,8 +163,10 @@ servd-anthropic-website.b-cdn.net
 .poecdn.net
 .liveperson.net
 openaicomproductionae4b.blob.core.windows.net
+copilotprodattachments.blob.core.windows.net
 .observeit.net
 .themeforest.net
 .openaicom.imgix.net
+.openspec.dev
 ai.google.dev
 .kiro.dev

@@ -336,7 +336,12 @@ DOMAIN-SUFFIX,microsoft-sap-events.com
 DOMAIN-SUFFIX,iotinactionevents.com
 DOMAIN-SUFFIX,morphcharts.com
 DOMAIN-SUFFIX,githubstatus.com
+DOMAIN,github-production-repository-image-32fea6.s3.amazonaws.com
+DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+DOMAIN,github-production-repository-file-5c1aeb.s3.amazonaws.com
 DOMAIN,github-cloud.s3.amazonaws.com
+DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com
+DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
 DOMAIN-SUFFIX,microsoftnews.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,myoctocat.com
