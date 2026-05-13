@@ -25,6 +25,7 @@ dot.pub
 .zhangzishi.cc
 .yahui.cc
 .bsurl.cc
+.cibn.cc
 .ngacn.cc
 .dongjiao.cc
 .weico.cc
@@ -620,6 +621,7 @@ cn.download.nvidia.com
 .ixigua.com
 .jianbihua.com
 .kuaikanmanhua.com
+.baozoumanhua.com
 .youhua.com
 .yuzua.com
 .indienova.com
@@ -718,6 +720,7 @@ cn.download.nvidia.com
 .ztfsec.com
 .shgsec.com
 .huajingsec.com
+.cnpsec.com
 .ctsec.com
 .htsec.com
 .iflysec.com
@@ -1013,6 +1016,7 @@ cn.download.nvidia.com
 .gitee.com
 .360safe.com
 .sinesafe.com
+.chinapost-life.com
 .taikanglife.com
 .saolife.com
 .zeekrlife.com
@@ -1115,6 +1119,7 @@ cn.download.nvidia.com
 .worktile.com
 .51sole.com
 .dgtle.com
+.ule.com
 .jiashule.com
 .4399biule.com
 .jiasule.com
@@ -1206,6 +1211,7 @@ media.cdn.queniuqe.com
 .shimonote.com
 .duote.com
 .72byte.com
+.chinabyte.com
 .zjbyte.com
 .golue.com
 .lanzoue.com
@@ -1678,6 +1684,7 @@ media.cdn.queniuqe.com
 .zmzapi.com
 .diandianqi.com
 .tianqi.com
+.atianqi.com
 .zuimeitianqi.com
 .maisanqi.com
 .luyouqi.com
@@ -1899,6 +1906,7 @@ i.dell.com
 .71.am.com
 .jlc-cam.com
 .jlccam.com
+.kajicam.com
 .wmsjsteam.com
 .dfham.com
 .cmcm.com
@@ -1939,7 +1947,9 @@ i.dell.com
 .mikecrm.com
 .hollycrm.com
 .jlc-drm.com
+.fqopenplatform.com
 .shebiaotm.com
+.chnppmuseum.com
 .lanzoum.com
 .ctiforum.com
 .ciccwm.com
@@ -2117,6 +2127,7 @@ i.dell.com
 .luckincoffeecdn.com
 .zuchecdn.com
 .jikecdn.com
+.ulecdn.com
 .elemecdn.com
 .sogouimecdn.com
 .zhangyuecdn.com
@@ -2592,6 +2603,7 @@ ocsp.globalsign.com
 .bestincapp.com
 .dcdapp.com
 .daheapp.com
+.peopleapp.com
 .qqgameapp.com
 .chujingapp.com
 .dongchediapp.com
@@ -3063,6 +3075,7 @@ cdnstatic.tencentcs.com
 .variflight.com
 .sunlife-everbright.com
 .everbright.com
+.fanqiecopyright.com
 .hwht.com
 .51credit.com
 .checkzeit.com
@@ -3127,6 +3140,7 @@ dl.ubnt.com
 .dadighost.com
 .latepost.com
 .tmtpost.com
+.ctvpost.com
 .ebtrust.com
 .chinaott.com
 .cookicut.com
@@ -3269,6 +3283,7 @@ dl.ubnt.com
 .eayyou.com
 .lanzou.com
 .ilanzou.com
+.baozou.com
 .xinshipu.com
 .hupu.com
 .163jiasu.com
@@ -4009,6 +4024,7 @@ time.izatcloud.net
 .360sou.net
 .haosou.net
 .wuyou.net
+.99jiasu.net
 .antutu.net
 .amemv.net
 .ctcdnov.net
