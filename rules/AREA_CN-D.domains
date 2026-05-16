@@ -68,6 +68,7 @@ dot.pub
 .lightmake.site
 .coze.site
 .cf-ns.site
+.ccw.site
 .aidream.website
 .monika.love
 .mengtuoshi.wang
@@ -235,6 +236,7 @@ end-api.shallow.ink
 .shang360.com
 .rong360.com
 .shangshi360.com
+.yayi360.com
 .ipplus360.com
 .tjjt360.com
 .chugou360.com
@@ -1368,6 +1370,7 @@ media.cdn.queniuqe.com
 .xiachufang.com
 .baoxianshichang.com
 .youshang.com
+.gongxiangjizhang.com
 .hujiang.com
 .kujiang.com
 .piaoliang.com
@@ -1444,6 +1447,7 @@ media.cdn.queniuqe.com
 .woyaogexing.com
 .baixing.com
 .weixing.com
+.miaotixing.com
 .chaoxing.com
 .aichaoxing.com
 .dingdachuxing.com
@@ -1464,6 +1468,7 @@ media.cdn.queniuqe.com
 .wukong.com
 .elong.com
 .qunjielong.com
+.zjshulong.com
 .meloong.com
 .guanaitong.com
 .lvsexitong.com
@@ -2301,8 +2306,10 @@ ocsp.globalsign.com
 .yundun.com
 .gaodun.com
 .frp-fun.com
+.suu-fun.com
 .5fun.com
 .sofun.com
+.suufun.com
 .awemeughun.com
 .haishun.com
 .kanzhun.com
@@ -2851,6 +2858,7 @@ cdnstatic.tencentcs.com
 .aligames.com
 .seasungames.com
 .kurogames.com
+.shengqugames.com
 .haiersmarthomes.com
 .sf-airlines.com
 .springairlines.com
@@ -3016,6 +3024,7 @@ cdnstatic.tencentcs.com
 .72whys.com
 .yundasys.com
 .mryys.com
+.xyys.com
 .ixdzs.com
 .zhangzs.com
 .pgzs.com
@@ -3298,6 +3307,7 @@ dl.ubnt.com
 .bdatu.com
 .huatu.com
 .meitu.com
+.ttshitu.com
 .baomitu.com
 .xitu.com
 .onlinesjtu.com
@@ -3512,6 +3522,7 @@ dl.ubnt.com
 .sslibrary.com
 .allhistory.com
 .myparallelstory.com
+.infini-fantasy.com
 .cnbksy.com
 .shumensy.com
 .wztsy.com
@@ -3553,6 +3564,7 @@ gstore.val.manlaxy.com
 .fxxz.com
 .mamayz.com
 .linliyz.com
+.hwwlyz.com
 .qunarzz.com
 .cn
 .gio.ren
@@ -3621,6 +3633,7 @@ gstore.val.manlaxy.com
 .zimuzu.io
 .tebex.io
 .goproxy.io
+.goofish.pro
 .ezpro.pro
 .fofa.so
 .mrw.so
@@ -3702,6 +3715,7 @@ gstore.val.manlaxy.com
 .4399.net
 .3304399.net
 .5054399.net
+.linka2a.net
 .duba.net
 .baltamatica.net
 .ipanda.net
