@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,xn--yt8h.la
 DOMAIN-SUFFIX,hitomi.la
 DOMAIN-SUFFIX,nozomi.la
 DOMAIN-SUFFIX,intel.la
+DOMAIN-SUFFIX,mzl.la
 DOMAIN-SUFFIX,ipfs.lain.la
 DOMAIN-SUFFIX,hentaivn.la
 DOMAIN-SUFFIX,bmw-lao.la
@@ -1780,6 +1781,7 @@ DOMAIN-SUFFIX,getsession.org
 DOMAIN-SUFFIX,rpmfusion.org
 DOMAIN-SUFFIX,himalayan-foundation.org
 DOMAIN-SUFFIX,wikimediafoundation.org
+DOMAIN-SUFFIX,mozillafoundation.org
 DOMAIN-SUFFIX,ieeefoundation.org
 DOMAIN-SUFFIX,nikefoundation.org
 DOMAIN-SUFFIX,oraclefoundation.org
@@ -2519,6 +2521,7 @@ DOMAIN-SUFFIX,genotek.health
 DOMAIN-SUFFIX,xnxx.health
 DOMAIN-SUFFIX,democracy.earth
 DOMAIN-SUFFIX,grapheneos.ovh
+DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,lmarena.ai
 DOMAIN-SUFFIX,etna.ai
@@ -2537,6 +2540,7 @@ DOMAIN-SUFFIX,podwise.ai
 DOMAIN-SUFFIX,jiuse.ai
 DOMAIN-SUFFIX,oshiete.ai
 DOMAIN-SUFFIX,tinkoff.ai
+DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,gmo-research.ai
 DOMAIN-SUFFIX,api.ai
 DOMAIN-SUFFIX,tsi.ai
@@ -2557,6 +2561,7 @@ DOMAIN-SUFFIX,tenbin.ai
 DOMAIN-SUFFIX,devin.ai
 DOMAIN-SUFFIX,h2o.ai
 DOMAIN-SUFFIX,wombo.ai
+DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,openvino.ai
 DOMAIN-SUFFIX,suno.ai
@@ -2586,6 +2591,7 @@ DOMAIN-SUFFIX,sokuresu.ai
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,devv.ai
 DOMAIN-SUFFIX,openclaw.ai
+DOMAIN-SUFFIX,tapnow.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,simianx.ai
@@ -6657,6 +6663,7 @@ DOMAIN-SUFFIX,payserve.com
 DOMAIN-SUFFIX,voazimbabwe.com
 DOMAIN-SUFFIX,mewe.com
 DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,sotwe.com
 DOMAIN-SUFFIX,wwe.com
 DOMAIN-SUFFIX,568xe.com
 DOMAIN-SUFFIX,ahvideosexe.com
@@ -16910,6 +16917,7 @@ DOMAIN-SUFFIX,dashlytrack.app
 DOMAIN-SUFFIX,knock.app
 DOMAIN-SUFFIX,koshelek.app
 DOMAIN-SUFFIX,ngrok.app
+DOMAIN-SUFFIX,raphael.app
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,nicegram.app
 DOMAIN-SUFFIX,agedm.app

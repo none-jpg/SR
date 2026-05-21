@@ -50,6 +50,7 @@
 .hitomi.la
 .nozomi.la
 .intel.la
+.mzl.la
 .ipfs.lain.la
 .hentaivn.la
 .bmw-lao.la
@@ -1780,6 +1781,7 @@ databank.worldbank.org
 .rpmfusion.org
 .himalayan-foundation.org
 .wikimediafoundation.org
+.mozillafoundation.org
 .ieeefoundation.org
 .nikefoundation.org
 .oraclefoundation.org
@@ -2519,6 +2521,7 @@ mdn.mozillademos.org
 .xnxx.health
 .democracy.earth
 .grapheneos.ovh
+.mozilla.ai
 .arena.ai
 .lmarena.ai
 .etna.ai
@@ -2537,6 +2540,7 @@ mdn.mozillademos.org
 .jiuse.ai
 .oshiete.ai
 .tinkoff.ai
+.g.ai
 .gmo-research.ai
 .api.ai
 .tsi.ai
@@ -2557,6 +2561,7 @@ mdn.mozillademos.org
 .devin.ai
 .h2o.ai
 .wombo.ai
+.leonardo.ai
 .lmstudio.ai
 .openvino.ai
 .suno.ai
@@ -2586,6 +2591,7 @@ mdn.mozillademos.org
 .missav.ai
 .devv.ai
 .openclaw.ai
+.tapnow.ai
 .x.ai
 .pplx.ai
 .simianx.ai
@@ -6657,6 +6663,7 @@ rss.wudifeixue.com
 .voazimbabwe.com
 .mewe.com
 .nowe.com
+.sotwe.com
 .wwe.com
 .568xe.com
 .ahvideosexe.com
@@ -16910,6 +16917,7 @@ yangzhi.app
 .knock.app
 .koshelek.app
 .ngrok.app
+.raphael.app
 .vercel.app
 .nicegram.app
 .agedm.app

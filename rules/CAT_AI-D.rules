@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,comfy.org
 DOMAIN-SUFFIX,comfyregistry.org
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,youmind.ai
@@ -42,6 +43,7 @@ DOMAIN-SUFFIX,coderabbit.ai
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,lovart.ai
 DOMAIN-SUFFIX,openclaw.ai
+DOMAIN-SUFFIX,tapnow.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,dify.ai
