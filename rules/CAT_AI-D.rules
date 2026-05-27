@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN,api.github.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,envato-static.com
+DOMAIN-SUFFIX,gemini.gstatic.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,youmind.com
