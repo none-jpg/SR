@@ -20,6 +20,7 @@ dot.pub
 .x-cloud.cc
 .xedge.cc
 .zuoyebang.cc
+.diyring.cc
 .chaoxing.cc
 .hefei.cc
 .zhangzishi.cc
@@ -292,6 +293,7 @@ izattime.qcomgeo2.com
 .zmz003.com
 .toutiao13.com
 .guoping123.com
+.kuyin123.com
 .hao123.com
 .tao123.com
 .tuer123.com
@@ -533,6 +535,7 @@ izattime.qcomgeo2.com
 .tianjimedia.com
 .dxpmedia.com
 .jikipedia.com
+.antpedia.com
 cn.download.nvidia.com
 .pharmacodia.com
 .jia.com
@@ -953,6 +956,7 @@ cn.download.nvidia.com
 .obriccloud.com
 .jdcloud.com
 .tendcloud.com
+.ewdcloud.com
 .lecloud.com
 .xiaoecloud.com
 .yfcloud.com
@@ -1287,6 +1291,7 @@ media.cdn.queniuqe.com
 .scoregg.com
 .xdrig.com
 .intsig.com
+.sckg.com
 .kspkg.com
 .feishupkg.com
 .mi-img.com
@@ -1853,6 +1858,8 @@ media.cdn.queniuqe.com
 .ztoglobal.com
 .sf-financial.com
 .sf-international.com
+.tal.com
+.100tal.com
 .dgphospital.com
 .narwal.com
 .jkbl.com
@@ -2323,6 +2330,7 @@ ocsp.globalsign.com
 .kanzhun.com
 .veryzhun.com
 .tuwanjun.com
+.zuowenjun.com
 .yuelun.com
 .alikunlun.com
 .arpun.com
@@ -2356,6 +2364,7 @@ ocsp.globalsign.com
 .mingyuanyun.com
 .youzanyun.com
 .rainyun.com
+.kuyinyun.com
 .maoyun.com
 .feimaoyun.com
 .jianguoyun.com
@@ -2427,6 +2436,7 @@ ocsp.globalsign.com
 .weilaiyunxiao.com
 .keboyunxiao.com
 .zhongkao.com
+.gaokao.com
 .haidilao.com
 .qichamao.com
 .ciweimao.com
@@ -3209,6 +3219,7 @@ dl.ubnt.com
 .zhihuishu.com
 .jianshu.com
 .haofenshu.com
+.aoshu.com
 .ipshu.com
 .wenshushu.com
 .hwshu.com
@@ -3233,6 +3244,7 @@ dl.ubnt.com
 .9xiu.com
 .xiaokaxiu.com
 .hongxiu.com
+.kuyinxiu.com
 .duxiu.com
 .huxiu.com
 .wenkeju.com
@@ -3326,7 +3338,9 @@ dl.ubnt.com
 .liantu.com
 .ibaotu.com
 .antutu.com
+.eduu.com
 .lanzouu.com
+.eduuu.com
 .vzuu.com
 .dewu.com
 .caijingwu.com
@@ -3427,6 +3441,7 @@ dl.ubnt.com
 .weiyangx.com
 .biddingx.com
 .kjwugx.com
+.chinafix.com
 .frp-mix.com
 .172mix.com
 .pipix.com
@@ -3507,6 +3522,7 @@ dl.ubnt.com
 .shyxhy.com
 .cocodiy.com
 .sxcxldjy.com
+.21cnjy.com
 .fzaqjy.com
 .txrjy.com
 .th-sjy.com
@@ -3890,6 +3906,7 @@ time.izatcloud.net
 .wpsmail.net
 .gpall.net
 .matpool.net
+.cyol.net
 .bdurl.net
 .chinadsl.net
 .cnmstl.net
@@ -4044,6 +4061,7 @@ time.izatcloud.net
 .17u.net
 .feishu.net
 .jinshuju.net
+.zuowenku.net
 .sogou.net
 .kugou.net
 .shumilou.net
