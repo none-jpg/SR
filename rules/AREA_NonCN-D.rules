@@ -10153,7 +10153,6 @@ DOMAIN-SUFFIX,itunesradio.com
 DOMAIN-SUFFIX,foxnewsradio.com
 DOMAIN-SUFFIX,ebayradio.com
 DOMAIN-SUFFIX,immidio.com
-DOMAIN-SUFFIX,yidio.com
 DOMAIN-SUFFIX,bestbuy-audio.com
 DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,headphonesbeatsaudio.com
@@ -13849,6 +13848,7 @@ DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,sheshaft.com
 DOMAIN-SUFFIX,nikecraft.com
 DOMAIN-SUFFIX,planetminecraft.com
+DOMAIN-SUFFIX,gencraft.com
 DOMAIN-SUFFIX,starcraft.com
 DOMAIN-SUFFIX,worldofwarcraft.com
 DOMAIN-SUFFIX,paypal-gift.com
@@ -16428,6 +16428,7 @@ DOMAIN-SUFFIX,gsrc.io
 DOMAIN-SUFFIX,egghead.io
 DOMAIN-SUFFIX,openthread.io
 DOMAIN-SUFFIX,foxrad.io
+DOMAIN-SUFFIX,veed.io
 DOMAIN-SUFFIX,shattered.io
 DOMAIN-SUFFIX,hackmd.io
 DOMAIN-SUFFIX,4everland.io
