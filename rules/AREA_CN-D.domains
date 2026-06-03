@@ -511,6 +511,7 @@ izattime.qcomgeo2.com
 .ucloudgda.com
 .gezida.com
 .ipanda.com
+.dianwoda.com
 .mdpda.com
 .midea.com
 .frp-sea.com
@@ -875,6 +876,7 @@ cn.download.nvidia.com
 .frp-dad.com
 .cubead.com
 .5read.com
+.shuqiread.com
 .vsread.com
 .hotread.com
 .frp-mad.com
@@ -896,6 +898,7 @@ cn.download.nvidia.com
 .jd.com
 .mszdld.com
 .cozebuild.com
+.hworld.com
 .weand.com
 .lkkbrand.com
 .globrand.com
@@ -1019,6 +1022,7 @@ cn.download.nvidia.com
 .frp-fee.com
 .lkcoffee.com
 .boohee.com
+.whee.com
 .taomee.com
 .baidufree.com
 .gree.com
@@ -1381,6 +1385,7 @@ media.cdn.queniuqe.com
 .baoxianshichang.com
 .youshang.com
 .gongxiangjizhang.com
+.jinjiang.com
 .hujiang.com
 .kujiang.com
 .piaoliang.com
@@ -1577,6 +1582,7 @@ media.cdn.queniuqe.com
 .hacpai.com
 .ketangpai.com
 .aipai.com
+.kaipai.com
 .paipai.com
 .meipai.com
 .miaopai.com
@@ -1689,6 +1695,7 @@ media.cdn.queniuqe.com
 .zijieapi.com
 .yxhapi.com
 .biliapi.com
+.shuqiapi.com
 .hjapi.com
 .golinkapi.com
 .toutiaoapi.com
@@ -1702,6 +1709,8 @@ media.cdn.queniuqe.com
 .atianqi.com
 .zuimeitianqi.com
 .maisanqi.com
+.shuqi.com
+.ishuqi.com
 .luyouqi.com
 .bohejiasuqi.com
 .tmjiasuqi.com
@@ -1713,6 +1722,7 @@ media.cdn.queniuqe.com
 .chouti.com
 .yuansouti.com
 .tianyaui.com
+.paidui.com
 .sheui.com
 .chinachugui.com
 .qishui.com
@@ -1724,7 +1734,6 @@ media.cdn.queniuqe.com
 .sui.com
 .getui.com
 .igetui.com
-.tudouui.com
 .zui.com
 .autonavi.com
 .minimaxi.com
@@ -1872,6 +1881,7 @@ media.cdn.queniuqe.com
 .shanshuihotel.com
 .dreams-travel.com
 .btgtravel.com
+.jjtravel.com
 .fanqienovel.com
 .fqnovel.com
 .changdunovel.com
@@ -2083,6 +2093,7 @@ i.dell.com
 .tuwan.com
 .changyan.com
 .heiyan.com
+.meiyan.com
 .chinakaoyan.com
 .maoyan.com
 .youzan.com
@@ -2304,6 +2315,7 @@ ocsp.globalsign.com
 .mifon.com
 .paragon.com
 .funshion.com
+.miraclevision.com
 .hikvision.com
 .playstation.com
 .stosolution.com
@@ -2422,7 +2434,9 @@ ocsp.globalsign.com
 .fengniao.com
 .cainiao.com
 .leiniao.com
+.56xiniao.com
 .youxiniao.com
+.danniao.com
 .taihuoniao.com
 .huochepiao.com
 .taopiaopiao.com
@@ -2469,6 +2483,7 @@ ocsp.globalsign.com
 .bilivideo.com
 .pearvideo.com
 .miguvideo.com
+.roboneo.com
 .dayainfo.com
 .sseinfo.com
 .dginfo.com
@@ -2544,6 +2559,7 @@ ocsp.globalsign.com
 .bitauto.com
 .zto.com
 .izto.com
+.yaduo.com
 .yangkeduo.com
 .tajiduo.com
 .jduoduo.com
@@ -2665,6 +2681,7 @@ ocsp.globalsign.com
 .58corp.com
 .nanhaicorp.com
 .zhuancorp.com
+.huazhucorp.com
 .zampdsp.com
 .pstatp.com
 .lbtp.com
@@ -2737,6 +2754,8 @@ ocsp.globalsign.com
 .s-reader.com
 .ibreader.com
 .ireader.com
+.shuqireader.com
+.sqreader.com
 .ctrender.com
 .wonnder.com
 .csfounder.com
@@ -2876,6 +2895,7 @@ cdnstatic.tencentcs.com
 .epicgames.com
 .starworldgames.com
 .aligames.com
+.lingxigames.com
 .seasungames.com
 .kurogames.com
 .shengqugames.com
@@ -2918,6 +2938,7 @@ cdnstatic.tencentcs.com
 .zgjsks.com
 .jsyks.com
 .xiaoe-materials.com
+.btghotels.com
 .bthhotels.com
 .dutils.com
 .dedecms.com
@@ -3224,6 +3245,7 @@ dl.ubnt.com
 .wenshushu.com
 .hwshu.com
 .mofazhu.com
+.huazhu.com
 .zmengzhu.com
 .longzhu.com
 .feizhu.com
@@ -3247,6 +3269,7 @@ dl.ubnt.com
 .kuyinxiu.com
 .duxiu.com
 .huxiu.com
+.meituxiuxiu.com
 .wenkeju.com
 .leju.com
 .ttmeiju.com
@@ -3529,7 +3552,6 @@ dl.ubnt.com
 .txrjy.com
 .th-sjy.com
 .yesky.com
-.travelsky.com
 .crsky.com
 .gamersky.com
 .ly.com
@@ -3545,6 +3567,7 @@ dl.ubnt.com
 .sony.com
 .frp-boy.com
 .youboy.com
+.ejoy.com
 .cozedeploy.com
 .anytocopy.com
 .soulteary.com
@@ -3830,6 +3853,7 @@ time.izatcloud.net
 .biyehome.net
 .excelhome.net
 .uxengine.net
+.jinjiangonline.net
 .capitalonline.net
 .weiphone.net
 .upe.net
@@ -4085,6 +4109,7 @@ time.izatcloud.net
 .jxksw.net
 .excelbbx.net
 .chinaunix.net
+.aliwx.net
 .ckxx.net
 .newyx.net
 .acplay.net
