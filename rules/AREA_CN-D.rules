@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,meipian.me
 DOMAIN-SUFFIX,laomo.me
 DOMAIN-SUFFIX,oppoer.me
 DOMAIN-SUFFIX,winos.me
+DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,chuyu.me
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,letitfly.me
@@ -758,6 +759,7 @@ DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,idouyinpic.com
 DOMAIN-SUFFIX,xnpic.com
 DOMAIN-SUFFIX,cctvpic.com
+DOMAIN-SUFFIX,qqmusic.com
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,lietou-static.com
@@ -1459,6 +1461,7 @@ DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,36dianping.com
 DOMAIN-SUFFIX,nongfuspring.com
 DOMAIN-SUFFIX,1ting.com
+DOMAIN-SUFFIX,97ting.com
 DOMAIN-SUFFIX,wrating.com
 DOMAIN-SUFFIX,guzhangting.com
 DOMAIN-SUFFIX,leiting.com
@@ -1909,6 +1912,7 @@ DOMAIN-SUFFIX,dmall.com
 DOMAIN-SUFFIX,lemall.com
 DOMAIN-SUFFIX,chememall.com
 DOMAIN-SUFFIX,ztemall.com
+DOMAIN-SUFFIX,tingmall.com
 DOMAIN-SUFFIX,hikmall.com
 DOMAIN-SUFFIX,mihoyomall.com
 DOMAIN-SUFFIX,tmall.com
@@ -2442,7 +2446,6 @@ DOMAIN-SUFFIX,huajiao.com
 DOMAIN-SUFFIX,youjiao.com
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,yiyouliao.com
-DOMAIN-SUFFIX,kumiao.com
 DOMAIN-SUFFIX,fengniao.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,leiniao.com
@@ -3113,6 +3116,7 @@ DOMAIN-SUFFIX,centanet.com
 DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,supercachenet.com
 DOMAIN-SUFFIX,thmnet.com
+DOMAIN-SUFFIX,yebinnet.com
 DOMAIN-SUFFIX,yigoonet.com
 DOMAIN-SUFFIX,ynet.com
 DOMAIN-SUFFIX,58lovepet.com
@@ -4079,6 +4083,7 @@ DOMAIN-SUFFIX,umajor.net
 DOMAIN-SUFFIX,fnnas.net
 DOMAIN-SUFFIX,mcbbs.net
 DOMAIN-SUFFIX,tgprocs.net
+DOMAIN-SUFFIX,kurogames.net
 DOMAIN-SUFFIX,gtags.net
 DOMAIN-SUFFIX,yto-lgs.net
 DOMAIN-SUFFIX,t00ls.net
