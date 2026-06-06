@@ -131,6 +131,7 @@ DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,copilot-proxy.githubusercontent.com
