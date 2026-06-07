@@ -115,6 +115,7 @@ kms.03k.org
 .tipdm.org
 .zgjm.org
 .baicizhan.org
+.juhaokan.org
 .anquan.org
 .gushiwen.org
 .trustutn.org
@@ -1010,6 +1011,7 @@ cn.download.nvidia.com
 .bytedance.com
 .pixeldance.com
 .bidchance.com
+.aocde.com
 .wiwide.com
 .gaode.com
 .ybccode.com
@@ -1053,6 +1055,7 @@ cn.download.nvidia.com
 .moocollege.com
 .dogedoge.com
 .aicoinstorge.com
+.zhuge.com
 .biquge.com
 .315che.com
 .58che.com
@@ -1172,11 +1175,13 @@ cn.download.nvidia.com
 .vgtime.com
 .mtime.com
 .realme.com
+.hisense-home.com
 .0379home.com
 .ecjobhome.com
 .snodehome.com
 .whlovehome.com
 .hackhome.com
+.niohome.com
 .autohome.com
 .ithome.com
 .hybiome.com
@@ -1281,6 +1286,7 @@ media.cdn.queniuqe.com
 .lorhf.com
 .ysjf.com
 .53kf.com
+.hisensekf.com
 .cloudflareperf.com
 .freebuf.com
 .lanzouf.com
@@ -1577,6 +1583,7 @@ media.cdn.queniuqe.com
 .koudai.com
 .xingyeai.com
 .maoxiangai.com
+.klingai.com
 .ikanchai.com
 .shuhai.com
 .wolai.com
@@ -2201,6 +2208,7 @@ www.layuicdn.com
 .dmallcdn.com
 .ctlcdn.com
 .qtlcdn.com
+.sxlcdn.com
 .cmcmcdn.com
 .xmcdn.com
 .yunfancdn.com
@@ -2307,6 +2315,7 @@ ocsp.globalsign.com
 .bosszhipin.com
 .beijing-lipin.com
 .zhaopin.com
+.iguopin.com
 .xiaomiyoupin.com
 .kuqin.com
 .310win.com
@@ -2436,6 +2445,7 @@ ocsp.globalsign.com
 .youdao.com
 .yigao.com
 .dongao.com
+.fxbaogao.com
 .toutiaohao.com
 .iranshao.com
 .jiazhao.com
@@ -2516,6 +2526,7 @@ ocsp.globalsign.com
 .kugouaudio.com
 .ihappystudio.com
 .growingio.com
+.nio.com
 .doubanio.com
 .qtmojo.com
 .emoriko.com
@@ -2711,6 +2722,7 @@ ocsp.globalsign.com
 .zxhgroup.com
 .huoshangroup.com
 .ztogroup.com
+.zeekrgroup.com
 .lanzoup.com
 .lawxp.com
 .zggqzp.com
@@ -3258,6 +3270,7 @@ dl.ubnt.com
 .lianmishu.com
 .zhihuishu.com
 .jianshu.com
+.duanshu.com
 .haofenshu.com
 .aoshu.com
 .ipshu.com
@@ -3427,6 +3440,7 @@ dl.ubnt.com
 .pptv.com
 .jstv.com
 .zjstv.com
+.hismarttv.com
 .xiaodutv.com
 .douyutv.com
 .isxtv.com
@@ -3539,14 +3553,17 @@ dl.ubnt.com
 .alipay.com
 .helipay.com
 .mipay.com
+.lehuipay.com
 .dxmpay.com
 .123panpay.com
 .tenpay.com
+.joinpay.com
 .douyinpay.com
 .unionpay.com
 .chinaunionpay.com
 .oppopay.com
 .kuaishoupay.com
+.iboxpay.com
 .oray.com
 .frp-say.com
 .lxway.com
@@ -4095,6 +4112,7 @@ time.izatcloud.net
 .ctdns.net
 .lxdns.net
 .bdydns.net
+.mfuns.net
 .cloudxns.net
 .fnos.net
 .yfdts.net
