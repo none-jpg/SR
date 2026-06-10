@@ -101,6 +101,7 @@ DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,goto-game.org
 DOMAIN-SUFFIX,cpppf.org
 DOMAIN-SUFFIX,50bang.org
+DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,kechuang.org
 DOMAIN-SUFFIX,b3log.org
 DOMAIN-SUFFIX,leturich.org
@@ -792,7 +793,6 @@ DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,idouyinstatic.com
 DOMAIN-SUFFIX,toutiaostatic.com
 DOMAIN-SUFFIX,vipstatic.com
-DOMAIN-SUFFIX,infoqstatic.com
 DOMAIN-SUFFIX,dcarstatic.com
 DOMAIN-SUFFIX,qyerstatic.com
 DOMAIN-SUFFIX,chrstatic.com
@@ -2155,7 +2155,6 @@ DOMAIN-SUFFIX,bce-cdn.com
 DOMAIN-SUFFIX,qh-cdn.com
 DOMAIN-SUFFIX,ol-cdn.com
 DOMAIN-SUFFIX,dxm-cdn.com
-DOMAIN-SUFFIX,ip-cdn.com
 DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,baidu-cdn.com
 DOMAIN-SUFFIX,00cdn.com
@@ -2733,7 +2732,6 @@ DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,360jq.com
 DOMAIN-SUFFIX,cbjq.com
 DOMAIN-SUFFIX,ldmnq.com
-DOMAIN-SUFFIX,infoq.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,sllssrq.com
 DOMAIN-SUFFIX,leigodjsq.com
