@@ -229,6 +229,7 @@ end-api.shallow.ink
 .rrys2020.com
 .cd120.com
 .hack520.com
+.shipin520.com
 .jj20.com
 .cdn20.com
 .7230.com
@@ -387,6 +388,7 @@ izattime.qcomgeo2.com
 .qhimgs6.com
 .ku6.com
 .kugouipv6.com
+.npsv6.com
 .win007.com
 .40407.com
 .er07.com
@@ -618,6 +620,7 @@ cn.download.nvidia.com
 .sinopec-usa.com
 .zgzsa.com
 .zjzsa.com
+.heimadata.com
 .hlgdata.com
 .vhengdata.com
 .talkingdata.com
@@ -680,6 +683,7 @@ cn.download.nvidia.com
 .gaoxiaojob.com
 .mob.com
 .runoob.com
+.zgjtb.com
 .sunrtb.com
 .frp-hub.com
 .ronghub.com
@@ -740,6 +744,7 @@ cn.download.nvidia.com
 .zzdtec.com
 .xafc.com
 .pddugc.com
+.scgchc.com
 .wch-ic.com
 .frdic.com
 .ubssdic.com
@@ -1140,6 +1145,7 @@ cn.download.nvidia.com
 .jzagile.com
 .worktile.com
 .51sole.com
+.nfpeople.com
 .dgtle.com
 .ule.com
 .jiashule.com
@@ -1238,6 +1244,7 @@ media.cdn.queniuqe.com
 .72byte.com
 .chinabyte.com
 .zjbyte.com
+.ishijue.com
 .golue.com
 .lanzoue.com
 .yuque.com
@@ -1288,6 +1295,7 @@ media.cdn.queniuqe.com
 .53kf.com
 .hisensekf.com
 .cloudflareperf.com
+.sctv-tf.com
 .freebuf.com
 .lanzouf.com
 .4399swf.com
@@ -1300,6 +1308,7 @@ media.cdn.queniuqe.com
 .sfacg.com
 .gracg.com
 .mihoyocg.com
+.vcg.com
 .jtjms-eg.com
 .frp-leg.com
 .pushcfg.com
@@ -1397,6 +1406,7 @@ media.cdn.queniuqe.com
 .mofang.com
 .xiachufang.com
 .baoxianshichang.com
+.xinpianchang.com
 .youshang.com
 .gongxiangjizhang.com
 .jinjiang.com
@@ -1450,6 +1460,7 @@ media.cdn.queniuqe.com
 .ytoholding.com
 .cloudflarestaging.com
 .1nongjing.com
+.ahcaijing.com
 .weilaicaijing.com
 .xzking.com
 .51selling.com
@@ -1500,6 +1511,7 @@ media.cdn.queniuqe.com
 .elong.com
 .qunjielong.com
 .zjshulong.com
+.pwsannong.com
 .meloong.com
 .guanaitong.com
 .lvsexitong.com
@@ -1713,6 +1725,7 @@ media.cdn.queniuqe.com
 .oceancloudapi.com
 .ucloudapi.com
 .zijieapi.com
+.vcgapi.com
 .yxhapi.com
 .biliapi.com
 .shuqiapi.com
@@ -2170,6 +2183,7 @@ i.dell.com
 .tbcdn.com
 .ctbcdn.com
 .volccdn.com
+.xpccdn.com
 .yccdn.com
 .pddcdn.com
 .jdcdn.com
@@ -2407,6 +2421,7 @@ ocsp.globalsign.com
 .ksyun.com
 .mtyun.com
 .kaipuyun.com
+.keruyun.com
 .frp-own.com
 .423down.com
 .7down.com
@@ -2577,6 +2592,7 @@ ocsp.globalsign.com
 .lanosso.com
 .likuso.com
 .koyso.com
+.to8to.com
 .51cto.com
 .2cto.com
 .csto.com
@@ -2976,6 +2992,7 @@ cdnstatic.tencentcs.com
 .t9tms.com
 .youyitms.com
 .tnettms.com
+.chinaums.com
 .qiancangwms.com
 .youyiwms.com
 .wangniuwms.com
@@ -3085,6 +3102,7 @@ cdnstatic.tencentcs.com
 .qingdaonews.com
 .donews.com
 .jztvnews.com
+.hxnews.com
 .sznews.com
 .cgws.com
 .teleows.com
@@ -3170,6 +3188,7 @@ cdnstatic.tencentcs.com
 .awtmt.com
 .xinhuaxmt.com
 .cxmt.com
+.gxxmt.com
 config.ubnt.com
 dl.ubnt.com
 .tencent.com
@@ -3189,6 +3208,7 @@ dl.ubnt.com
 .eziot.com
 .1ppt.com
 .52ppt.com
+.ucppt.com
 .ypppt.com
 .fn-mart.com
 .aamsmart.com
@@ -3379,6 +3399,7 @@ dl.ubnt.com
 .fnjiasu.com
 .yebaojiasu.com
 .lxjiasu.com
+.ourjiangsu.com
 .wangsu.com
 .yisu.com
 .tobosu.com
@@ -3419,12 +3440,14 @@ dl.ubnt.com
 .chaoxingv.com
 .viviv.com
 .rwkv.com
+.hualv.com
 .amemv.com
 .develenv.com
 .lanzov.com
 .edgesrv.com
 .ksapisrv.com
 .cctv.com
+.sctv.com
 .letv.com
 .mgtv.com
 .hitv.com
@@ -3443,6 +3466,7 @@ dl.ubnt.com
 .douyutv.com
 .isxtv.com
 .cztv.com
+.gztv.com
 .lanzouv.com
 .hf-aw.com
 .huafengaw.com
@@ -3466,6 +3490,7 @@ dl.ubnt.com
 .goufw.com
 .jlc-gw.com
 .cloudflarestoragegw.com
+.ahcjw.com
 .dyhjw.com
 .xkw.com
 .4399dmw.com
@@ -3778,6 +3803,7 @@ gstore.val.manlaxy.com
 .xn--fiqs8s
 .u.tools
 .xiumi.us
+.landian.news
 .360.net
 .bio360.net
 .myshow360.net
