@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,s.team
+DOMAIN-SUFFIX,dota2.com
 DOMAIN-SUFFIX,dl.steam.clngaa.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,dl.steam.ksyna.com
@@ -47,6 +48,7 @@ DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,st.dl.bscstorage.net
 DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
+DOMAIN-SUFFIX,valve.net
 DOMAIN,a4e8s8k3.map2.ssl.hwcdn.net
 DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net
 DOMAIN-SUFFIX,steam.cdn.on.net
