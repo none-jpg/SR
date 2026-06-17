@@ -125,7 +125,6 @@ kms.03k.org
 .diandao.org
 .laomaotao.org
 .cspro.org
-.sogou-op.org
 .aliapp.org
 .shssp.org
 .cn.pool.ntp.org
@@ -178,7 +177,6 @@ kms.03k.org
 .jd.hk
 .tmall.hk
 .sfcar.hk
-.qd.ink
 .dji.ink
 .wss.ink
 end.shallow.ink
@@ -224,6 +222,7 @@ end-api.shallow.ink
 .110.com
 .055110.com
 .fengxian110.com
+.lz310.com
 .it610.com
 .job910.com
 .jin10.com
@@ -770,6 +769,8 @@ cn.download.nvidia.com
 .idouyinpic.com
 .xnpic.com
 .cctvpic.com
+.th-music.com
+.dmhmusic.com
 .qqmusic.com
 .tencentmusic.com
 .byted-static.com
@@ -836,8 +837,8 @@ cn.download.nvidia.com
 .hello-inc.com
 .best-inc.com
 .sohu-inc.com
-.sogou-inc.com
 .4399inc.com
+.lizhiinc.com
 .zhuaninc.com
 .360doc.com
 .zhijidoc.com
@@ -1241,7 +1242,6 @@ media.cdn.queniuqe.com
 .djigate.com
 .suningestate.com
 .5bite.com
-.xiangrikuisite.com
 .haote.com
 .leanote.com
 .shimonote.com
@@ -1540,7 +1540,6 @@ media.cdn.queniuqe.com
 .cnitblog.com
 .deepepg.com
 .qhmsg.com
-.yeyousg.com
 .ucbug.com
 .lanzoug.com
 .frp-rug.com
@@ -1746,6 +1745,7 @@ media.cdn.queniuqe.com
 .jianshuapi.com
 .pupuapi.com
 .zmzapi.com
+.lzpipi.com
 .diandianqi.com
 .tianqi.com
 .atianqi.com
@@ -1786,7 +1786,6 @@ media.cdn.queniuqe.com
 .cankaoxiaoxi.com
 .4399youxi.com
 .shenmayouxi.com
-.sgyouxi.com
 .videoxiaoyouxi.com
 .tuxi.com
 .5wyxi.com
@@ -1920,7 +1919,6 @@ media.cdn.queniuqe.com
 .vancl.com
 .tcl.com
 .yxhhdl.com
-.sogoucdndl.com
 .moleecel.com
 .dlnel.com
 .shanshuihotel.com
@@ -2062,10 +2060,6 @@ i.dell.com
 .baicizhan.com
 .yuantongyizhan.com
 .cainiaoyizhan.com
-.binglianhuajianzhan.com
-.wannianqingjianzhan.com
-.yuweikuijianzhan.com
-.xiangrikuijianzhan.com
 .qianzhan.com
 .wenxiaozhan.com
 .haibian.com
@@ -2097,7 +2091,6 @@ i.dell.com
 .jstarkan.com
 .jiuzhilan.com
 .yaolan.com
-.yidianliulan.com
 .anywlan.com
 .duxiaoman.com
 .ihuman.com
@@ -2136,7 +2129,6 @@ i.dell.com
 .juhuiwan.com
 .yiwan.com
 .zuhaowan.com
-.ggowan.com
 .duowan.com
 .juwan.com
 .tuwan.com
@@ -2210,7 +2202,6 @@ i.dell.com
 .jikecdn.com
 .ulecdn.com
 .elemecdn.com
-.sogouimecdn.com
 .zhangyuecdn.com
 .qlivecdn.com
 .cozecdn.com
@@ -2654,7 +2645,6 @@ ocsp.globalsign.com
 .go2map.com
 .amap.com
 .supermap.com
-.sososnap.com
 .heytap.com
 .alicloudccp.com
 .lemicp.com
@@ -2758,6 +2748,7 @@ ocsp.globalsign.com
 .lanzoup.com
 .lawxp.com
 .zggqzp.com
+.91q.com
 .yunaq.com
 .360zqaq.com
 .antaq.com
@@ -3046,7 +3037,6 @@ cdnstatic.tencentcs.com
 .istoreos.com
 .upfos.com
 .nextstudios.com
-.sgtmos.com
 .yunos.com
 .coloros.com
 .bytetos.com
@@ -3235,6 +3225,7 @@ dl.ubnt.com
 .fa-part.com
 .herostart.com
 .tencentstart.com
+.showstart.com
 .anticheatexpert.com
 .pphimalayanrt.com
 .cecport.com
@@ -3397,9 +3388,9 @@ dl.ubnt.com
 .5you.com
 .119you.com
 .mihayou.com
-.sgyeyou.com
 .changyou.com
 .speiyou.com
+.izuiyou.com
 .diyiyou.com
 .xunyou.com
 .aoyou.com
@@ -3586,7 +3577,6 @@ dl.ubnt.com
 .eastday.com
 .bjcathay.com
 .dandanplay.com
-.ggoplay.com
 .snimay.com
 .3839pay.com
 .chinapay.com
@@ -3742,6 +3732,8 @@ gstore.val.manlaxy.com
 .ucnaming.info
 .ucloudnaming.info
 .unaming.info
+.mting.info
+.wting.info
 .qunliao.info
 .gorouter.info
 .wscdns.info
@@ -4180,7 +4172,6 @@ time.izatcloud.net
 .tuniu.net
 .jinshuju.net
 .zuowenku.net
-.sogou.net
 .kugou.net
 .shumilou.net
 .360sou.net
