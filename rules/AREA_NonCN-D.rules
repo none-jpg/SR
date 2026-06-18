@@ -4588,6 +4588,7 @@ DOMAIN-SUFFIX,autodeskbuildspc.com
 DOMAIN-SUFFIX,karupspc.com
 DOMAIN-SUFFIX,touchsmartpc.com
 DOMAIN-SUFFIX,line-apps-rc.com
+DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,forzarc.com
 DOMAIN-SUFFIX,sc.com
 DOMAIN-SUFFIX,oxfordaasc.com
@@ -12484,6 +12485,8 @@ DOMAIN-SUFFIX,nikefootballgloves.com
 DOMAIN-SUFFIX,primecurves.com
 DOMAIN-SUFFIX,erocurves.com
 DOMAIN-SUFFIX,pbxes.com
+DOMAIN-SUFFIX,cdn-cookieyes.com
+DOMAIN-SUFFIX,cookieyes.com
 DOMAIN-SUFFIX,hentaiyes.com
 DOMAIN-SUFFIX,cnyes.com
 DOMAIN-SUFFIX,udfs.com
@@ -14048,7 +14051,7 @@ DOMAIN-SUFFIX,worldofwarcraft.com
 DOMAIN-SUFFIX,paypal-gift.com
 DOMAIN-SUFFIX,hpgift.com
 DOMAIN-SUFFIX,ioffergift.com
-DOMAIN-SUFFIX,supercell.helpshift.com
+DOMAIN,supercell.helpshift.com
 DOMAIN-SUFFIX,zscalershift.com
 DOMAIN-SUFFIX,tidelift.com
 DOMAIN-SUFFIX,mspairlift.com
@@ -14298,6 +14301,7 @@ DOMAIN-SUFFIX,drdrebeatsdiscount.com
 DOMAIN-SUFFIX,paramount.com
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,faceebot.com
+DOMAIN-SUFFIX,cookiebot.com
 DOMAIN-SUFFIX,googlebot.com
 DOMAIN-SUFFIX,fleshbot.com
 DOMAIN-SUFFIX,quillbot.com
@@ -16854,7 +16858,9 @@ DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,dmit.io
 DOMAIN-SUFFIX,cla-assistant.io
 DOMAIN-SUFFIX,element.io
+DOMAIN-SUFFIX,appconsent.io
 DOMAIN-SUFFIX,adobecontent.io
+DOMAIN-SUFFIX,axept.io
 DOMAIN-SUFFIX,qt.io
 DOMAIN-SUFFIX,short.io
 DOMAIN-SUFFIX,blast.io
@@ -16893,6 +16899,7 @@ DOMAIN-SUFFIX,pinggy.io
 DOMAIN-SUFFIX,fly.io
 DOMAIN-SUFFIX,dashly.io
 DOMAIN-SUFFIX,cdn.statically.io
+DOMAIN-SUFFIX,termly.io
 DOMAIN-SUFFIX,grammarly.io
 DOMAIN-SUFFIX,fastly.io
 DOMAIN-SUFFIX,canny.io
@@ -18570,6 +18577,7 @@ DOMAIN-SUFFIX,vesselfinder.net
 DOMAIN-SUFFIX,camgirlfinder.net
 DOMAIN-SUFFIX,acesofthunder.net
 DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,consentmanager.net
 DOMAIN-SUFFIX,beatspascher.net
 DOMAIN-SUFFIX,monstercasquebeatspascher.net
 DOMAIN-SUFFIX,monsterbeatspascher.net
