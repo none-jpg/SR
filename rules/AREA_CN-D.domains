@@ -95,6 +95,7 @@ dot.pub
 .miot-spec.org
 .chinesemooc.org
 .cnmooc.org
+.newssc.org
 .djiservice.org
 .lawyee.org
 .staticfile.org
@@ -567,6 +568,7 @@ cn.download.nvidia.com
 .schoopia.com
 .meiqia.com
 .rtbasia.com
+.trustasia.com
 .shijiexia.com
 .yixia.com
 .anxia.com
@@ -586,6 +588,7 @@ cn.download.nvidia.com
 .wamawama.com
 .freshhema.com
 .shyhhema.com
+.pwcinema.com
 .zuidaima.com
 .iheima.com
 .qianlima.com
@@ -739,6 +742,7 @@ cn.download.nvidia.com
 .ztfsec.com
 .shgsec.com
 .huajingsec.com
+.knownsec.com
 .cnpsec.com
 .ctsec.com
 .htsec.com
@@ -913,6 +917,7 @@ cn.download.nvidia.com
 .mszdld.com
 .cozebuild.com
 .hworld.com
+.mcpworld.com
 .weand.com
 .lkkbrand.com
 .globrand.com
@@ -930,6 +935,7 @@ cn.download.nvidia.com
 .gfund.com
 .zhfund.com
 .5ifund.com
+.duxiaomanfund.com
 .zofund.com
 .fsfund.com
 .hsfund.com
@@ -956,6 +962,7 @@ cn.download.nvidia.com
 .toutiaovod.com
 .dcarvod.com
 .ppxvod.com
+.wmupd.com
 .16rd.com
 .camcard.com
 .blizzard.com
@@ -963,6 +970,7 @@ cn.download.nvidia.com
 .bytefcdnrd.com
 .kscord.com
 .ksord.com
+.pwrd.com
 .yto-jsd.com
 .hxsd.com
 .hik-cloud.com
@@ -985,6 +993,7 @@ cn.download.nvidia.com
 .huaweicloud.com
 .hicloud.com
 .dbankcloud.com
+.chinamcloud.com
 .beisencloud.com
 .dl.pinyuncloud.com
 .maoyuncloud.com
@@ -1480,6 +1489,7 @@ media.cdn.queniuqe.com
 .openlearning.com
 .suning.com
 .cnsuning.com
+.51ping.com
 .dianping.com
 .36dianping.com
 .nongfuspring.com
@@ -1516,6 +1526,7 @@ media.cdn.queniuqe.com
 .wukong.com
 .elong.com
 .qunjielong.com
+.qianlong.com
 .zjshulong.com
 .pwsannong.com
 .meloong.com
@@ -1685,6 +1696,7 @@ media.cdn.queniuqe.com
 .cnanzhi.com
 .shangyexinzhi.com
 .wumii.com
+.b612kaji.com
 .dji.com
 .leikeji.com
 .dianzhenkeji.com
@@ -1756,6 +1768,7 @@ media.cdn.queniuqe.com
 .luyouqi.com
 .bohejiasuqi.com
 .tmjiasuqi.com
+.myssl-uri.com
 .msftncsi.com
 .linakesi.com
 .anfensi.com
@@ -1851,6 +1864,7 @@ media.cdn.queniuqe.com
 .repaik.com
 .sbsjk.com
 .ersjk.com
+.newstjk.com
 .cctalk.com
 .dingtalk.com
 .xetslk.com
@@ -1967,6 +1981,8 @@ i.dell.com
 .zol.com
 .qqurl.com
 .thunderurl.com
+.51ssl.com
+.litessl.com
 .qnssl.com
 .startssl.com
 .myssl.com
@@ -2082,6 +2098,7 @@ i.dell.com
 .souqian.com
 .fenbilantian.com
 .fanxian.com
+.dxmbaoxian.com
 .360kan.com
 .touqikan.com
 .kankan.com
@@ -2308,6 +2325,7 @@ www.layuicdn.com
 .webterren.com
 .eagsen.com
 .beisen.com
+.fjsen.com
 .soboten.com
 .ysten.com
 .yuewen.com
@@ -2324,6 +2342,7 @@ ocsp.globalsign.com
 .rongechain.com
 .docin.com
 .xinyuanfin.com
+.combofin.com
 .gclouddolphin.com
 .360taojin.com
 .airguilin.com
@@ -2537,6 +2556,7 @@ ocsp.globalsign.com
 .dginfo.com
 .jet-ego.com
 .jmgo.com
+.perfectlingo.com
 .ddmogo.com
 .sogo.com
 .hnacargo.com
@@ -2577,6 +2597,7 @@ ocsp.globalsign.com
 .yupoo.com
 .eastsoo.com
 .sootoo.com
+.dayoo.com
 .viayoo.com
 .woyoo.com
 .tuyoo.com
@@ -2635,6 +2656,7 @@ ocsp.globalsign.com
 .vivo.com
 .lenovo.com
 .mafengwo.com
+.wenwo.com
 .koowo.com
 .mihayo.com
 .mihoyo.com
@@ -3033,6 +3055,7 @@ cdnstatic.tencentcs.com
 .360os.com
 .hemaos.com
 .bcebos.com
+.cocos.com
 .lenovocloudos.com
 .ufileos.com
 .istoreos.com
@@ -3099,6 +3122,7 @@ cdnstatic.tencentcs.com
 .maimemostatus.com
 .ourdvs.com
 .wsdvs.com
+.sxtvs.com
 .bianews.com
 .kankanews.com
 .chinanews.com
@@ -3132,6 +3156,7 @@ cdnstatic.tencentcs.com
 .batchat.com
 .bearychat.com
 .incopat.com
+.shuqistat.com
 .mmstat.com
 .meitustat.com
 .mideaepayuat.com
@@ -3245,6 +3270,7 @@ dl.ubnt.com
 .gcloudcstest.com
 .msftconnecttest.com
 .pingwest.com
+.cnwest.com
 .meiwulist.com
 .xiaoaiassist.com
 .dadighost.com
@@ -3291,6 +3317,7 @@ dl.ubnt.com
 .quehu.com
 .bihu.com
 .zhihu.com
+.laohu.com
 .sohu.com
 .hongshu.com
 .xiaohongshu.com
@@ -3636,6 +3663,7 @@ dl.ubnt.com
 .gcloudcstestonly.com
 .aiemy.com
 .feiniaomy.com
+.bkeconomy.com
 .frp-any.com
 .sony.com
 .frp-boy.com
@@ -3833,6 +3861,7 @@ gstore.val.manlaxy.com
 .cn163.net
 .qq163.net
 .263.net
+.95504.net
 .it165.net
 .xuexi365.net
 .95516.net
@@ -3855,6 +3884,7 @@ gstore.val.manlaxy.com
 .smartmidea.net
 .vaptcha.net
 .heisha.net
+.trustasia.net
 .mcdchina.net
 .codechina.net
 .acfunchina.net
@@ -4101,6 +4131,7 @@ time.izatcloud.net
 .luoo.net
 .zto.net
 .pinduoduo.net
+.douguo.net
 .lenovo.net
 .mafengwo.net
 .yfp2p.net
