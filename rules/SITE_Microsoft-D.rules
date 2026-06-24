@@ -385,6 +385,7 @@ DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,microsoft-tst.com
 DOMAIN-SUFFIX,public-trust.com
 DOMAIN-SUFFIX,githubnext.com
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN-SUFFIX,o365weve-dev.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,fluidpreview.com
@@ -563,6 +564,8 @@ DOMAIN-SUFFIX,pxt.io
 DOMAIN-SUFFIX,userpxt.io
 DOMAIN-SUFFIX,microsoft.ro
 DOMAIN-SUFFIX,microsoft.jp
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,onedriveupdater
 DOMAIN-SUFFIX,microsoft.es
 DOMAIN-SUFFIX,beth.games

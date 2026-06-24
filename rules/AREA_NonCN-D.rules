@@ -1932,6 +1932,7 @@ DOMAIN-SUFFIX,gentoo.org
 DOMAIN-SUFFIX,elrepo.org
 DOMAIN-SUFFIX,turborepo.org
 DOMAIN-SUFFIX,peopo.org
+DOMAIN-SUFFIX,manjaro.org
 DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,dvdstudiopro.org
 DOMAIN-SUFFIX,cato.org
@@ -2454,11 +2455,13 @@ DOMAIN-SUFFIX,avidemux.org
 DOMAIN-SUFFIX,termux.org
 DOMAIN-SUFFIX,linux.org
 DOMAIN-SUFFIX,garudalinux.org
+DOMAIN-SUFFIX,almalinux.org
 DOMAIN-SUFFIX,scientificlinux.org
 DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,clearlinux.org
 DOMAIN-SUFFIX,artixlinux.org
+DOMAIN-SUFFIX,rockylinux.org
 DOMAIN-SUFFIX,arabxnxx.org
 DOMAIN-SUFFIX,amateurxx.org
 DOMAIN-SUFFIX,rexxx.org
@@ -11714,7 +11717,7 @@ DOMAIN-SUFFIX,pornultras.com
 DOMAIN-SUFFIX,foxkansas.com
 DOMAIN-SUFFIX,babosas.com
 DOMAIN-SUFFIX,imperiodefamosas.com
-DOMAIN,default.exp-tas.com
+DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,hairydivas.com
 DOMAIN-SUFFIX,famosascalvas.com
 DOMAIN-SUFFIX,framercanvas.com
@@ -13323,6 +13326,7 @@ DOMAIN-SUFFIX,theaffairs.com
 DOMAIN-SUFFIX,foreignaffairs.com
 DOMAIN-SUFFIX,langsuirs.com
 DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,spotifyforvendors.com
 DOMAIN-SUFFIX,beatsbydrecolors.com
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,mastercardadvisors.com
@@ -14658,6 +14662,7 @@ DOMAIN-SUFFIX,snjulebu.com
 DOMAIN-SUFFIX,jamyangnorbu.com
 DOMAIN-SUFFIX,communitychoicecu.com
 DOMAIN-SUFFIX,mypopescu.com
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN-SUFFIX,vanithaveedu.com
 DOMAIN-SUFFIX,ebayedu.com
 DOMAIN-SUFFIX,vendu.com
@@ -15660,6 +15665,7 @@ DOMAIN-SUFFIX,vaultify.com
 DOMAIN-SUFFIX,paypal-notify.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,tospotify.com
+DOMAIN-SUFFIX,lifeatspotify.com
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,dreprofy.com
 DOMAIN-SUFFIX,thelegendarystarfy.com
@@ -17235,6 +17241,7 @@ DOMAIN-SUFFIX,get.app
 DOMAIN-SUFFIX,meawallet.app
 DOMAIN-SUFFIX,carrotquest.app
 DOMAIN-SUFFIX,cyberghost.app
+DOMAIN-SUFFIX,vscodeedu.app
 DOMAIN-SUFFIX,jav.app
 DOMAIN-SUFFIX,7tv.app
 DOMAIN-SUFFIX,coreldraw.app
@@ -17268,6 +17275,7 @@ DOMAIN-SUFFIX,mitao.bar
 DOMAIN-SUFFIX,br
 DOMAIN-SUFFIX,cr
 DOMAIN-SUFFIX,er
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,weather
 DOMAIN-SUFFIX,xv1.monster
 DOMAIN-SUFFIX,jmapiproxy1.monster
@@ -19115,6 +19123,7 @@ DOMAIN-SUFFIX,iqqtv.net
 DOMAIN-SUFFIX,alforattv.net
 DOMAIN-SUFFIX,directtv.net
 DOMAIN-SUFFIX,yhcw.net
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,openreview.net
 DOMAIN-SUFFIX,freepornpreview.net
 DOMAIN-SUFFIX,javnew.net
@@ -19168,6 +19177,7 @@ DOMAIN-SUFFIX,dl.box.net
 DOMAIN-SUFFIX,developers.box.net
 DOMAIN-SUFFIX,icloudbox.net
 DOMAIN-SUFFIX,pornobox.net
+DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,mattwilcox.net
 DOMAIN-SUFFIX,fanfox.net
 DOMAIN-SUFFIX,waterfox.net
