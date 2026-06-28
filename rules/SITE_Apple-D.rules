@@ -421,7 +421,7 @@ DOMAIN-SUFFIX,reform-apple.com
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,ids-apple.com
 DOMAIN-SUFFIX,www-sms-apple.com
-DOMAIN,icons.axm-usercontent-apple.com
+DOMAIN-SUFFIX,axm-usercontent-apple.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,imacapple.com
 DOMAIN-SUFFIX,wuxiapple.com
