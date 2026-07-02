@@ -34,6 +34,7 @@ dot.pub
 .fresh-ideas.cc
 .t00ls.cc
 .wss.cc
+.hackernews.cc
 .starbaby.cc
 .mediastory.cc
 .xn--55qx5d
@@ -99,6 +100,7 @@ dot.pub
 .newssc.org
 .djiservice.org
 .lawyee.org
+.beie.org
 .staticfile.org
 .goto-game.org
 .cpppf.org
@@ -110,6 +112,7 @@ dot.pub
 .sqqnh.org
 .cerambath.org
 .pigai.org
+.wenpai.org
 .chndoi.org
 kms.03k.org
 .dlnel.org
@@ -914,6 +917,7 @@ cn.download.nvidia.com
 .zhuihd.com
 .yhd.com
 .frp-bid.com
+.faceid.com
 .kugoukid.com
 .eoeandroid.com
 .touzid.com
@@ -1034,6 +1038,7 @@ cn.download.nvidia.com
 .bytedance.com
 .pixeldance.com
 .bidchance.com
+.boce.com
 .aocde.com
 .wiwide.com
 .gaode.com
@@ -1098,6 +1103,7 @@ cn.download.nvidia.com
 .wodingche.com
 .ningtingche.com
 .yiche.com
+.didapinche.com
 .taoche.com
 .zuche.com
 .izuche.com
@@ -1244,6 +1250,7 @@ media.cdn.queniuqe.com
 .ceblease.com
 .netease.com
 .officese.com
+.runningcheese.com
 .hisense.com
 .jinse.com
 .yokaverse.com
@@ -1513,6 +1520,7 @@ media.cdn.queniuqe.com
 .chaoxing.com
 .aichaoxing.com
 .dingdachuxing.com
+.didachuxing.com
 .didichuxing.com
 .liuxing.com
 .youzhiyouxing.com
@@ -1554,6 +1562,7 @@ media.cdn.queniuqe.com
 .cppblog.com
 .cnitblog.com
 .deepepg.com
+.66rpg.com
 .qhmsg.com
 .ucbug.com
 .lanzoug.com
@@ -1805,6 +1814,7 @@ media.cdn.queniuqe.com
 .cankaoxiaoxi.com
 .4399youxi.com
 .shenmayouxi.com
+.cgyouxi.com
 .videoxiaoyouxi.com
 .tuxi.com
 .5wyxi.com
@@ -1848,6 +1858,7 @@ media.cdn.queniuqe.com
 .17k.com
 .7k7k.com
 .zgbk.com
+.guojibk.com
 .rdfybk.com
 .ucloudstack.com
 .bystack.com
@@ -2100,6 +2111,7 @@ i.dell.com
 .zhonshian.com
 .juziwulian.com
 .jiemian.com
+.yunpian.com
 .qianqian.com
 .souqian.com
 .fenbilantian.com
@@ -2261,6 +2273,7 @@ www.layuicdn.com
 .lancdn.com
 .sencdn.com
 .sevencdn.com
+.admincdn.com
 .meixincdn.com
 .qianxincdn.com
 .douyincdn.com
@@ -2375,6 +2388,7 @@ ocsp.globalsign.com
 .jiqizhixin.com
 .qixin.com
 .qianxin.com
+.open-douyin.com
 .douyin.com
 .iesdouyin.com
 .boxdouyin.com
@@ -2827,6 +2841,7 @@ ocsp.globalsign.com
 .qunar.com
 .lanrar.com
 .weavatar.com
+.cravatar.com
 .stockstar.com
 .jtjms-br.com
 .baidubcr.com
@@ -3110,6 +3125,7 @@ cdnstatic.tencentcs.com
 .xiaoe-assets.com
 .yyets.com
 .djiits.com
+.windfonts.com
 .heroesports.com
 .ssports.com
 .cyts.com
@@ -3129,6 +3145,7 @@ cdnstatic.tencentcs.com
 .maimemostatus.com
 .ourdvs.com
 .wsdvs.com
+.vpsvs.com
 .sxtvs.com
 .bianews.com
 .kankanews.com
@@ -3250,6 +3267,7 @@ dl.ubnt.com
 .jingpt.com
 .1ppt.com
 .52ppt.com
+.777ppt.com
 .ucppt.com
 .ypppt.com
 .fn-mart.com
@@ -3347,6 +3365,7 @@ dl.ubnt.com
 .jinglingbiaozhu.com
 .shuidihuzhu.com
 .niu.com
+.keniu.com
 .kekeniu.com
 .feiniu.com
 .wanliniu.com
@@ -3635,6 +3654,7 @@ dl.ubnt.com
 .lxway.com
 .starbaby.com
 .cy.com
+.wpcy.com
 .vdolady.com
 .onlylady.com
 .ffbuddy.com
@@ -3665,6 +3685,7 @@ dl.ubnt.com
 .zztfly.com
 .jfdaily.com
 .qdaily.com
+.stdaily.com
 .ifengweekly.com
 .gcloudcstestonly.com
 .aiemy.com
@@ -3808,8 +3829,10 @@ gstore.val.manlaxy.com
 .daocloud.vip
 .wangyangyang.vip
 .uucl.vip
+.tol.vip
 .landian.vip
 .yto.vip
+.cnblogs.vip
 .lg3000.top
 .clk1.top
 .aloys233.top
@@ -3828,6 +3851,7 @@ gstore.val.manlaxy.com
 .jsj.top
 .saduck.top
 .vrzwk.top
+.webportal.top
 .geektool.top
 .piedaochuan.top
 .openkylin.top
@@ -3856,6 +3880,7 @@ gstore.val.manlaxy.com
 .xn--fiqs8s
 .u.tools
 .xiumi.us
+.rrmj.plus
 .landian.news
 .360.net
 .bio360.net
