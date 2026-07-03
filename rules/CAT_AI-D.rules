@@ -114,6 +114,7 @@ DOMAIN-SUFFIX,cursor.com
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,elevenlabs.com
+DOMAIN,openai.qualtrics.com
 DOMAIN-SUFFIX,aida.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
@@ -142,6 +143,7 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,envatousercontent.com
+DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,identrust.com
@@ -173,6 +175,7 @@ DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,openaiassets.blob.core.windows.net
 DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,themeforest.net

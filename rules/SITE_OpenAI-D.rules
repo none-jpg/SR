@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,openai-api.arkoselabs.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN,openai.qualtrics.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,crixet.com
@@ -32,5 +33,6 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,openaiassets.blob.core.windows.net
 DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,openaicom.imgix.net

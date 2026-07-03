@@ -15,6 +15,7 @@
 browser-intake-datadoghq.com
 openai-api.arkoselabs.com
 .client-api.arkoselabs.com
+openai.qualtrics.com
 static.cloudflareinsights.com
 .chat.com
 .crixet.com
@@ -32,5 +33,6 @@ production-openaicom-storage.azureedge.net
 .openai.com.cdn.cloudflare.net
 .events.statsigapi.net
 openaicomproductionae4b.blob.core.windows.net
+openaiassets.blob.core.windows.net
 .observeit.net
 .openaicom.imgix.net

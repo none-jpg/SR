@@ -114,6 +114,7 @@ browser-intake-datadoghq.com
 openai-api.arkoselabs.com
 .client-api.arkoselabs.com
 .elevenlabs.com
+openai.qualtrics.com
 .aida.googleapis.com
 .proactivebackend-pa.googleapis.com
 .robinfrontend-pa.googleapis.com
@@ -142,6 +143,7 @@ copilot-proxy.githubusercontent.com
 .claudeusercontent.com
 .oaiusercontent.com
 .envatousercontent.com
+.copilot.com
 .githubcopilot.com
 .chatgpt.com
 .identrust.com
@@ -173,6 +175,7 @@ servd-anthropic-website.b-cdn.net
 .poecdn.net
 .liveperson.net
 openaicomproductionae4b.blob.core.windows.net
+openaiassets.blob.core.windows.net
 copilotprodattachments.blob.core.windows.net
 .observeit.net
 .themeforest.net
