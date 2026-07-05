@@ -4122,6 +4122,7 @@ DOMAIN-SUFFIX,bloombergbeta.com
 DOMAIN-SUFFIX,cnbeta.com
 DOMAIN-SUFFIX,pogobeta.com
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,umsoplaneta.com
 DOMAIN-SUFFIX,egta.com
 DOMAIN-SUFFIX,igvita.com
@@ -12101,7 +12102,7 @@ DOMAIN-SUFFIX,ladies.com
 DOMAIN-SUFFIX,nudeteenladies.com
 DOMAIN-SUFFIX,cambaddies.com
 DOMAIN-SUFFIX,jgoodies.com
-DOMAIN,ingest.apple-studies.com
+DOMAIN-SUFFIX,apple-studies.com
 DOMAIN-SUFFIX,ebayclassifies.com
 DOMAIN-SUFFIX,predictivetechnologies.com
 DOMAIN-SUFFIX,akamaitechnologies.com
@@ -18164,6 +18165,7 @@ DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,akami.net
 DOMAIN-SUFFIX,konami.net
 DOMAIN-SUFFIX,jm18c-uoi.net
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,gaopi.net
 DOMAIN-SUFFIX,4sqi.net
 DOMAIN-SUFFIX,autodeskvasari.net
@@ -18897,6 +18899,7 @@ DOMAIN-SUFFIX,appletips.net
 DOMAIN-SUFFIX,beatsbydreshops.net
 DOMAIN-SUFFIX,monsterbeatsshops.net
 DOMAIN-SUFFIX,voxops.net
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,wixapps.net
 DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,pokerstars.net

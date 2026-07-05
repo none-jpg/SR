@@ -655,6 +655,7 @@ DOMAIN-SUFFIX,a122.dscg3.akamai.net
 DOMAIN-SUFFIX,a767.dscg3.akamai.net
 DOMAIN-SUFFIX,a1158.g.akamai.net
 DOMAIN-SUFFIX,acompli.net
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,hotmail.net
 DOMAIN-SUFFIX,azure-apim.net
 DOMAIN-SUFFIX,azurecomm.net
@@ -695,6 +696,7 @@ DOMAIN-SUFFIX,azure-dns.net
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,azuredigitaltwins.net
 DOMAIN-SUFFIX,azurecosmos.net
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,sfbassets.net
 DOMAIN-SUFFIX,skypeassets.net
 DOMAIN-SUFFIX,applicationinsights.net

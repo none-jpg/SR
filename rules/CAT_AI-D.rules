@@ -180,6 +180,7 @@ DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN-SUFFIX,observeit.net
 DOMAIN-SUFFIX,themeforest.net
 DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,openspec.dev
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,kiro.dev
