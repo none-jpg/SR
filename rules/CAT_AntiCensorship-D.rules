@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,ipfs.fleek.co
 DOMAIN-SUFFIX,ipns.co
 DOMAIN-SUFFIX,twister.net.co
 DOMAIN-SUFFIX,c4rex.co
+DOMAIN-SUFFIX,happ.info
 DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,vuvuzela.io
 DOMAIN-SUFFIX,xtls.github.io
@@ -92,4 +93,5 @@ DOMAIN-SUFFIX,geti2p.net
 DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,opengw.net
 DOMAIN-SUFFIX,gfw.report
+DOMAIN-SUFFIX,happ.su
 DOMAIN-SUFFIX,ntc.party
