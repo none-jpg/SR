@@ -166,6 +166,7 @@ DOMAIN-SUFFIX,microsoftcommunitytraining.com
 DOMAIN-SUFFIX,unlocklimitlesslearning.com
 DOMAIN-SUFFIX,microsoftadvertising.com
 DOMAIN-SUFFIX,biying.com
+DOMAIN-SUFFIX,copilot-stg.com
 DOMAIN-SUFFIX,azuredevopslaunch.com
 DOMAIN-SUFFIX,msgamesresearch.com
 DOMAIN-SUFFIX,bingvisualsearch.com
@@ -591,6 +592,7 @@ DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,microsoft.rs
 DOMAIN-SUFFIX,azurefd.us
+DOMAIN-SUFFIX,azureedge.us
 DOMAIN-SUFFIX,windows
 DOMAIN-SUFFIX,microsoft.cat
 DOMAIN-SUFFIX,msa.akadns6.net

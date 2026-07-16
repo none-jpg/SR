@@ -7262,6 +7262,7 @@ DOMAIN-SUFFIX,awsloft-johannesburg.com
 DOMAIN-SUFFIX,lpsg.com
 DOMAIN-SUFFIX,futusg.com
 DOMAIN-SUFFIX,edgedatg.com
+DOMAIN-SUFFIX,copilot-stg.com
 DOMAIN-SUFFIX,hottg.com
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,getfirebug.com
@@ -7754,6 +7755,7 @@ DOMAIN-SUFFIX,msudalosti.com
 DOMAIN-SUFFIX,digitalocean-ui.com
 DOMAIN-SUFFIX,ui.com
 DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,mhgui.com
 DOMAIN-SUFFIX,inkui.com
 DOMAIN-SUFFIX,jqueryui.com
 DOMAIN-SUFFIX,bushi-navi.com
@@ -8040,6 +8042,7 @@ DOMAIN-SUFFIX,nikelink.com
 DOMAIN-SUFFIX,applelink.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,xvinlink.com
+DOMAIN-SUFFIX,starlink.com
 DOMAIN-SUFFIX,springerlink.com
 DOMAIN-SUFFIX,instantink.com
 DOMAIN-SUFFIX,hpinstantink.com
@@ -9729,7 +9732,6 @@ DOMAIN-SUFFIX,av-baron.com
 DOMAIN-SUFFIX,offerairjordanlebron.com
 DOMAIN-SUFFIX,celeron.com
 DOMAIN-SUFFIX,printeron.com
-DOMAIN,tesla-cdn.thron.com
 DOMAIN-SUFFIX,humoron.com
 DOMAIN-SUFFIX,sociolotron.com
 DOMAIN-SUFFIX,tiburon.com
