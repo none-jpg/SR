@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,chuyu.me
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,letitfly.me
+DOMAIN,api.blipsandchitz.me
 DOMAIN-SUFFIX,yrz.name
 DOMAIN-SUFFIX,seclab.online
 DOMAIN-SUFFIX,jutongbao.online
@@ -2218,6 +2219,7 @@ DOMAIN-SUFFIX,sfccn.com
 DOMAIN-SUFFIX,cqccn.com
 DOMAIN-SUFFIX,samsungcloudcn.com
 DOMAIN-SUFFIX,mamecn.com
+DOMAIN-SUFFIX,hrsecn.com
 DOMAIN-SUFFIX,ebfcn.com
 DOMAIN-SUFFIX,offcn.com
 DOMAIN-SUFFIX,eoffcn.com
