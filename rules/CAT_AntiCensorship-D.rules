@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,ipfs.anonymize.com
 DOMAIN-SUFFIX,paskoocheh.com
 DOMAIN-SUFFIX,ipfs.runfission.com
 DOMAIN-SUFFIX,greatfirevpn.com
+DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,freeweibo.com
 DOMAIN-SUFFIX,applecensorship.com
 DOMAIN-SUFFIX,proxifier.com
@@ -72,8 +73,8 @@ DOMAIN-SUFFIX,c4rex.co
 DOMAIN-SUFFIX,happ.info
 DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,vuvuzela.io
-DOMAIN-SUFFIX,xtls.github.io
-DOMAIN-SUFFIX,trojan-gfw.github.io
+DOMAIN,xtls.github.io
+DOMAIN,trojan-gfw.github.io
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN-SUFFIX,lantern.io
