@@ -14489,6 +14489,7 @@ DOMAIN-SUFFIX,geek-squad-support.com
 DOMAIN-SUFFIX,autodesk-support.com
 DOMAIN-SUFFIX,paypal-support.com
 DOMAIN-SUFFIX,saas-support.com
+DOMAIN-SUFFIX,githubsupport.com
 DOMAIN-SUFFIX,amazondevicesupport.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,cloudflaresupport.com
@@ -19515,6 +19516,7 @@ DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,t-tech.dev
 DOMAIN-SUFFIX,stackpath.dev
 DOMAIN-SUFFIX,ai.dev
+DOMAIN-SUFFIX,tryai.dev
 DOMAIN-SUFFIX,orbstack.dev
 DOMAIN-SUFFIX,ai-sdk.dev
 DOMAIN-SUFFIX,ngrok.dev
