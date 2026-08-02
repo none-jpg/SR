@@ -1200,6 +1200,7 @@ DOMAIN-SUFFIX,onemozilla.org
 DOMAIN-SUFFIX,angola.org
 DOMAIN-SUFFIX,hola.org
 DOMAIN-SUFFIX,getzola.org
+DOMAIN-SUFFIX,openxla.org
 DOMAIN-SUFFIX,ebayla.org
 DOMAIN-SUFFIX,schema.org
 DOMAIN-SUFFIX,xiaoma.org
@@ -2180,6 +2181,7 @@ DOMAIN-SUFFIX,ubddns.org
 DOMAIN-SUFFIX,puredns.org
 DOMAIN-SUFFIX,foundationdns.org
 DOMAIN-SUFFIX,amzndns.org
+DOMAIN-SUFFIX,jetbrains.org
 DOMAIN-SUFFIX,gwins.org
 DOMAIN-SUFFIX,www.xicons.org
 DOMAIN-SUFFIX,chinaelections.org
@@ -6923,6 +6925,7 @@ DOMAIN-SUFFIX,xn--ubt498knmf.com
 DOMAIN-SUFFIX,enf-cmnf.com
 DOMAIN-SUFFIX,mageconf.com
 DOMAIN-SUFFIX,gputechconf.com
+DOMAIN-SUFFIX,kotlinconf.com
 DOMAIN-SUFFIX,facebof.com
 DOMAIN-SUFFIX,faceboof.com
 DOMAIN-SUFFIX,f5pf.com
@@ -8054,6 +8057,7 @@ DOMAIN-SUFFIX,neuralink.com
 DOMAIN-SUFFIX,xvbelink.com
 DOMAIN-SUFFIX,nikelink.com
 DOMAIN-SUFFIX,applelink.com
+DOMAIN-SUFFIX,nthlink.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,xvinlink.com
 DOMAIN-SUFFIX,starlink.com
@@ -9540,6 +9544,7 @@ DOMAIN-SUFFIX,18doujin.com
 DOMAIN-SUFFIX,nijidoujin.com
 DOMAIN-SUFFIX,mrskin.com
 DOMAIN-SUFFIX,poolin.com
+DOMAIN-SUFFIX,talkingkotlin.com
 DOMAIN-SUFFIX,tweakadmin.com
 DOMAIN-SUFFIX,adidasadmin.com
 DOMAIN-SUFFIX,garmin.com
@@ -10423,6 +10428,7 @@ DOMAIN-SUFFIX,beatsbydresstudio.com
 DOMAIN-SUFFIX,drebeatstudio.com
 DOMAIN-SUFFIX,monsterbeatstudio.com
 DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,actifio.com
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,twilio.com
 DOMAIN-SUFFIX,grafolio.com
@@ -13010,6 +13016,7 @@ DOMAIN-SUFFIX,fifthns.com
 DOMAIN-SUFFIX,microsoft-sbs-domains.com
 DOMAIN-SUFFIX,googledomains.com
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,myjetbrains.com
 DOMAIN-SUFFIX,bmw-mountains.com
 DOMAIN-SUFFIX,vanishstains.com
 DOMAIN-SUFFIX,fbaddins.com
@@ -16911,6 +16918,7 @@ DOMAIN-SUFFIX,keeper.io
 DOMAIN-SUFFIX,playcover.io
 DOMAIN-SUFFIX,family-simulator.io
 DOMAIN-SUFFIX,familysimulator.io
+DOMAIN-SUFFIX,ktor.io
 DOMAIN-SUFFIX,trezor.io
 DOMAIN-SUFFIX,jsr.io
 DOMAIN-SUFFIX,imgur.io
@@ -19559,6 +19567,7 @@ DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,jetbrains.dev
 DOMAIN-SUFFIX,chromeos.dev
 DOMAIN-SUFFIX,grapheneos.dev
 DOMAIN-SUFFIX,deps.dev
