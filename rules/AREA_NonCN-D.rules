@@ -1631,6 +1631,7 @@ DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,translatewiki.org
 DOMAIN-SUFFIX,ehwiki.org
 DOMAIN-SUFFIX,rationalwiki.org
+DOMAIN-SUFFIX,deepwiki.org
 DOMAIN-SUFFIX,erotelki.org
 DOMAIN-SUFFIX,kali.org
 DOMAIN-SUFFIX,brotli.org
@@ -2887,6 +2888,7 @@ DOMAIN-SUFFIX,stellasora.global
 DOMAIN-SUFFIX,nfsc.global
 DOMAIN-SUFFIX,longbridge.global
 DOMAIN-SUFFIX,b-ok.global
+DOMAIN-SUFFIX,ozon.global
 DOMAIN-SUFFIX,buicha.social
 DOMAIN-SUFFIX,neodb.social
 DOMAIN-SUFFIX,xtom.social
@@ -2974,6 +2976,7 @@ DOMAIN-SUFFIX,google.fm
 DOMAIN-SUFFIX,megaphone.fm
 DOMAIN-SUFFIX,ping.fm
 DOMAIN-SUFFIX,bloomberg.fm
+DOMAIN-SUFFIX,rym.fm
 DOMAIN-SUFFIX,soundon.fm
 DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,radiomango.fm
@@ -4473,6 +4476,7 @@ DOMAIN-SUFFIX,mdbankpublic.com
 DOMAIN-SUFFIX,zohopublic.com
 DOMAIN-SUFFIX,paypal-dynamic.com
 DOMAIN-SUFFIX,harperacademic.com
+DOMAIN-SUFFIX,sonemic.com
 DOMAIN-SUFFIX,18commic.com
 DOMAIN-SUFFIX,porn-comic.com
 DOMAIN-SUFFIX,picacomic.com
@@ -6759,6 +6763,7 @@ DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,findagrave.com
 DOMAIN-SUFFIX,cherrysave.com
 DOMAIN-SUFFIX,goldwave.com
+DOMAIN-SUFFIX,glitchwave.com
 DOMAIN-SUFFIX,trustwave.com
 DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,hidive.com
@@ -7640,6 +7645,7 @@ DOMAIN-SUFFIX,scp-wiki.com
 DOMAIN-SUFFIX,intunewiki.com
 DOMAIN-SUFFIX,theportalwiki.com
 DOMAIN-SUFFIX,scpwiki.com
+DOMAIN-SUFFIX,deepwiki.com
 DOMAIN-SUFFIX,etokki.com
 DOMAIN-SUFFIX,gamesfirsthelsinki.com
 DOMAIN-SUFFIX,facebooki.com
@@ -16766,6 +16772,7 @@ DOMAIN-SUFFIX,images.prismic.io
 DOMAIN-SUFFIX,popmechanic.io
 DOMAIN-SUFFIX,botmechanic.io
 DOMAIN-SUFFIX,attic.io
+DOMAIN-SUFFIX,snmc.io
 DOMAIN-SUFFIX,papermc.io
 DOMAIN-SUFFIX,gsrc.io
 DOMAIN-SUFFIX,egghead.io
@@ -17302,6 +17309,7 @@ DOMAIN-SUFFIX,agedm.app
 DOMAIN-SUFFIX,vanadium.app
 DOMAIN-SUFFIX,singlelogin.app
 DOMAIN-SUFFIX,attestation.app
+DOMAIN-SUFFIX,ozon.app
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,vkgo.app
 DOMAIN-SUFFIX,ceno.app
@@ -17596,6 +17604,7 @@ DOMAIN-SUFFIX,bt
 DOMAIN-SUFFIX,et
 DOMAIN-SUFFIX,bet
 DOMAIN-SUFFIX,target
+DOMAIN-SUFFIX,ozon.market
 DOMAIN-SUFFIX,spasibo.market
 DOMAIN-SUFFIX,d100.net
 DOMAIN-SUFFIX,1e100.net
@@ -17784,6 +17793,7 @@ DOMAIN-SUFFIX,vfabric.net
 DOMAIN-SUFFIX,filipino-music.net
 DOMAIN-SUFFIX,icloudmusic.net
 DOMAIN-SUFFIX,beatsbymusic.net
+DOMAIN-SUFFIX,sonematic.net
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,reastatic.net
 DOMAIN-SUFFIX,yastatic.net
@@ -18602,6 +18612,7 @@ DOMAIN-SUFFIX,itunes-radio.net
 DOMAIN-SUFFIX,vkuseraudio.net
 DOMAIN-SUFFIX,disney-studio.net
 DOMAIN-SUFFIX,visualstudio.net
+DOMAIN-SUFFIX,flyio.net
 DOMAIN-SUFFIX,eroshiko.net
 DOMAIN-SUFFIX,pornoko.net
 DOMAIN-SUFFIX,triballo.net
@@ -19400,6 +19411,7 @@ DOMAIN-SUFFIX,meizhong.report
 DOMAIN-SUFFIX,gfw.report
 DOMAIN,bybit.ada.support
 DOMAIN-SUFFIX,apk.support
+DOMAIN-SUFFIX,rutube.sport
 DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,st
 DOMAIN-SUFFIX,i.111666.best
