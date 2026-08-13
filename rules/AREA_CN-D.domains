@@ -133,6 +133,7 @@ kms.03k.org
 .zgjm.org
 .baicizhan.org
 .juhaokan.org
+.banyuetan.org
 .anquan.org
 .gushiwen.org
 .trustutn.org
@@ -204,6 +205,7 @@ kms.03k.org
 .wss.ink
 end.shallow.ink
 end-api.shallow.ink
+.jgtab.link
 .yqkk.link
 .xyzfm.link
 .haowu.link
@@ -223,6 +225,7 @@ end-api.shallow.ink
 .douban.fm
 .ckd.im
 .netease.im
+.cli.im
 .juejin.im
 .shimo.im
 .tower.im
@@ -259,6 +262,7 @@ end-api.shallow.ink
 .jj20.com
 .cdn20.com
 .7230.com
+.160.com
 .360.com
 .yingjia360.com
 .meika360.com
@@ -584,7 +588,9 @@ izattime.qcomgeo2.com
 .henha.com
 .sanguosha.com
 .nubia.com
+.xhmedia.com
 .tianjimedia.com
+.juwinmedia.com
 .dxpmedia.com
 .jikipedia.com
 .antpedia.com
@@ -707,7 +713,6 @@ cn.download.nvidia.com
 .kuaidilab.com
 .luojilab.com
 .bouffalolab.com
-.bambulab.com
 .inftab.com
 .infinitynewtab.com
 .ccb.com
@@ -1050,6 +1055,7 @@ cn.download.nvidia.com
 .bytefcdnrd.com
 .ksord.com
 .pwrd.com
+.xhsd.com
 .yto-jsd.com
 .hxsd.com
 .hik-cloud.com
@@ -1101,6 +1107,7 @@ cn.download.nvidia.com
 .byd.com
 .szbdyd.com
 .hiyd.com
+.xhsdzd.com
 .z6e.com
 .jtjms-ae.com
 .baifae.com
@@ -1204,6 +1211,7 @@ cn.download.nvidia.com
 .360jie.com
 .zhubajie.com
 .dajie.com
+.kanshangjie.com
 .bishijie.com
 .zhaomishijie.com
 .yoyojie.com
@@ -1415,6 +1423,7 @@ media.cdn.queniuqe.com
 .hisensekf.com
 .cloudflareperf.com
 .sctv-tf.com
+.qqtf.com
 .freebuf.com
 .lanzouf.com
 .4399swf.com
@@ -1499,6 +1508,7 @@ media.cdn.queniuqe.com
 .gtimg.com
 .thefastimg.com
 .chuimg.com
+.yihuimg.com
 .letvimg.com
 .ppximg.com
 .orayimg.com
@@ -1587,6 +1597,7 @@ media.cdn.queniuqe.com
 .ytoholding.com
 .cloudflarestaging.com
 .1nongjing.com
+.tfcaijing.com
 .ahcaijing.com
 .weilaicaijing.com
 .xzking.com
@@ -1698,10 +1709,12 @@ media.cdn.queniuqe.com
 .linkflowtech.com
 .bluepoch.com
 .chinabdh.com
+.sxyygh.com
 .4399hdhh.com
 .4399hhh.com
 .zaih.com
 .jlc-jh.com
+.v3mh.com
 .kkmh.com
 .chinafph.com
 .hongyuanqh.com
@@ -1716,6 +1729,7 @@ media.cdn.queniuqe.com
 .jsehealth.com
 .whhhealth.com
 .geovisearth.com
+.skyworth.com
 .lenauth.com
 .kugouyouth.com
 .lanzouh.com
@@ -1741,6 +1755,7 @@ media.cdn.queniuqe.com
 .klingai.com
 .ikanchai.com
 .shuhai.com
+.lumiai.com
 .wolai.com
 .zhidemai.com
 .zuihuimai.com
@@ -2074,6 +2089,7 @@ media.cdn.queniuqe.com
 .sf-international.com
 .tal.com
 .100tal.com
+.skyworthdigital.com
 .unisdigital.com
 .dgphospital.com
 .narwal.com
@@ -2114,6 +2130,7 @@ media.cdn.queniuqe.com
 .pupumall.com
 .vmall.com
 .fcboxmall.com
+.openinstall.com
 i.dell.com
 .chiphell.com
 .ozonbigsell.com
@@ -2249,7 +2266,9 @@ i.dell.com
 .diandian.com
 .askdiandian.com
 .baifendian.com
+.xinhuashudian.com
 .zhonshian.com
+.lianlian.com
 .juziwulian.com
 .jiemian.com
 .yunpian.com
@@ -2295,6 +2314,7 @@ i.dell.com
 .xiaoyuankousuan.com
 .meituan.com
 .houyuantuan.com
+.winxuan.com
 .xiaoluyouxuan.com
 .jiayuan.com
 .jikexueyuan.com
@@ -2373,6 +2393,7 @@ i.dell.com
 .51jobcdn.com
 .tbcdn.com
 .ctbcdn.com
+.cpiccdn.com
 .volccdn.com
 .xpccdn.com
 .yccdn.com
@@ -2418,6 +2439,7 @@ www.layuicdn.com
 .huoshancdn.com
 .afdiancdn.com
 .lancdn.com
+.winxuancdn.com
 .sencdn.com
 .sevencdn.com
 .admincdn.com
@@ -2583,7 +2605,7 @@ ocsp.globalsign.com
 .suu-fun.com
 .5fun.com
 .cheetahfun.com
-.sofun.com
+.soufun.com
 .suufun.com
 .awemeughun.com
 .haishun.com
@@ -2722,6 +2744,7 @@ ocsp.globalsign.com
 .saibo.com
 .weibo.com
 .yizhibo.com
+.bkzhibo.com
 .huoshanzhibo.com
 .yamibo.com
 .bobo.com
@@ -2879,6 +2902,7 @@ ocsp.globalsign.com
 .frp-hip.com
 .hqchip.com
 .canghaiip.com
+.finclip.com
 .chaipip.com
 .trip.com
 .alibtrip.com
@@ -3114,6 +3138,7 @@ ocsp.globalsign.com
 .360-jr.com
 .yocajr.com
 .36kr.com
+.36linkr.com
 .okr.com
 .guokr.com
 .ifanr.com
@@ -3154,6 +3179,7 @@ ocsp.globalsign.com
 .jcloudcs.com
 .bilicomics.com
 .opstatics.com
+.segwayrobotics.com
 .jet-logistics.com
 .aliyuncs.com
 .taodocs.com
@@ -3168,6 +3194,7 @@ cdnstatic.tencentcs.com
 .giecds.com
 .qcds.com
 .mi-fds.com
+.cpicfunds.com
 .fadfunds.com
 .changanfunds.com
 .danjuanfunds.com
@@ -3296,6 +3323,7 @@ cdnstatic.tencentcs.com
 .cnthinkers.com
 .air-matters.com
 .mydrivers.com
+.jkzlrs.com
 .yihedoors.com
 .zzclass.com
 .koopass.com
@@ -3435,6 +3463,7 @@ cdnstatic.tencentcs.com
 .hwht.com
 .51credit.com
 .checkzeit.com
+.atomgit.com
 .kuangxiangit.com
 .frp-kit.com
 .zhuanspirit.com
@@ -3442,6 +3471,7 @@ cdnstatic.tencentcs.com
 .saxyit.com
 .lxzjjt.com
 .sdgdwljt.com
+.xdplt.com
 .segmentfault.com
 .jlc-smt.com
 .jlcsmt.com
@@ -3462,6 +3492,7 @@ dl.ubnt.com
 .dxm-int.com
 .duxiaoman-int.com
 .hellowebfont.com
+.ninebot.com
 .sobot.com
 .coffee-iot.com
 .jingheiot.com
@@ -3551,6 +3582,7 @@ dl.ubnt.com
 .quehu.com
 .bihu.com
 .zhihu.com
+.yihu.com
 .laohu.com
 .sohu.com
 .hongshu.com
@@ -3807,6 +3839,7 @@ dl.ubnt.com
 .fengcx.com
 .zhidx.com
 .yundaex.com
+.cih-index.com
 .myshopex.com
 .zhuanzfx.com
 .xuetangx.com
@@ -3870,6 +3903,7 @@ dl.ubnt.com
 .lehuipay.com
 .ulpay.com
 .dxmpay.com
+.lianlianpay.com
 .123panpay.com
 .tenpay.com
 .joinpay.com
@@ -3918,6 +3952,7 @@ dl.ubnt.com
 .jfdaily.com
 .qdaily.com
 .stdaily.com
+.time-weekly.com
 .ifengweekly.com
 .gcloudcstestonly.com
 .aiemy.com
@@ -3954,6 +3989,7 @@ dl.ubnt.com
 .moonvy.com
 .sslawy.com
 .xywy.com
+.1958xy.com
 gstore.val.manlaxy.com
 .dxy.com
 .gdjdxy.com
@@ -3996,7 +4032,6 @@ gstore.val.manlaxy.com
 .api-building.fun
 .building.fun
 .dbbuilding.fun
-.youlian.fun
 .sast.fun
 .chaz.fun
 .lx.run
@@ -4344,6 +4379,7 @@ time.izatcloud.net
 .cnmstl.net
 .medicexam.net
 .zbbm.net
+.clewm.net
 .5gzm.net
 .jandan.net
 .ytoluohan.net
@@ -4414,6 +4450,7 @@ time.izatcloud.net
 .onlinedown.net
 .qijiayoudao.net
 .toutiaohao.net
+.caoliao.net
 .zhaokao.net
 .laomaotao.net
 .huoshanzhibo.net

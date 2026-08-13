@@ -942,6 +942,7 @@ DOMAIN-SUFFIX,discord.store
 DOMAIN-SUFFIX,mimei.store
 DOMAIN-SUFFIX,vercel.store
 DOMAIN-SUFFIX,svipshipin.store
+DOMAIN-SUFFIX,nix.store
 DOMAIN-SUFFIX,91porny.store
 DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,se
@@ -1151,6 +1152,7 @@ DOMAIN-SUFFIX,cdp2006.org
 DOMAIN-SUFFIX,partylikeits1986.org
 DOMAIN-SUFFIX,android-x86.org
 DOMAIN-SUFFIX,ieee-region6.org
+DOMAIN-SUFFIX,nixcon2017.org
 DOMAIN-SUFFIX,54647.org
 DOMAIN-SUFFIX,cdn77.org
 DOMAIN-SUFFIX,china18.org
@@ -1853,6 +1855,7 @@ DOMAIN-SUFFIX,diyin.org
 DOMAIN-SUFFIX,icann.org
 DOMAIN-SUFFIX,bfnn.org
 DOMAIN-SUFFIX,devcon.org
+DOMAIN-SUFFIX,nixcon.org
 DOMAIN-SUFFIX,pycon.org
 DOMAIN-SUFFIX,joinmastodon.org
 DOMAIN-SUFFIX,cython.org
@@ -2126,6 +2129,7 @@ DOMAIN-SUFFIX,chatwhores.org
 DOMAIN-SUFFIX,sexypornpictures.org
 DOMAIN-SUFFIX,tibetwrites.org
 DOMAIN-SUFFIX,pbxes.org
+DOMAIN-SUFFIX,nixpkgs.org
 DOMAIN-SUFFIX,opentranslatorstothings.org
 DOMAIN-SUFFIX,csrankings.org
 DOMAIN-SUFFIX,dragonsprings.org
@@ -2454,6 +2458,7 @@ DOMAIN-SUFFIX,18sex.org
 DOMAIN-SUFFIX,miktex.org
 DOMAIN-SUFFIX,publicsuffix.org
 DOMAIN-SUFFIX,usenix.org
+DOMAIN-SUFFIX,builtwithnix.org
 DOMAIN-SUFFIX,whonix.org
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,rblx.org
@@ -2545,6 +2550,7 @@ DOMAIN-SUFFIX,phmsociety.org
 DOMAIN-SUFFIX,photonicssociety.org
 DOMAIN-SUFFIX,vtsociety.org
 DOMAIN-SUFFIX,ieee-edusociety.org
+DOMAIN-SUFFIX,nix-community.org
 DOMAIN-SUFFIX,paypalcommunity.org
 DOMAIN-SUFFIX,tibetancommunity.org
 DOMAIN-SUFFIX,ebayforcharity.org
@@ -2788,6 +2794,7 @@ DOMAIN-SUFFIX,thefappening.wiki
 DOMAIN-SUFFIX,stash.wiki
 DOMAIN-SUFFIX,kodi.wiki
 DOMAIN-SUFFIX,bell.wiki
+DOMAIN-SUFFIX,nixos.wiki
 DOMAIN-SUFFIX,minecraft.wiki
 DOMAIN-SUFFIX,namu.wiki
 DOMAIN-SUFFIX,airav.wiki
@@ -7069,6 +7076,7 @@ DOMAIN-SUFFIX,nikeliuxiang.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,go-lang.com
 DOMAIN-SUFFIX,golang.com
+DOMAIN-SUFFIX,nixlang.com
 DOMAIN-SUFFIX,hk.jiepang.com
 DOMAIN-SUFFIX,tw.jiepang.com
 DOMAIN-SUFFIX,coupang.com
@@ -13263,6 +13271,7 @@ DOMAIN-SUFFIX,hot-sex-photos.com
 DOMAIN-SUFFIX,googlephotos.com
 DOMAIN-SUFFIX,facebookphotos.com
 DOMAIN-SUFFIX,depositphotos.com
+DOMAIN-SUFFIX,mynixos.com
 DOMAIN-SUFFIX,gmo-ps.com
 DOMAIN-SUFFIX,googlemaps.com
 DOMAIN-SUFFIX,natgeomaps.com
@@ -19660,6 +19669,7 @@ DOMAIN-SUFFIX,dart.dev
 DOMAIN-SUFFIX,githubpreview.dev
 DOMAIN-SUFFIX,flow.dev
 DOMAIN-SUFFIX,idx.dev
+DOMAIN-SUFFIX,nix.dev
 DOMAIN-SUFFIX,termux.dev
 DOMAIN-SUFFIX,mdnplay.dev
 DOMAIN-SUFFIX,gateway.dev
