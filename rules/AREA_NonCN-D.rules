@@ -15128,6 +15128,7 @@ DOMAIN-SUFFIX,breakgfw.com
 DOMAIN-SUFFIX,checkgfw.com
 DOMAIN-SUFFIX,lemmynsfw.com
 DOMAIN-SUFFIX,facesofnyfw.com
+DOMAIN-SUFFIX,sc-gw.com
 DOMAIN-SUFFIX,aishegw.com
 DOMAIN-SUFFIX,illusiongw.com
 DOMAIN-SUFFIX,xinfhw.com
@@ -17564,6 +17565,7 @@ DOMAIN-SUFFIX,hummingbird.ms
 DOMAIN-SUFFIX,google.ms
 DOMAIN-SUFFIX,onestore.ms
 DOMAIN-SUFFIX,dictate.ms
+DOMAIN-SUFFIX,rsg.ms
 DOMAIN-SUFFIX,nyti.ms
 DOMAIN-SUFFIX,visa.com.ms
 DOMAIN-SUFFIX,sm.ms
@@ -17868,6 +17870,7 @@ DOMAIN-SUFFIX,icloudmusic.net
 DOMAIN-SUFFIX,beatsbymusic.net
 DOMAIN-SUFFIX,sonematic.net
 DOMAIN-SUFFIX,gitlab-static.net
+DOMAIN-SUFFIX,sc-static.net
 DOMAIN-SUFFIX,reastatic.net
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,wbstatic.net
