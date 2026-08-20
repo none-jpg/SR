@@ -35,6 +35,7 @@
 .grazie.ai
 .cohere.ai
 .g.ai
+.kimi.ai
 .duck.ai
 .mistral.ai
 .devin.ai
@@ -48,6 +49,7 @@
 .chutes.ai
 .jetbrains.ai
 .coderabbit.ai
+.moonshot.ai
 .openart.ai
 .lovart.ai
 .openclaw.ai
@@ -112,6 +114,7 @@ cdn.usefathom.com
 .ciciaicdn.com
 .intercomcdn.com
 .manuscdn.com
+.dreamgen.com
 .langchain.com
 .envato.com
 browser-intake-datadoghq.com
@@ -165,10 +168,12 @@ pplx-res.cloudinary.com
 .huggingface.co
 .hf.co
 .clipdrop.co
+.talkai.info
 .intercom.io
 .elevenlabs.io
 .coderabbit.gallery.vsassets.io
 .segment.io
+.notegpt.io
 .minimax.io
 .sentry.io
 .ai.studio
@@ -179,6 +184,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 production-openaicom-storage.azureedge.net
 .openaiapi-site.azureedge.net
 .openai.com.cdn.cloudflare.net
+.novelai.net
 .events.statsigapi.net
 .grazie.aws.intellij.net
 servd-anthropic-website.b-cdn.net
