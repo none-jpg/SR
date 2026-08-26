@@ -4618,6 +4618,7 @@ DOMAIN-SUFFIX,facebookinc.com
 DOMAIN-SUFFIX,paypalinc.com
 DOMAIN-SUFFIX,microsoftlinc.com
 DOMAIN-SUFFIX,verisigninc.com
+DOMAIN-SUFFIX,yahooinc.com
 DOMAIN-SUFFIX,leavinghpinc.com
 DOMAIN-SUFFIX,twitterinc.com
 DOMAIN-SUFFIX,imgurinc.com
@@ -9416,6 +9417,7 @@ DOMAIN-SUFFIX,hautelookcdn.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,dilcdn.com
 DOMAIN-SUFFIX,dellcdn.com
+DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,adobesigncdn.com
 DOMAIN-SUFFIX,phncdn.com
@@ -10608,6 +10610,7 @@ DOMAIN-SUFFIX,badoo.com
 DOMAIN-SUFFIX,pornadoo.com
 DOMAIN-SUFFIX,hotgoo.com
 DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,ouryahoo.com
 DOMAIN-SUFFIX,sthoo.com
 DOMAIN-SUFFIX,booloo.com
 DOMAIN-SUFFIX,readmoo.com
@@ -19224,6 +19227,7 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,flowfront.net
 DOMAIN-SUFFIX,manhunt.net
 DOMAIN-SUFFIX,login-account.net
+DOMAIN-SUFFIX,adguardaccount.net
 DOMAIN-SUFFIX,appleaccount.net
 DOMAIN-SUFFIX,nbabot.net
 DOMAIN-SUFFIX,dot.net
