@@ -2912,6 +2912,7 @@ DOMAIN-SUFFIX,jivara.global
 DOMAIN-SUFFIX,stellasora.global
 DOMAIN-SUFFIX,nfsc.global
 DOMAIN-SUFFIX,longbridge.global
+DOMAIN-SUFFIX,stripe.global
 DOMAIN-SUFFIX,b-ok.global
 DOMAIN-SUFFIX,ozon.global
 DOMAIN-SUFFIX,buicha.social
@@ -7050,6 +7051,7 @@ DOMAIN-SUFFIX,hentai-img.com
 DOMAIN-SUFFIX,ntdimg.com
 DOMAIN-SUFFIX,oracleimg.com
 DOMAIN-SUFFIX,gateimg.com
+DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 DOMAIN-SUFFIX,iloveimg.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,zamimg.com
@@ -17640,6 +17642,7 @@ DOMAIN-SUFFIX,rtde.express
 DOMAIN-SUFFIX,ozon.express
 DOMAIN-SUFFIX,discord.gifts
 DOMAIN-SUFFIX,gazprombank.investments
+DOMAIN-SUFFIX,stripe.events
 DOMAIN-SUFFIX,vercel.events
 DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,928.plus
@@ -19662,6 +19665,7 @@ DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,ngrok-free.dev
 DOMAIN-SUFFIX,clashverge.dev
 DOMAIN-SUFFIX,google.dev
+DOMAIN-SUFFIX,stripe.dev
 DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,g.dev
 DOMAIN-SUFFIX,tg.dev
