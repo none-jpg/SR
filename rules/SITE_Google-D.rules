@@ -786,6 +786,7 @@ DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,pub.dev
 DOMAIN-SUFFIX,dartpad.dev
 DOMAIN-SUFFIX,google.dev
+DOMAIN-SUFFIX,firebase.dev
 DOMAIN-SUFFIX,g.dev
 DOMAIN-SUFFIX,bdn.dev
 DOMAIN-SUFFIX,go.dev

@@ -786,6 +786,7 @@ google-ohttp-relay-safebrowsing.fastly-edge.com
 .pub.dev
 .dartpad.dev
 .google.dev
+.firebase.dev
 .g.dev
 .bdn.dev
 .go.dev

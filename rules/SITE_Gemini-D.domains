@@ -1,6 +1,7 @@
 .deepmind.google
 .generativeai.google
 .gemini.google
+.notebook.google
 .opal.google
 .notebooklm.google
 .labs.google
@@ -23,6 +24,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .labs.google.com
 .jules.google.com
 .apis.google.com
+.flow.google.com
 .stitch.withgoogle.com
 .aida.googleapis.com
 .proactivebackend-pa.googleapis.com

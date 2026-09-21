@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,notebook.google
 DOMAIN-SUFFIX,opal.google
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,labs.google
@@ -87,6 +88,7 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,flow.google.com
 DOMAIN-SUFFIX,stitch.withgoogle.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,stripe.com

@@ -6945,6 +6945,8 @@ DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,ffddff.com
 DOMAIN-SUFFIX,zvereff.com
 DOMAIN-SUFFIX,autodesk-kickoff.com
+DOMAIN-SUFFIX,codebuff.com
+DOMAIN-SUFFIX,freebuff.com
 DOMAIN-SUFFIX,bestiphonestuff.com
 DOMAIN-SUFFIX,vmwarestuff.com
 DOMAIN-SUFFIX,shelfstuff.com
@@ -9763,6 +9765,7 @@ DOMAIN-SUFFIX,eraofconnection.com
 DOMAIN-SUFFIX,idiomconnection.com
 DOMAIN-SUFFIX,clusterconnection.com
 DOMAIN-SUFFIX,videosection.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
 DOMAIN-SUFFIX,advancediddetection.com
 DOMAIN-SUFFIX,lbfmaddiction.com
 DOMAIN-SUFFIX,zoofiction.com
@@ -19667,6 +19670,7 @@ DOMAIN-SUFFIX,clashverge.dev
 DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,stripe.dev
 DOMAIN-SUFFIX,cloudflare.dev
+DOMAIN-SUFFIX,firebase.dev
 DOMAIN-SUFFIX,g.dev
 DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,t-tech.dev
