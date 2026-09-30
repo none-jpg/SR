@@ -32,9 +32,11 @@
 .tripo3d.ai
 .youmind.ai
 .trae.ai
+.opencode.ai
 .claude.ai
 .grazie.ai
 .cohere.ai
+.muse.ai
 .g.ai
 .kimi.ai
 .duck.ai
@@ -75,6 +77,7 @@ api.github.com
 .youmind.com
 .marscode.com
 .claude.com
+geminiweb-pa.clients6.google.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
 webchannel-alkalimakersuite-pa.clients6.google.com
@@ -88,6 +91,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .labs.google.com
 .jules.google.com
 .apis.google.com
+geminiweb-pa.clients.google.com
 .flow.google.com
 .stitch.withgoogle.com
 .poe.com
@@ -112,6 +116,7 @@ webchannel-alkalimakersuite-pa.clients6.google.com
 .anythingllm.com
 cdn.usefathom.com
 .codeium.com
+.metaaivm.com
 .cursor-cdn.com
 .ciciaicdn.com
 .intercomcdn.com
@@ -139,6 +144,7 @@ notebooklm-pa.googleapis.com
 .geller-pa.googleapis.com
 .aisandbox-pa.googleapis.com
 antigravity-pa.googleapis.com
+.labstailwind.pa.googleapis.com
 .aicode.googleapis.com
 .generativelanguage.googleapis.com
 notebooklm.googleapis.com
