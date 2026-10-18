@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,youmind.site
 DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,openai.org
 DOMAIN-SUFFIX,comfyci.org
 DOMAIN-SUFFIX,deepwiki.org
 DOMAIN-SUFFIX,featuregates.org
@@ -34,6 +35,7 @@ DOMAIN-SUFFIX,youmind.ai
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,opencode.ai
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,typesafe.ai
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,muse.ai
@@ -118,6 +120,7 @@ DOMAIN-SUFFIX,anythingllm.com
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,cursorvm.com
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,ciciaicdn.com
 DOMAIN-SUFFIX,intercomcdn.com
