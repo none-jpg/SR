@@ -14,10 +14,8 @@ DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,doom.com
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,minecraftshop.com
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,elderscrolls.com
@@ -39,7 +37,6 @@ DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,forza.net
 DOMAIN-SUFFIX,xboxab.net
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
-DOMAIN,flightsimulator.azureedge.net
 DOMAIN,logincdn.msauth.net
 DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN,prodforza.blob.core.windows.net

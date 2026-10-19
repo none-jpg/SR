@@ -461,6 +461,7 @@ DOMAIN-SUFFIX,oath.cloud
 DOMAIN-SUFFIX,youtrack.cloud
 DOMAIN-SUFFIX,nicegram.cloud
 DOMAIN-SUFFIX,vrcdn.cloud
+DOMAIN-SUFFIX,begetcdn.cloud
 DOMAIN-SUFFIX,globalsign.cloud
 DOMAIN-SUFFIX,appdomain.cloud
 DOMAIN-SUFFIX,mastodon.cloud
@@ -471,6 +472,7 @@ DOMAIN-SUFFIX,erolabs.cloud
 DOMAIN-SUFFIX,vkcs.cloud
 DOMAIN-SUFFIX,jetbrains.cloud
 DOMAIN-SUFFIX,vrchat.cloud
+DOMAIN-SUFFIX,beget.cloud
 DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
@@ -1088,6 +1090,7 @@ DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,creativecommons.engineering
 DOMAIN-SUFFIX,pinterest.engineering
 DOMAIN-SUFFIX,vps.hosting
+DOMAIN-SUFFIX,beget.hosting
 DOMAIN-SUFFIX,samsung
 DOMAIN-SUFFIX,muncloud.dog
 DOMAIN-SUFFIX,telegram.dog
@@ -2634,6 +2637,7 @@ DOMAIN-SUFFIX,faronics.tech
 DOMAIN-SUFFIX,ipfs.tech
 DOMAIN-SUFFIX,2gis.tech
 DOMAIN-SUFFIX,bystys.tech
+DOMAIN-SUFFIX,beget.tech
 DOMAIN-SUFFIX,insight.tech
 DOMAIN-SUFFIX,freegpt.tech
 DOMAIN-SUFFIX,dert.tech
@@ -2749,6 +2753,7 @@ DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai
 DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
 DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
 DOMAIN-SUFFIX,xn--90ab2c.xn--p1ai
+DOMAIN-SUFFIX,xn--90aefb9d.xn--p1ai
 DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
 DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
@@ -10517,7 +10522,6 @@ DOMAIN-SUFFIX,xlstudio.com
 DOMAIN-SUFFIX,aliasvisualizationstudio.com
 DOMAIN-SUFFIX,airgunstudio.com
 DOMAIN-SUFFIX,shotgunstudio.com
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,beatsbydresstudio.com
 DOMAIN-SUFFIX,drebeatstudio.com
 DOMAIN-SUFFIX,monsterbeatstudio.com
@@ -11737,7 +11741,6 @@ DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,charticulator.com
 DOMAIN-SUFFIX,globalriskregulator.com
 DOMAIN-SUFFIX,sexemulator.com
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,sexsimulator.com
 DOMAIN-SUFFIX,familysexsimulator.com
 DOMAIN-SUFFIX,familysimulator.com
@@ -17125,6 +17128,7 @@ DOMAIN-SUFFIX,blast.io
 DOMAIN-SUFFIX,mail-carrotquest.io
 DOMAIN-SUFFIX,carrotquest.io
 DOMAIN-SUFFIX,blockfrost.io
+DOMAIN-SUFFIX,sprut.io
 DOMAIN-SUFFIX,pxt.io
 DOMAIN-SUFFIX,userpxt.io
 DOMAIN-SUFFIX,xiaoou.io
@@ -17237,6 +17241,7 @@ DOMAIN-SUFFIX,xxxhentaipics.pro
 DOMAIN-SUFFIX,xxxmovies.pro
 DOMAIN-SUFFIX,yourxxxvideos.pro
 DOMAIN-SUFFIX,hxcsxs.pro
+DOMAIN-SUFFIX,beget.pro
 DOMAIN-SUFFIX,payget.pro
 DOMAIN-SUFFIX,pixnet.pro
 DOMAIN-SUFFIX,xhot.pro
@@ -17470,6 +17475,7 @@ DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,tokenplus.app
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,get.app
+DOMAIN-SUFFIX,beget.app
 DOMAIN-SUFFIX,meawallet.app
 DOMAIN-SUFFIX,carrotquest.app
 DOMAIN-SUFFIX,cyberghost.app
@@ -18577,6 +18583,7 @@ DOMAIN-SUFFIX,vk-cdn.net
 DOMAIN-SUFFIX,hotstar-cdn.net
 DOMAIN-SUFFIX,faceit-cdn.net
 DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,9cdn.net
 DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,quoracdn.net

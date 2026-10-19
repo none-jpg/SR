@@ -461,6 +461,7 @@
 .youtrack.cloud
 .nicegram.cloud
 .vrcdn.cloud
+.begetcdn.cloud
 .globalsign.cloud
 .appdomain.cloud
 .mastodon.cloud
@@ -471,6 +472,7 @@
 .vkcs.cloud
 .jetbrains.cloud
 .vrchat.cloud
+.beget.cloud
 .bybit.cloud
 .turn.livekit.cloud
 .chatgpt.livekit.cloud
@@ -1088,6 +1090,7 @@ rsshub.henry.wang
 .creativecommons.engineering
 .pinterest.engineering
 .vps.hosting
+.beget.hosting
 .samsung
 .muncloud.dog
 .telegram.dog
@@ -2634,6 +2637,7 @@ rsshub.asailor.org
 .ipfs.tech
 .2gis.tech
 .bystys.tech
+.beget.tech
 .insight.tech
 .freegpt.tech
 .dert.tech
@@ -2749,6 +2753,7 @@ rsshub.asailor.org
 .xn--e1aigb.xn--p1ai
 .xn--80asgb.xn--p1ai
 .xn--90ab2c.xn--p1ai
+.xn--90aefb9d.xn--p1ai
 .xn----8sbwjbxyd.xn--p1ai
 .xn----7sbhmncai5a0arm7c1e.xn--p1ai
 .xn--d1acpjx3f.xn--p1ai
@@ -10517,7 +10522,6 @@ deutschewelle.h-cdn.com
 .aliasvisualizationstudio.com
 .airgunstudio.com
 .shotgunstudio.com
-.asobostudio.com
 .beatsbydresstudio.com
 .drebeatstudio.com
 .monsterbeatstudio.com
@@ -11737,7 +11741,6 @@ rsshub.rssforever.com
 .charticulator.com
 .globalriskregulator.com
 .sexemulator.com
-.flightsimulator.com
 .sexsimulator.com
 .familysexsimulator.com
 .familysimulator.com
@@ -17125,6 +17128,7 @@ live-patreon-marketing.pantheonsite.io
 .mail-carrotquest.io
 .carrotquest.io
 .blockfrost.io
+.sprut.io
 .pxt.io
 .userpxt.io
 .xiaoou.io
@@ -17237,6 +17241,7 @@ live-patreon-marketing.pantheonsite.io
 .xxxmovies.pro
 .yourxxxvideos.pro
 .hxcsxs.pro
+.beget.pro
 .payget.pro
 .pixnet.pro
 .xhot.pro
@@ -17470,6 +17475,7 @@ yangzhi.app
 .tokenplus.app
 .istatmenus.app
 .get.app
+.beget.app
 .meawallet.app
 .carrotquest.app
 .cyberghost.app
@@ -18577,6 +18583,7 @@ bbs.boingboing.net
 .hotstar-cdn.net
 .faceit-cdn.net
 .aiv-cdn.net
+.pv-cdn.net
 .9cdn.net
 .tildacdn.net
 .quoracdn.net
