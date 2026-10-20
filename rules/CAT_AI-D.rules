@@ -72,6 +72,7 @@ DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN,api.github.com
+DOMAIN-SUFFIX,magnific.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,envato-static.com
 DOMAIN-SUFFIX,gemini.gstatic.com
