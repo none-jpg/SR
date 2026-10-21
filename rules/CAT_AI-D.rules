@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,flow.google
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,youmind.site
+DOMAIN-SUFFIX,claude.site
 DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,antigravity-unleash.goog
@@ -64,6 +65,7 @@ DOMAIN-SUFFIX,pplx.ai
 DOMAIN-SUFFIX,syntx.ai
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,anthropic.team
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,grokipedia.com
@@ -81,6 +83,7 @@ DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,chatbotclaude.com
 DOMAIN,geminiweb-pa.clients6.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
@@ -128,6 +131,7 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,dreamgen.com
 DOMAIN-SUFFIX,langchain.com
+DOMAIN-SUFFIX,claudestudio.com
 DOMAIN-SUFFIX,envato.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,groq.com
@@ -176,6 +180,7 @@ DOMAIN,copilot-workspace.githubnext.com
 DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,claudeacademy.com
 DOMAIN,pplx-res.cloudinary.com
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,huggingface.co
@@ -191,6 +196,7 @@ DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,ai.studio
 DOMAIN-SUFFIX,oystermercury.top
+DOMAIN-SUFFIX,claude.app
 DOMAIN-SUFFIX,lpsnmedia.net
 DOMAIN-SUFFIX,algolia.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -211,6 +217,10 @@ DOMAIN-SUFFIX,themeforest.net
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,openspec.dev
+DOMAIN-SUFFIX,antspace.dev
 DOMAIN-SUFFIX,claude.dev
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,kiro.dev
+DOMAIN-SUFFIX,claudepages.dev
+DOMAIN-SUFFIX,ant.dev
+DOMAIN-SUFFIX,claude.new
