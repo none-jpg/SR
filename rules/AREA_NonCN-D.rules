@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,taxel.media
 DOMAIN-SUFFIX,hkgolden.media
 DOMAIN-SUFFIX,gmo.media
 DOMAIN-SUFFIX,guo.media
+DOMAIN-SUFFIX,fluxer.media
 DOMAIN-SUFFIX,hominis.media
 DOMAIN-SUFFIX,nvidia.asia
 DOMAIN-SUFFIX,bod.asia
@@ -957,6 +958,7 @@ DOMAIN-SUFFIX,hmd.site
 DOMAIN-SUFFIX,youmind.site
 DOMAIN-SUFFIX,rtnewsde.site
 DOMAIN-SUFFIX,rtde.site
+DOMAIN-SUFFIX,claude.site
 DOMAIN-SUFFIX,gyutte.site
 DOMAIN-SUFFIX,premiumlive.site
 DOMAIN-SUFFIX,51dh.site
@@ -2997,6 +2999,7 @@ DOMAIN-SUFFIX,xgirls.webcam
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,xvxx.stream
 DOMAIN-SUFFIX,misskey.stream
+DOMAIN-SUFFIX,anthropic.team
 DOMAIN-SUFFIX,rtde.team
 DOMAIN-SUFFIX,rustore.team
 DOMAIN-SUFFIX,t-tech.team
@@ -4590,6 +4593,7 @@ DOMAIN-SUFFIX,gpstatic.com
 DOMAIN-SUFFIX,ippstatic.com
 DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,framerstatic.com
+DOMAIN-SUFFIX,fluxerstatic.com
 DOMAIN-SUFFIX,cbsstatic.com
 DOMAIN-SUFFIX,spiceworksstatic.com
 DOMAIN-SUFFIX,pplusstatic.com
@@ -5579,6 +5583,7 @@ DOMAIN-SUFFIX,delcam-electrode.com
 DOMAIN-SUFFIX,beatsbydrevipde.com
 DOMAIN-SUFFIX,rtnewsde.com
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,chatbotclaude.com
 DOMAIN-SUFFIX,hentaidude.com
 DOMAIN-SUFFIX,jerkdude.com
 DOMAIN-SUFFIX,thecamdude.com
@@ -10504,6 +10509,7 @@ DOMAIN-SUFFIX,drebeats-studio.com
 DOMAIN-SUFFIX,disney-studio.com
 DOMAIN-SUFFIX,3dstudio.com
 DOMAIN-SUFFIX,shotgridstudio.com
+DOMAIN-SUFFIX,claudestudio.com
 DOMAIN-SUFFIX,camstagestudio.com
 DOMAIN-SUFFIX,beatsheadphonestudio.com
 DOMAIN-SUFFIX,monsterbeatsbydrdrestudio.com
@@ -11061,6 +11067,7 @@ DOMAIN-SUFFIX,onapp.com
 DOMAIN-SUFFIX,threadreaderapp.com
 DOMAIN-SUFFIX,homestylerapp.com
 DOMAIN-SUFFIX,flutterapp.com
+DOMAIN-SUFFIX,fluxerapp.com
 DOMAIN-SUFFIX,sprinklesapp.com
 DOMAIN-SUFFIX,outingsapp.com
 DOMAIN-SUFFIX,glyphsapp.com
@@ -11651,6 +11658,7 @@ DOMAIN-SUFFIX,mixer.com
 DOMAIN-SUFFIX,meshmixer.com
 DOMAIN-SUFFIX,getboxer.com
 DOMAIN-SUFFIX,voxer.com
+DOMAIN-SUFFIX,fluxer.com
 DOMAIN-SUFFIX,crankplayer.com
 DOMAIN-SUFFIX,daznplayer.com
 DOMAIN-SUFFIX,jwplayer.com
@@ -13911,6 +13919,7 @@ DOMAIN-SUFFIX,protonstatus.com
 DOMAIN-SUFFIX,vimeostatus.com
 DOMAIN-SUFFIX,qstatus.com
 DOMAIN-SUFFIX,dockerstatus.com
+DOMAIN-SUFFIX,fluxerstatus.com
 DOMAIN-SUFFIX,redditstatus.com
 DOMAIN-SUFFIX,netlifystatus.com
 DOMAIN-SUFFIX,shopifystatus.com
@@ -14475,6 +14484,7 @@ DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,envatousercontent.com
 DOMAIN-SUFFIX,framerusercontent.com
+DOMAIN-SUFFIX,fluxerusercontent.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,yusercontent.com
@@ -15990,6 +16000,7 @@ DOMAIN-SUFFIX,staticmy.com
 DOMAIN-SUFFIX,datacloudmy.com
 DOMAIN-SUFFIX,mastercardacademy.com
 DOMAIN-SUFFIX,kubeacademy.com
+DOMAIN-SUFFIX,claudeacademy.com
 DOMAIN-SUFFIX,pearsononlineacademy.com
 DOMAIN-SUFFIX,autodeskmanufacturingacademy.com
 DOMAIN-SUFFIX,contechacademy.com
@@ -17429,6 +17440,7 @@ DOMAIN-SUFFIX,web.app
 DOMAIN-SUFFIX,rsshub.app
 DOMAIN-SUFFIX,zb.app
 DOMAIN-SUFFIX,adguard.app
+DOMAIN-SUFFIX,claude.app
 DOMAIN-SUFFIX,ngrok-free.app
 DOMAIN-SUFFIX,cloudflare.app
 DOMAIN-SUFFIX,gridaware.app
@@ -17468,6 +17480,7 @@ DOMAIN-SUFFIX,linear.app
 DOMAIN-SUFFIX,vkmessenger.app
 DOMAIN-SUFFIX,zen-browser.app
 DOMAIN-SUFFIX,pulsebrowser.app
+DOMAIN-SUFFIX,fluxer.app
 DOMAIN-SUFFIX,blurams.app
 DOMAIN-SUFFIX,libsolutions.app
 DOMAIN-SUFFIX,grapheneos.app
@@ -17630,6 +17643,7 @@ DOMAIN-SUFFIX,discord.tools
 DOMAIN-SUFFIX,fastlane.tools
 DOMAIN-SUFFIX,dnscheck.tools
 DOMAIN-SUFFIX,bgp.tools
+DOMAIN-SUFFIX,fluxer.tools
 DOMAIN-SUFFIX,ssr.tools
 DOMAIN-SUFFIX,minecraft.tools
 DOMAIN-SUFFIX,ch9.ms
@@ -19553,6 +19567,7 @@ DOMAIN-SUFFIX,bnxz.net
 DOMAIN-SUFFIX,hentaizz.net
 DOMAIN-SUFFIX,pornobuzz.net
 DOMAIN-SUFFIX,discord.gift
+DOMAIN-SUFFIX,fluxer.gift
 DOMAIN-SUFFIX,microsoft
 DOMAIN-SUFFIX,gt
 DOMAIN-SUFFIX,ht
@@ -19707,6 +19722,7 @@ DOMAIN-SUFFIX,openspec.dev
 DOMAIN-SUFFIX,demo.unlock-music.dev
 DOMAIN-SUFFIX,dartpad.dev
 DOMAIN-SUFFIX,discord.dev
+DOMAIN-SUFFIX,antspace.dev
 DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,claude.dev
 DOMAIN-SUFFIX,ngrok-free.dev
@@ -19746,7 +19762,9 @@ DOMAIN-SUFFIX,kiro.dev
 DOMAIN-SUFFIX,mdnyalp.dev
 DOMAIN-SUFFIX,amp.dev
 DOMAIN-SUFFIX,flutter.dev
+DOMAIN-SUFFIX,fluxer.dev
 DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,claudepages.dev
 DOMAIN-SUFFIX,epicgames.dev
 DOMAIN-SUFFIX,jetbrains.dev
 DOMAIN-SUFFIX,chromeos.dev
@@ -19758,6 +19776,7 @@ DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,get.dev
 DOMAIN-SUFFIX,sourcecraft.dev
 DOMAIN-SUFFIX,opensourceinsight.dev
+DOMAIN-SUFFIX,ant.dev
 DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,dart.dev
 DOMAIN-SUFFIX,githubpreview.dev
@@ -20138,6 +20157,7 @@ DOMAIN-SUFFIX,cw
 DOMAIN-SUFFIX,oreilly.review
 DOMAIN-SUFFIX,doc.new
 DOMAIN-SUFFIX,discord.new
+DOMAIN-SUFFIX,claude.new
 DOMAIN-SUFFIX,site.new
 DOMAIN-SUFFIX,website.new
 DOMAIN-SUFFIX,pdf.new

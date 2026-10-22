@@ -18,6 +18,7 @@
 .hkgolden.media
 .gmo.media
 .guo.media
+.fluxer.media
 .hominis.media
 .nvidia.asia
 .bod.asia
@@ -957,6 +958,7 @@ hub.slarker.me
 .youmind.site
 .rtnewsde.site
 .rtde.site
+.claude.site
 .gyutte.site
 .premiumlive.site
 .51dh.site
@@ -2997,6 +2999,7 @@ rsshub.asailor.org
 .kk.stream
 .xvxx.stream
 .misskey.stream
+.anthropic.team
 .rtde.team
 .rustore.team
 .t-tech.team
@@ -4590,6 +4593,7 @@ vsmarketplacebadge.apphb.com
 .ippstatic.com
 .dockerstatic.com
 .framerstatic.com
+.fluxerstatic.com
 .cbsstatic.com
 .spiceworksstatic.com
 .pplusstatic.com
@@ -5579,6 +5583,7 @@ rsshub.email-once.com
 .beatsbydrevipde.com
 .rtnewsde.com
 .claude.com
+.chatbotclaude.com
 .hentaidude.com
 .jerkdude.com
 .thecamdude.com
@@ -10504,6 +10509,7 @@ deutschewelle.h-cdn.com
 .disney-studio.com
 .3dstudio.com
 .shotgridstudio.com
+.claudestudio.com
 .camstagestudio.com
 .beatsheadphonestudio.com
 .monsterbeatsbydrdrestudio.com
@@ -11061,6 +11067,7 @@ cbsi.live.ott.irdeto.com
 .threadreaderapp.com
 .homestylerapp.com
 .flutterapp.com
+.fluxerapp.com
 .sprinklesapp.com
 .outingsapp.com
 .glyphsapp.com
@@ -11651,6 +11658,7 @@ rsshub.rssforever.com
 .meshmixer.com
 .getboxer.com
 .voxer.com
+.fluxer.com
 .crankplayer.com
 .daznplayer.com
 .jwplayer.com
@@ -13911,6 +13919,7 @@ community.oneplus.com
 .vimeostatus.com
 .qstatus.com
 .dockerstatus.com
+.fluxerstatus.com
 .redditstatus.com
 .netlifystatus.com
 .shopifystatus.com
@@ -14475,6 +14484,7 @@ help.ubnt.com
 .ozonusercontent.com
 .envatousercontent.com
 .framerusercontent.com
+.fluxerusercontent.com
 .dropboxusercontent.com
 .firefoxusercontent.com
 .yusercontent.com
@@ -15990,6 +16000,7 @@ rsshub.pseudoyu.com
 .datacloudmy.com
 .mastercardacademy.com
 .kubeacademy.com
+.claudeacademy.com
 .pearsononlineacademy.com
 .autodeskmanufacturingacademy.com
 .contechacademy.com
@@ -17429,6 +17440,7 @@ live-patreon-marketing.pantheonsite.io
 .rsshub.app
 .zb.app
 .adguard.app
+.claude.app
 .ngrok-free.app
 .cloudflare.app
 .gridaware.app
@@ -17468,6 +17480,7 @@ yangzhi.app
 .vkmessenger.app
 .zen-browser.app
 .pulsebrowser.app
+.fluxer.app
 .blurams.app
 .libsolutions.app
 .grapheneos.app
@@ -17630,6 +17643,7 @@ yangzhi.app
 .fastlane.tools
 .dnscheck.tools
 .bgp.tools
+.fluxer.tools
 .ssr.tools
 .minecraft.tools
 .ch9.ms
@@ -19553,6 +19567,7 @@ gog-cdn-lumen.secure2.footprint.net
 .hentaizz.net
 .pornobuzz.net
 .discord.gift
+.fluxer.gift
 .microsoft
 .gt
 .ht
@@ -19707,6 +19722,7 @@ muse.jhu.edu
 .demo.unlock-music.dev
 .dartpad.dev
 .discord.dev
+.antspace.dev
 .vscode.dev
 .claude.dev
 .ngrok-free.dev
@@ -19746,7 +19762,9 @@ rss.datuan.dev
 .mdnyalp.dev
 .amp.dev
 .flutter.dev
+.fluxer.dev
 .pages.dev
+.claudepages.dev
 .epicgames.dev
 .jetbrains.dev
 .chromeos.dev
@@ -19758,6 +19776,7 @@ rss.datuan.dev
 .get.dev
 .sourcecraft.dev
 .opensourceinsight.dev
+.ant.dev
 .usercontent.dev
 .dart.dev
 .githubpreview.dev
@@ -20138,6 +20157,7 @@ rss.datuan.dev
 .oreilly.review
 .doc.new
 .discord.new
+.claude.new
 .site.new
 .website.new
 .pdf.new
