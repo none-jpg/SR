@@ -2074,7 +2074,6 @@ rsshub.asailor.org
 .artstor.org
 .npr.org
 .saveuighur.org
-.test-ipv6.sin.vr.org
 .ieee-cas.org
 .cas.org
 .alasbarricadas.org
@@ -2908,7 +2907,6 @@ rsshub.asailor.org
 .mlzs.work
 .mk.shrimpia.network
 .v2.hysteria.network
-.test-ipv6.epic.network
 .chainid.network
 .wynd.network
 .stripe.network
@@ -3493,7 +3491,6 @@ licdn.cn.cdn20.com
 .netflixdnstest6.com
 .gvt6.com
 .futu6.com
-.test-ipv6.com
 .rbc007.com
 .avstar07.com
 .tube2017.com
@@ -5153,7 +5150,6 @@ i.jeded.com
 .metacloud.com
 .greenlakehybridcloud.com
 .soundcloud.com
-.test-ipv6.freerangecloud.com
 .nikecloud.com
 .oraclecloud.com
 .vmwarecloud.com
@@ -17835,7 +17831,6 @@ rsshub.rss.tips
 .indiansexstories2.net
 .justmysocks2.net
 .beatsbydrecybermondaydeals2013.net
-.test-ipv6.iu13.net
 .fuliba2023.net
 .sexo123.net
 .bb33.net
@@ -17984,7 +17979,6 @@ rsshub.rss.tips
 .omtrdc.net
 .winhec.net
 .dnssec.net
-.test-ipv6.fratec.net
 .sovec.net
 .rtarabic.net
 .gotraffic.net
@@ -18300,7 +18294,6 @@ ood.opsource.net
 .xxxvogue.net
 .minhhue.net
 .pearsonvue.net
-.test-ipv6.belwue.net
 .antiwave.net
 .live.net
 .vkuserlive.net
@@ -18581,7 +18574,6 @@ bbs.boingboing.net
 .azurecomm.net
 .sb-telecom.net
 .softbank-telecom.net
-.test-ipv6.ke.liquidtelecom.net
 .yandexcom.net
 .hipzoom.net
 .intelatom.net
@@ -19385,7 +19377,6 @@ gog-cdn-lumen.secure2.footprint.net
 .marxist.net
 .cdnst.net
 .akahost.net
-.test-ipv6.noroutetohost.net
 .pornpost.net
 .javpost.net
 .d-trust.net
@@ -19399,7 +19390,6 @@ gog-cdn-lumen.secure2.footprint.net
 .crossout.net
 .nyt.net
 .incezt.net
-.test-ipv6.roedu.net
 .wangafu.net
 .fengzhenghu.net
 .nutaku.net
@@ -19677,7 +19667,6 @@ bybit.ada.support
 .611study.icu
 .ucla.edu
 .usma.edu
-.test-ipv6.cs.umd.edu
 .yale.edu
 .airuniversity.af.edu
 .sharif.edu
@@ -19774,6 +19763,7 @@ muse.jhu.edu
 .stripe.dev
 .cloudflare.dev
 .firebase.dev
+.librewolf.dev
 .g.dev
 .tg.dev
 .t-tech.dev

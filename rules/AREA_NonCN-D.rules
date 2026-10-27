@@ -2074,7 +2074,6 @@ DOMAIN-SUFFIX,jstor.org
 DOMAIN-SUFFIX,artstor.org
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,saveuighur.org
-DOMAIN-SUFFIX,test-ipv6.sin.vr.org
 DOMAIN-SUFFIX,ieee-cas.org
 DOMAIN-SUFFIX,cas.org
 DOMAIN-SUFFIX,alasbarricadas.org
@@ -2908,7 +2907,6 @@ DOMAIN-SUFFIX,xbooks.work
 DOMAIN-SUFFIX,mlzs.work
 DOMAIN-SUFFIX,mk.shrimpia.network
 DOMAIN-SUFFIX,v2.hysteria.network
-DOMAIN-SUFFIX,test-ipv6.epic.network
 DOMAIN-SUFFIX,chainid.network
 DOMAIN-SUFFIX,wynd.network
 DOMAIN-SUFFIX,stripe.network
@@ -3493,7 +3491,6 @@ DOMAIN-SUFFIX,foxsuper6.com
 DOMAIN-SUFFIX,netflixdnstest6.com
 DOMAIN-SUFFIX,gvt6.com
 DOMAIN-SUFFIX,futu6.com
-DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,rbc007.com
 DOMAIN-SUFFIX,avstar07.com
 DOMAIN-SUFFIX,tube2017.com
@@ -5153,7 +5150,6 @@ DOMAIN-SUFFIX,foxmediacloud.com
 DOMAIN-SUFFIX,metacloud.com
 DOMAIN-SUFFIX,greenlakehybridcloud.com
 DOMAIN-SUFFIX,soundcloud.com
-DOMAIN-SUFFIX,test-ipv6.freerangecloud.com
 DOMAIN-SUFFIX,nikecloud.com
 DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,vmwarecloud.com
@@ -17835,7 +17831,6 @@ DOMAIN-SUFFIX,hentai2.net
 DOMAIN-SUFFIX,indiansexstories2.net
 DOMAIN-SUFFIX,justmysocks2.net
 DOMAIN-SUFFIX,beatsbydrecybermondaydeals2013.net
-DOMAIN-SUFFIX,test-ipv6.iu13.net
 DOMAIN-SUFFIX,fuliba2023.net
 DOMAIN-SUFFIX,sexo123.net
 DOMAIN-SUFFIX,bb33.net
@@ -17984,7 +17979,6 @@ DOMAIN-SUFFIX,adobedc.net
 DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,winhec.net
 DOMAIN-SUFFIX,dnssec.net
-DOMAIN-SUFFIX,test-ipv6.fratec.net
 DOMAIN-SUFFIX,sovec.net
 DOMAIN-SUFFIX,rtarabic.net
 DOMAIN-SUFFIX,gotraffic.net
@@ -18300,7 +18294,6 @@ DOMAIN-SUFFIX,chinadialogue.net
 DOMAIN-SUFFIX,xxxvogue.net
 DOMAIN-SUFFIX,minhhue.net
 DOMAIN-SUFFIX,pearsonvue.net
-DOMAIN-SUFFIX,test-ipv6.belwue.net
 DOMAIN-SUFFIX,antiwave.net
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,vkuserlive.net
@@ -18581,7 +18574,6 @@ DOMAIN-SUFFIX,china-mmm.net
 DOMAIN-SUFFIX,azurecomm.net
 DOMAIN-SUFFIX,sb-telecom.net
 DOMAIN-SUFFIX,softbank-telecom.net
-DOMAIN-SUFFIX,test-ipv6.ke.liquidtelecom.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,hipzoom.net
 DOMAIN-SUFFIX,intelatom.net
@@ -19385,7 +19377,6 @@ DOMAIN-SUFFIX,sockslist.net
 DOMAIN-SUFFIX,marxist.net
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,akahost.net
-DOMAIN-SUFFIX,test-ipv6.noroutetohost.net
 DOMAIN-SUFFIX,pornpost.net
 DOMAIN-SUFFIX,javpost.net
 DOMAIN-SUFFIX,d-trust.net
@@ -19399,7 +19390,6 @@ DOMAIN-SUFFIX,visacheckout.net
 DOMAIN-SUFFIX,crossout.net
 DOMAIN-SUFFIX,nyt.net
 DOMAIN-SUFFIX,incezt.net
-DOMAIN-SUFFIX,test-ipv6.roedu.net
 DOMAIN-SUFFIX,wangafu.net
 DOMAIN-SUFFIX,fengzhenghu.net
 DOMAIN-SUFFIX,nutaku.net
@@ -19677,7 +19667,6 @@ DOMAIN-SUFFIX,hsex.icu
 DOMAIN-SUFFIX,611study.icu
 DOMAIN-SUFFIX,ucla.edu
 DOMAIN-SUFFIX,usma.edu
-DOMAIN-SUFFIX,test-ipv6.cs.umd.edu
 DOMAIN-SUFFIX,yale.edu
 DOMAIN-SUFFIX,airuniversity.af.edu
 DOMAIN-SUFFIX,sharif.edu
@@ -19774,6 +19763,7 @@ DOMAIN-SUFFIX,google.dev
 DOMAIN-SUFFIX,stripe.dev
 DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,firebase.dev
+DOMAIN-SUFFIX,librewolf.dev
 DOMAIN-SUFFIX,g.dev
 DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,t-tech.dev

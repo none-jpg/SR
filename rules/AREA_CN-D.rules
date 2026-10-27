@@ -601,7 +601,6 @@ DOMAIN-SUFFIX,xhmedia.com
 DOMAIN-SUFFIX,tianjimedia.com
 DOMAIN-SUFFIX,juwinmedia.com
 DOMAIN-SUFFIX,dxpmedia.com
-DOMAIN-SUFFIX,jikipedia.com
 DOMAIN-SUFFIX,antpedia.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN-SUFFIX,pharmacodia.com
@@ -1667,6 +1666,7 @@ DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,idouyinliving.com
 DOMAIN-SUFFIX,cqliving.com
 DOMAIN-SUFFIX,acwing.com
+DOMAIN-SUFFIX,kakaxing.com
 DOMAIN-SUFFIX,woyaogexing.com
 DOMAIN-SUFFIX,lingxing.com
 DOMAIN-SUFFIX,baixing.com
@@ -1992,6 +1992,7 @@ DOMAIN-SUFFIX,tianyaui.com
 DOMAIN-SUFFIX,jobui.com
 DOMAIN-SUFFIX,paidui.com
 DOMAIN-SUFFIX,sheui.com
+DOMAIN-SUFFIX,xiaomaigui.com
 DOMAIN-SUFFIX,chinachugui.com
 DOMAIN-SUFFIX,yingyonghui.com
 DOMAIN-SUFFIX,qishui.com
@@ -2620,6 +2621,7 @@ DOMAIN-SUFFIX,rongechain.com
 DOMAIN-SUFFIX,docin.com
 DOMAIN-SUFFIX,xinyuanfin.com
 DOMAIN-SUFFIX,combofin.com
+DOMAIN-SUFFIX,filmorigin.com
 DOMAIN-SUFFIX,gclouddolphin.com
 DOMAIN-SUFFIX,360taojin.com
 DOMAIN-SUFFIX,airguilin.com

@@ -24,6 +24,6 @@ DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 DOMAIN,heads-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,spotify-com.akamaized.net
-DOMAIN,spotify.com.edgesuite.net
+DOMAIN-SUFFIX,spotify.com.edgesuite.net
 DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN,spotify.map.fastly.net
