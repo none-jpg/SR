@@ -34,6 +34,7 @@
 .tripo3d.ai
 .youmind.ai
 .trae.ai
+.commandcode.ai
 .opencode.ai
 .claude.ai
 .typesafe.ai
@@ -53,6 +54,7 @@
 .plannotator.ai
 .cerebras.ai
 .chutes.ai
+.artificialanalysis.ai
 .jetbrains.ai
 .coderabbit.ai
 .moonshot.ai
@@ -68,6 +70,7 @@
 .anthropic.team
 .manus.im
 .auth0.com
+.context7.com
 .grokipedia.com
 .dola.com
 .ollama.com
@@ -113,6 +116,7 @@ appsgenaiserver-pa.clients.google.com
 .api.statsig.com
 .oaistatsig.com
 .copilot-stg.com
+.nousresearch.com
 .ai.com
 .ciciai.com
 .openai.com
@@ -173,6 +177,7 @@ copilot-telemetry-service.githubusercontent.com
 copilot-telemetry.githubusercontent.com
 copilot-proxy.githubusercontent.com
 .claudeusercontent.com
+.metaaiusercontent.com
 .oaiusercontent.com
 .envatousercontent.com
 .copilot.com
@@ -219,6 +224,7 @@ copilotprodattachments.blob.core.windows.net
 .themeforest.net
 .openaicom.imgix.net
 .copilot.cloud.microsoft
+.cline.bot
 .openspec.dev
 .antspace.dev
 .claude.dev
