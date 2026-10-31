@@ -2867,6 +2867,7 @@ DOMAIN-SUFFIX,mk
 DOMAIN-SUFFIX,home.bank
 DOMAIN-SUFFIX,btcbank.bank
 DOMAIN-SUFFIX,softbank
+DOMAIN-SUFFIX,18comic.ink
 DOMAIN-SUFFIX,shdd.ink
 DOMAIN-SUFFIX,binancezh.ink
 DOMAIN-SUFFIX,mimi2022.link
@@ -4283,6 +4284,7 @@ DOMAIN-SUFFIX,softbankbb.com
 DOMAIN-SUFFIX,pornvideobb.com
 DOMAIN-SUFFIX,kouwobb.com
 DOMAIN-SUFFIX,ru.ccb.com
+DOMAIN-SUFFIX,tiktokstaticb.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,sih-db.com
 DOMAIN-SUFFIX,peeringdb.com
@@ -4591,6 +4593,7 @@ DOMAIN-SUFFIX,adobeccstatic.com
 DOMAIN-SUFFIX,sfdcstatic.com
 DOMAIN-SUFFIX,ldstatic.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,bingstatic.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,cbsistatic.com
 DOMAIN-SUFFIX,lolstatic.com
@@ -4606,6 +4609,7 @@ DOMAIN-SUFFIX,spiceworksstatic.com
 DOMAIN-SUFFIX,pplusstatic.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,nftstatic.com
+DOMAIN-SUFFIX,msftstatic.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,futustatic.com
 DOMAIN-SUFFIX,ttwstatic.com
@@ -10961,6 +10965,7 @@ DOMAIN-SUFFIX,beatspromonsterjp.com
 DOMAIN-SUFFIX,visiontimesjp.com
 DOMAIN-SUFFIX,instagram-help.com
 DOMAIN-SUFFIX,lnstagram-help.com
+DOMAIN-SUFFIX,githubhelp.com
 DOMAIN-SUFFIX,nikehelp.com
 DOMAIN-SUFFIX,hponlinehelp.com
 DOMAIN-SUFFIX,mxroutehelp.com
@@ -11003,6 +11008,7 @@ DOMAIN-SUFFIX,kopfhorergunstigshop.com
 DOMAIN-SUFFIX,epochshop.com
 DOMAIN-SUFFIX,wsjshop.com
 DOMAIN-SUFFIX,facebookshop.com
+DOMAIN-SUFFIX,tiktokshop.com
 DOMAIN-SUFFIX,microsoftcloudworkshop.com
 DOMAIN-SUFFIX,miniworkshop.com
 DOMAIN-SUFFIX,cdkworkshop.com
@@ -11104,6 +11110,7 @@ DOMAIN-SUFFIX,airsupportapp.com
 DOMAIN-SUFFIX,toutapp.com
 DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,huluapp.com
+DOMAIN-SUFFIX,tiktokvapp.com
 DOMAIN-SUFFIX,g-tvapp.com
 DOMAIN-SUFFIX,lasersawapp.com
 DOMAIN-SUFFIX,plexapp.com
@@ -17801,6 +17808,7 @@ DOMAIN-SUFFIX,webcamgirls.chat
 DOMAIN-SUFFIX,rocket.chat
 DOMAIN-SUFFIX,bettergpt.chat
 DOMAIN-SUFFIX,simplex.chat
+DOMAIN-SUFFIX,bsky.chat
 DOMAIN-SUFFIX,hkf2023.lat
 DOMAIN-SUFFIX,sing4.lat
 DOMAIN-SUFFIX,mdr100ya.lat
@@ -19823,6 +19831,7 @@ DOMAIN-SUFFIX,githubpreview.dev
 DOMAIN-SUFFIX,flow.dev
 DOMAIN-SUFFIX,idx.dev
 DOMAIN-SUFFIX,nix.dev
+DOMAIN-SUFFIX,npmx.dev
 DOMAIN-SUFFIX,termux.dev
 DOMAIN-SUFFIX,mdnplay.dev
 DOMAIN-SUFFIX,gateway.dev
