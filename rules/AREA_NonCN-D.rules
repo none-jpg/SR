@@ -1593,6 +1593,7 @@ DOMAIN-SUFFIX,codeberg.org
 DOMAIN-SUFFIX,tug.org
 DOMAIN-SUFFIX,hentai24h.org
 DOMAIN-SUFFIX,2ch.org
+DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,isca-speech.org
 DOMAIN-SUFFIX,teachparentstech.org
 DOMAIN-SUFFIX,edu-research.org
@@ -7823,6 +7824,7 @@ DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,api.shuaiapi.com
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,mytokenapi.com
+DOMAIN-SUFFIX,youversionapi.com
 DOMAIN-SUFFIX,bsappapi.com
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,cursorapi.com
