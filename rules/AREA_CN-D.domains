@@ -70,7 +70,6 @@ dot.pub
 .oppoer.me
 .winos.me
 .lrts.me
-.chuyu.me
 .qbox.me
 .letitfly.me
 api.blipsandchitz.me
@@ -117,7 +116,6 @@ api.blipsandchitz.me
 .lawyee.org
 .beie.org
 .staticfile.org
-.goto-game.org
 .cpppf.org
 .50bang.org
 .geekbang.org
@@ -162,6 +160,7 @@ kms.03k.org
 .ibcet.org
 .solidot.org
 .guigu.org
+.tuhu.org
 .acftu.org
 .chinaxiv.org
 .tikv.org
@@ -178,7 +177,6 @@ kms.03k.org
 .cf-ns.tech
 .saasops.tech
 .xet.tech
-.in.th
 .xn--io0a7i
 .tidb.ai
 .dui.ai
@@ -188,7 +186,6 @@ kms.03k.org
 .daogou.ai
 .z.ai
 .ddmc.mobi
-.goto-game.mobi
 .aamgame.mobi
 .ddimg.mobi
 .imaicai.mobi
@@ -287,6 +284,7 @@ end-api.shallow.ink
 .qhimgs0.com
 .coze-dns-01.com
 .moji001.com
+.xinli001.com
 .ynsj001.com
 .xingtan001.com
 .kaixin001.com
@@ -571,6 +569,7 @@ izattime.qcomgeo2.com
 .cg3da.com
 .ictbda.com
 .jlceda.com
+.mugeda.com
 .mfcteda.com
 .ahfda.com
 .ucloudgda.com
@@ -578,6 +577,7 @@ izattime.qcomgeo2.com
 .ipanda.com
 .dianwoda.com
 .mdpda.com
+.phirda.com
 .midea.com
 .frp-sea.com
 .egsea.com
@@ -701,7 +701,6 @@ cn.download.nvidia.com
 .nmrdata.com
 .gugudata.com
 .meitudata.com
-.proximabeta.com
 .pcbeta.com
 .xopenbeta.com
 .115meta.com
@@ -766,6 +765,7 @@ cn.download.nvidia.com
 .easemob.com
 .weimob.com
 .runoob.com
+.jcrb.com
 .zgjtb.com
 .sunrtb.com
 .fengsutb.com
@@ -1012,6 +1012,7 @@ cn.download.nvidia.com
 .sctcd.com
 .5ddd.com
 .chaindd.com
+.ai-indeed.com
 .cofeed.com
 .uneed.com
 .sipeed.com
@@ -1025,7 +1026,6 @@ cn.download.nvidia.com
 .eoeandroid.com
 .touzid.com
 .jd.com
-.mszdld.com
 .cozebuild.com
 .hworld.com
 .mcpworld.com
@@ -1100,7 +1100,6 @@ cn.download.nvidia.com
 .xiaoecloud.com
 .qianxuecloud.com
 .yfcloud.com
-.tencent-gcloud.com
 .umengcloud.com
 .suningcloud.com
 .qingcloud.com
@@ -1127,6 +1126,7 @@ cn.download.nvidia.com
 .tencentcloud.com
 .divoiotcloud.com
 .migucloud.com
+.yonyoucloud.com
 .letvcloud.com
 .cztvcloud.com
 .tenxcloud.com
@@ -1160,6 +1160,7 @@ cn.download.nvidia.com
 .gaode.com
 .ybccode.com
 .pingcode.com
+.nocode.com
 .gitcode.com
 .somode.com
 .ultracachenode.com
@@ -1218,6 +1219,7 @@ cn.download.nvidia.com
 .58xueche.com
 .wodingche.com
 .ningtingche.com
+.maiche.com
 .yiche.com
 .didapinche.com
 .taoche.com
@@ -1261,6 +1263,7 @@ cn.download.nvidia.com
 .mobike.com
 .okjike.com
 .aigodlike.com
+.jianke.com
 .chuanke.com
 .anquanke.com
 .jisuanke.com
@@ -1273,6 +1276,7 @@ cn.download.nvidia.com
 .easesale.com
 .oracle.com
 .appracle.com
+.bangcle.com
 .yiigle.com
 .56laile.com
 .chinamobile.com
@@ -1299,32 +1303,24 @@ cn.download.nvidia.com
 .jiashule.com
 .4399biule.com
 .jiasule.com
-.goto-game.com
-.zcjbgame.com
 .ycgame.com
 .morefreegame.com
-.zhuoyuegame.com
 .wegame.com
 .talkinggame.com
 .uggame.com
 .biligame.com
-.syxlgame.com
 .aamgame.com
 .3dmgame.com
-.yxdmgame.com
 .herogame.com
 .lenovogame.com
 .vpgame.com
-.yxwsgame.com
 .qugame.com
 .longtugame.com
 .9xgame.com
-.rmwxgame.com
-.hdyxgame.com
-.yzyxgame.com
-.wcbygame.com
 .chuansongme.com
 .btime.com
+.cctime.com
+.sensetime.com
 .vgtime.com
 .mtime.com
 .realme.com
@@ -1363,7 +1359,6 @@ media.cdn.queniuqe.com
 .3dwhere.com
 .longre.com
 .2dfire.com
-.gamebonfire.com
 .nowscore.com
 .funnycore.com
 .senlinjimore.com
@@ -1371,7 +1366,6 @@ media.cdn.queniuqe.com
 .letvstore.com
 .unionpaysecure.com
 .aigefurniture.com
-.timibase.com
 .ceblease.com
 .netease.com
 .officese.com
@@ -1461,6 +1455,7 @@ media.cdn.queniuqe.com
 .sctv-tf.com
 .qqtf.com
 .freebuf.com
+.zhiguf.com
 .lanzouf.com
 .4399swf.com
 .uzzf.com
@@ -1472,6 +1467,7 @@ media.cdn.queniuqe.com
 .sfacg.com
 .gracg.com
 .cqdcg.com
+.crecg.com
 .mihoyocg.com
 .vcg.com
 .jtjms-eg.com
@@ -1696,6 +1692,7 @@ media.cdn.queniuqe.com
 .kaihong.com
 .kaipanhong.com
 .yingxiong.com
+.xiaohuanxiong.com
 .kookong.com
 .shuoshuokong.com
 .zhuayoukong.com
@@ -1706,6 +1703,7 @@ media.cdn.queniuqe.com
 .zjshulong.com
 .pwsannong.com
 .meloong.com
+.ishansong.com
 .koudaitong.com
 .guanaitong.com
 .lvsexitong.com
@@ -1716,6 +1714,7 @@ media.cdn.queniuqe.com
 .yuanzhiyijiantong.com
 .shenzhentong.com
 .chinawutong.com
+.luyong.com
 .sursung.com
 .neohytung.com
 .dzng.com
@@ -1859,6 +1858,7 @@ media.cdn.queniuqe.com
 .apabi.com
 .jinianbi.com
 .fenbi.com
+.kakamobi.com
 .heytapmobi.com
 .dengguobi.com
 .jinrishici.com
@@ -1887,6 +1887,7 @@ media.cdn.queniuqe.com
 .pdfwifi.com
 .miwifi.com
 .hisensehitachi.com
+.zhichi.com
 .guoxuedashi.com
 .kudashi.com
 .ludashi.com
@@ -1907,6 +1908,7 @@ media.cdn.queniuqe.com
 .cnanzhi.com
 .shangyexinzhi.com
 .wumii.com
+.megvii.com
 .b612kaji.com
 .dji.com
 .leikeji.com
@@ -1918,6 +1920,7 @@ media.cdn.queniuqe.com
 .kuaiji.com
 .biji.com
 .cxbiji.com
+.hunliji.com
 .52miji.com
 .markji.com
 .91danji.com
@@ -2000,6 +2003,7 @@ media.cdn.queniuqe.com
 .sheui.com
 .xiaomaigui.com
 .chinachugui.com
+.gelonghui.com
 .yingyonghui.com
 .qishui.com
 .jiasuhui.com
@@ -2020,7 +2024,6 @@ media.cdn.queniuqe.com
 .4399youxi.com
 .shenmayouxi.com
 .cgyouxi.com
-.videoxiaoyouxi.com
 .tuxi.com
 .5wyxi.com
 .mayi.com
@@ -2062,6 +2065,7 @@ media.cdn.queniuqe.com
 .xunfeixxj.com
 .windows10zj.com
 .zczj.com
+.jdzj.com
 .wdzj.com
 .kkzj.com
 .dmzj.com
@@ -2079,7 +2083,6 @@ media.cdn.queniuqe.com
 .hongtastock.com
 .cnhbstock.com
 .cnstock.com
-.gcloudsdk.com
 .fanqiesdk.com
 .cozesdk.com
 .qnsdk.com
@@ -2142,6 +2145,7 @@ media.cdn.queniuqe.com
 .baishinetwork.com
 .playstationnetwork.com
 .sonyentertainmentnetwork.com
+.120ask.com
 .iask.com
 .tongkask.com
 .yuanqidesk.com
@@ -2156,8 +2160,6 @@ media.cdn.queniuqe.com
 .zxxk.com
 .wuximediaglobal.com
 .didiglobal.com
-.bcfmglobal.com
-.tcfmglobal.com
 .ztoglobal.com
 .sf-financial.com
 .sf-international.com
@@ -2219,7 +2221,6 @@ i.dell.com
 .matpool.com
 .998tool.com
 .xdtool.com
-.pubgtool.com
 .cyol.com
 .scyol.com
 .zol.com
@@ -2253,7 +2254,6 @@ i.dell.com
 .crscm.com
 .shutcm.com
 .ucloud-edm.com
-.codm.com
 .smzdm.com
 .ibuychem.com
 .moulem.com
@@ -2277,6 +2277,7 @@ i.dell.com
 .bankcomm.com
 .lenovomm.com
 .ccidcom.com
+.bayescom.com
 .frp-mom.com
 .ziroom.com
 .rainclassroom.com
@@ -2286,9 +2287,11 @@ i.dell.com
 .oneapm.com
 .woshipm.com
 .frp-arm.com
+.cnpharm.com
 .mikecrm.com
 .hollycrm.com
 .jlc-drm.com
+.choiceform.com
 .fqopenplatform.com
 .xxrsm.com
 .shebiaotm.com
@@ -2344,6 +2347,7 @@ i.dell.com
 .diandian.com
 .askdiandian.com
 .baifendian.com
+.jiakaobaodian.com
 .kwaixiaodian.com
 .xinhuashudian.com
 .qudian.com
@@ -2400,6 +2404,7 @@ i.dell.com
 .xiaoluyouxuan.com
 .jiayuan.com
 .jikexueyuan.com
+.yundouxueyuan.com
 .china-nengyuan.com
 .bangongziyuan.com
 .17van.com
@@ -2616,8 +2621,10 @@ www.layuicdn.com
 .ysten.com
 .yuewen.com
 .ruiwen.com
+.diyifanwen.com
 .qianwen.com
 .zuowen.com
+.shuwen.com
 .ivwen.com
 .zhlyen.com
 .qqgamedesign.com
@@ -2630,7 +2637,6 @@ ocsp.globalsign.com
 .xinyuanfin.com
 .combofin.com
 .filmorigin.com
-.gclouddolphin.com
 .360taojin.com
 .airguilin.com
 .ubuntukylin.com
@@ -2677,11 +2683,9 @@ ocsp.globalsign.com
 .playstation.com
 .douyinmusicpromotion.com
 .stosolution.com
-.metalrevolution.com
 .dwion.com
 .tesoon.com
 .deppon.com
-.realcybertron.com
 .sojson.com
 .images-amazon.com
 .bdmozon.com
@@ -2731,6 +2735,7 @@ ocsp.globalsign.com
 .modaiyun.com
 .upaiyun.com
 .weiyun.com
+.xinhuazhiyun.com
 .aliyun.com
 .anhuiyun.com
 .zhiziyun.com
@@ -2818,6 +2823,7 @@ ocsp.globalsign.com
 .xjietiao.com
 .toutiao.com
 .ctoutiao.com
+.gaodunwangxiao.com
 .adhuanxiao.com
 .yunxiao.com
 .91yunxiao.com
@@ -2831,6 +2837,7 @@ ocsp.globalsign.com
 .25mao.com
 .qichamao.com
 .ciweimao.com
+.jianzhimao.com
 .qimao.com
 .jiaoyimao.com
 .zixiaomao.com
@@ -2838,6 +2845,7 @@ ocsp.globalsign.com
 .takungpao.com
 .yupao.com
 .etao.com
+.tianditao.com
 .yitao.com
 .youxiputao.com
 .saibo.com
@@ -2849,7 +2857,7 @@ ocsp.globalsign.com
 .bobo.com
 .cofco.com
 .ebico.com
-.17roco.com
+.lynkco.com
 .hollisterco.com
 .hiido.com
 .cdndo.com
@@ -2881,7 +2889,6 @@ ocsp.globalsign.com
 .guanhaobio.com
 .aardio.com
 .kugouaudio.com
-.ihappystudio.com
 .growingio.com
 .nio.com
 .doubanio.com
@@ -2912,6 +2919,7 @@ ocsp.globalsign.com
 .faloo.com
 .ddooo.com
 .okooo.com
+.iuoooo.com
 .woozooo.com
 .yupoo.com
 .eastsoo.com
@@ -3001,6 +3009,7 @@ ocsp.globalsign.com
 .oncdp.com
 .keep.com
 .gotokeep.com
+.yybip.com
 .feihengip.com
 .frp-hip.com
 .nanocorechip.com
@@ -3037,10 +3046,8 @@ ocsp.globalsign.com
 .mop.com
 .itmop.com
 .jfcoop.com
-.gameloop.com
 .pcpop.com
 .huashangtop.com
-.gameitop.com
 .zixuntop.com
 .25pp.com
 .guoguo-app.com
@@ -3050,7 +3057,6 @@ ocsp.globalsign.com
 .dcdapp.com
 .daheapp.com
 .peopleapp.com
-.qqgameapp.com
 .chujingapp.com
 .dongchediapp.com
 .djdjapp.com
@@ -3095,8 +3101,6 @@ ocsp.globalsign.com
 .lbtp.com
 .bytecdntp.com
 .tracup.com
-.mahjongcup.com
-.texasholdemcup.com
 .tianshucup.com
 .qiniup.com
 .sinopecgroup.com
@@ -3157,6 +3161,7 @@ ocsp.globalsign.com
 .titanar.com
 .qunar.com
 .lanrar.com
+.senseavatar.com
 .weavatar.com
 .cravatar.com
 .stockstar.com
@@ -3204,7 +3209,6 @@ ocsp.globalsign.com
 .fangxiaoer.com
 .banxiaoer.com
 .liuxiaoer.com
-.pubghelper.com
 .wegamedeveloper.com
 .phpcomposer.com
 .jiangningwater.com
@@ -3281,9 +3285,6 @@ ocsp.globalsign.com
 .klpbbs.com
 .oneplusbbs.com
 .mygolbs.com
-.gcloudcs.com
-.nagcloudcs.com
-.hkgcloudcs.com
 .jcloudcs.com
 .bilicomics.com
 .opstatics.com
@@ -3296,7 +3297,6 @@ ocsp.globalsign.com
 .ibobscs.com
 cdnstatic.tencentcs.com
 .sohucs.com
-.gcloudsvcs.com
 .cowcs.com
 .mthreads.com
 .ystbds.com
@@ -3313,6 +3313,7 @@ cdnstatic.tencentcs.com
 .colorfulclouds.com
 .ztedevices.com
 .volces.com
+.120askimages.com
 .snowballsecurities.com
 .sinopecsales.com
 .cgames.com
@@ -3332,7 +3333,6 @@ cdnstatic.tencentcs.com
 .gameres.com
 .mysiteres.com
 .nzsiteres.com
-.gtgres.com
 .qhres.com
 .vmallres.com
 .gcores.com
@@ -3415,7 +3415,6 @@ cdnstatic.tencentcs.com
 .ufileos.com
 .istoreos.com
 .upfos.com
-.nextstudios.com
 .yunos.com
 .coros.com
 .coloros.com
@@ -3578,6 +3577,7 @@ cdnstatic.tencentcs.com
 .sunlife-everbright.com
 .everbright.com
 .fanqiecopyright.com
+.tidesight.com
 .sksight.com
 .hwht.com
 .51credit.com
@@ -3629,7 +3629,6 @@ dl.ubnt.com
 .knewsmart.com
 .fa-part.com
 .herostart.com
-.tencentstart.com
 .showstart.com
 .anticheatexpert.com
 .pphimalayanrt.com
@@ -3637,6 +3636,7 @@ dl.ubnt.com
 .cftsupport.com
 .igpsport.com
 .cmpassport.com
+.upsort.com
 .saraba1st.com
 .stage1st.com
 .800best.com
@@ -3644,10 +3644,10 @@ dl.ubnt.com
 .pptbest.com
 .dhrest.com
 .j-test.com
+.lynkco-test.com
 .95504test.com
 .yto56test.com
 .geetest.com
-.gcloudcstest.com
 .msftconnecttest.com
 .pingwest.com
 .cnwest.com
@@ -3666,6 +3666,7 @@ dl.ubnt.com
 .jlc-layout.com
 .lanzout.com
 .frp-put.com
+.przwt.com
 .xbext.com
 .51dzt.com
 .kwaizt.com
@@ -3816,6 +3817,7 @@ dl.ubnt.com
 .speiyou.com
 .izuiyou.com
 .diyiyou.com
+.yonyou.com
 .xunyou.com
 .aoyou.com
 .zhuoyou.com
@@ -4018,10 +4020,14 @@ dl.ubnt.com
 .snimay.com
 .95598pay.com
 .3839pay.com
+.hnapay.com
 .chinapay.com
 .jdpay.com
+.heepay.com
 .yeepay.com
+.ysepay.com
 .gifpay.com
+.shengpay.com
 .alipay.com
 .helipay.com
 .mipay.com
@@ -4031,6 +4037,7 @@ dl.ubnt.com
 .lianlianpay.com
 .123panpay.com
 .tenpay.com
+.dinpay.com
 .joinpay.com
 .douyinpay.com
 .unionpay.com
@@ -4048,7 +4055,6 @@ dl.ubnt.com
 .wpcy.com
 .vdolady.com
 .onlylady.com
-.ffbuddy.com
 .akspeedy.com
 .szhdy.com
 .frp-key.com
@@ -4079,8 +4085,8 @@ dl.ubnt.com
 .stdaily.com
 .time-weekly.com
 .ifengweekly.com
-.gcloudcstestonly.com
 .aiemy.com
+.baikemy.com
 .feiniaomy.com
 .bkeconomy.com
 .frp-any.com
@@ -4109,7 +4115,6 @@ dl.ubnt.com
 .sfbuy.com
 .coolbuy.com
 .manmanbuy.com
-.midasbuy.com
 .howbuy.com
 .lanzouy.com
 .moonvy.com
@@ -4130,13 +4135,13 @@ gstore.val.manlaxy.com
 .chinaz.com
 .jamcz.com
 .oadz.com
-.happyhlddz.com
 .filez.com
 .kongfz.com
 .ezviz.com
 .miaomiaoz.com
 .lppz.com
 .517lppz.com
+.chinahtz.com
 .66wz.com
 .ewqcxz.com
 .kimxz.com
@@ -4384,9 +4389,7 @@ gstore.val.manlaxy.com
 .chinapubmed.net
 upos-hz-mirrorakam.akamaized.net
 .nextvid.net
-.mszdld.net
 .singworld.net
-.ludoworld.net
 .oend.net
 .talk-cloud.net
 .tencent-cloud.net
@@ -4426,7 +4429,6 @@ time.izatcloud.net
 .capitalonline.net
 .weiphone.net
 .upe.net
-.battlecare.net
 .lenovo.com.cdn.cloudflare.net
 .applysquare.net
 .hugecore.net
@@ -4468,7 +4470,6 @@ time.izatcloud.net
 .ddmaicai.net
 .sandai.net
 .qingtingai.net
-.mahjongai.net
 .xiamai.net
 .dangbei.net
 .acwifi.net
@@ -4498,7 +4499,6 @@ time.izatcloud.net
 .gmoj.net
 .ucloudstack.net
 .uslk.net
-.gotolink.net
 .webok.net
 .geekpark.net
 .cpatrk.net
@@ -4596,6 +4596,7 @@ time.izatcloud.net
 .huoshanzhibo.net
 .bilivideo.net
 .huoshanvideo.net
+.bseinfo.net
 .tritoninfo.net
 .lunwengo.net
 .jyeoo.net
@@ -4614,7 +4615,6 @@ time.izatcloud.net
 .ipip.net
 .aotrip.net
 .huaweishop.net
-.nextworkshop.net
 .snapdrop.net
 .3839app.net
 .cozeapp.net
@@ -4623,8 +4623,6 @@ time.izatcloud.net
 .steampp.net
 .ddcorp.net
 .newasp.net
-.mahjongcup.net
-.texasholdemcup.net
 .cczq.net
 .dxzq.net
 .educoder.net
