@@ -7,10 +7,12 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,chatbotclaude.com
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,claudestudio.com
+DOMAIN,http-intake.logs.us5.datadoghq.com
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claudeacademy.com
+DOMAIN,o1158394.ingest.us.sentry.io
 DOMAIN-SUFFIX,claude.app
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,antspace.dev

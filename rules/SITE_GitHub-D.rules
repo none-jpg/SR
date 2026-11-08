@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,octocaptcha.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,ghe.com
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN-SUFFIX,githubuniverse.com
 DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,thegithubshop.com

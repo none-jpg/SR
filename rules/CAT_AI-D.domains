@@ -111,6 +111,7 @@ appsgenaiserver-pa.clients.google.com
 .gateway.ai.cloudflare.com
 .challenges.cloudflare.com
 .cohere.com
+production-copilot-host-westus.webpubsub.azure.com
 .coze.com
 .windsurf.com
 .api.statsig.com
@@ -140,6 +141,7 @@ cdn.usefathom.com
 .claudestudio.com
 .envato.com
 browser-intake-datadoghq.com
+http-intake.logs.us5.datadoghq.com
 .groq.com
 .qoder.com
 .diabrowser.com
@@ -180,6 +182,7 @@ copilot-proxy.githubusercontent.com
 .metaaiusercontent.com
 .oaiusercontent.com
 .envatousercontent.com
+.grokbot.com
 .copilot.com
 .githubcopilot.com
 .chatgpt.com

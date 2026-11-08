@@ -11221,6 +11221,7 @@ DOMAIN-SUFFIX,icq.com
 DOMAIN-SUFFIX,mirandaicq.com
 DOMAIN-SUFFIX,mobileicq.com
 DOMAIN-SUFFIX,lingq.com
+DOMAIN,http-intake.logs.us5.datadoghq.com
 DOMAIN-SUFFIX,futanarihq.com
 DOMAIN-SUFFIX,slackhq.com
 DOMAIN-SUFFIX,shodanhq.com
@@ -14580,6 +14581,7 @@ DOMAIN-SUFFIX,faceebot.com
 DOMAIN-SUFFIX,cookiebot.com
 DOMAIN-SUFFIX,googlebot.com
 DOMAIN-SUFFIX,fleshbot.com
+DOMAIN-SUFFIX,grokbot.com
 DOMAIN-SUFFIX,quillbot.com
 DOMAIN-SUFFIX,airhornbot.com
 DOMAIN-SUFFIX,uptimerobot.com

@@ -111,6 +111,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,cohere.com
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,api.statsig.com
@@ -140,6 +141,7 @@ DOMAIN-SUFFIX,langchain.com
 DOMAIN-SUFFIX,claudestudio.com
 DOMAIN-SUFFIX,envato.com
 DOMAIN,browser-intake-datadoghq.com
+DOMAIN,http-intake.logs.us5.datadoghq.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,qoder.com
 DOMAIN-SUFFIX,diabrowser.com
@@ -180,6 +182,7 @@ DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,metaaiusercontent.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,envatousercontent.com
+DOMAIN-SUFFIX,grokbot.com
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,chatgpt.com
