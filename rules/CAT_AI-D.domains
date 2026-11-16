@@ -167,6 +167,7 @@ antigravity-pa.googleapis.com
 .generativelanguage.googleapis.com
 notebooklm.googleapis.com
 cloudaicompanion.googleapis.com
+daily-cloudcode-pa.sandbox.googleapis.com
 antigravity.googleapis.com
 static.cloudflareinsights.com
 ppl-ai-file-upload.s3.amazonaws.com
@@ -229,6 +230,7 @@ copilotprodattachments.blob.core.windows.net
 .copilot.cloud.microsoft
 .cline.bot
 .openspec.dev
+cloud.zed.dev
 .antspace.dev
 .claude.dev
 ai.google.dev

@@ -167,6 +167,7 @@ DOMAIN-SUFFIX,aicode.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN,notebooklm.googleapis.com
 DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
 DOMAIN,antigravity.googleapis.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
@@ -229,6 +230,7 @@ DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,cline.bot
 DOMAIN-SUFFIX,openspec.dev
+DOMAIN,cloud.zed.dev
 DOMAIN-SUFFIX,antspace.dev
 DOMAIN-SUFFIX,claude.dev
 DOMAIN,ai.google.dev
