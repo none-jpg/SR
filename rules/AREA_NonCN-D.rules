@@ -1421,7 +1421,6 @@ DOMAIN-SUFFIX,chinachange.org
 DOMAIN-SUFFIX,chimeforchange.org
 DOMAIN-SUFFIX,toolforge.org
 DOMAIN-SUFFIX,macosforge.org
-DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,hpiie.org
 DOMAIN-SUFFIX,baijie.org
@@ -14535,6 +14534,7 @@ DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,envatousercontent.com
 DOMAIN-SUFFIX,framerusercontent.com
 DOMAIN-SUFFIX,fluxerusercontent.com
+DOMAIN-SUFFIX,elevenlabsusercontent.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,yusercontent.com
