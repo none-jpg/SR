@@ -3006,6 +3006,9 @@ ocsp.globalsign.com
 .pingcap.com
 .frp-gap.com
 .cdkeynogap.com
+.tgk-wcaime.wahlap.com
+.maimai.wahlap.com
+.chunithm.wahlap.com
 .go2map.com
 .amap.com
 .ifengmap.com
@@ -4624,6 +4627,7 @@ time.izatcloud.net
 .lenovo.net
 .mafengwo.net
 .yfp2p.net
+.wahlap.net
 .iprdp.net
 .ipip.net
 .aotrip.net

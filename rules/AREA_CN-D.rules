@@ -3006,6 +3006,9 @@ DOMAIN-SUFFIX,bio4p.com
 DOMAIN-SUFFIX,pingcap.com
 DOMAIN-SUFFIX,frp-gap.com
 DOMAIN-SUFFIX,cdkeynogap.com
+DOMAIN-SUFFIX,tgk-wcaime.wahlap.com
+DOMAIN-SUFFIX,maimai.wahlap.com
+DOMAIN-SUFFIX,chunithm.wahlap.com
 DOMAIN-SUFFIX,go2map.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,ifengmap.com
@@ -4624,6 +4627,7 @@ DOMAIN-SUFFIX,douguo.net
 DOMAIN-SUFFIX,lenovo.net
 DOMAIN-SUFFIX,mafengwo.net
 DOMAIN-SUFFIX,yfp2p.net
+DOMAIN-SUFFIX,wahlap.net
 DOMAIN-SUFFIX,iprdp.net
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,aotrip.net
